@@ -60,8 +60,23 @@ nav#menu li {
     background-color: gray;
     padding: 10px;
     margin: 2px;
+    transition: background-color .25s;
+}
+
+nav#menu li:hover {
+    background-color: #606060;
 }
 
 nav#menu h1 {
     display: none;
+}
+
+nav#menu a {
+    color: black;
+    text-decoration: none;
+    transition: .25px;
+}
+
+nav#menu a:hover {
+    color: white
 }
