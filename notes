@@ -1,3 +1,5 @@
 target="_blank" para link abrir nova aba
 target="_self" para abrir na mesma aba
 change the way lists are displayed with tag "display"
+the margin order is top right bottom left
+padding is internal while padding is external

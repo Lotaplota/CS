@@ -4,14 +4,22 @@ body {
     background-color: whitesmoke;
 }
 
-p {
-    text-align: justify;
-    text-indent: 1cm;
+div#interface {
+    width: 900px;
+    background-color: aqua;
+    margin: -20px auto 10px auto;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
+    padding: 10px; /* not specifying values means they will all be equal */
 }
 
-h1 {
-    font-family: Georgia;
-    text-shadow: 3px 3px 10px;
+header#cabecalho img#icone {
+    position: absolute;
+    left: 750px;
+    top: 40px;
+}
+
+header#cabecalho {
+    
 }
 
 /* Formatação de imagens com legendas */
