@@ -9,13 +9,14 @@ body h2 {
     color: white;
     background-color: #4B196D;
     text-align: center;
-    border: ;
 }
 
 div#intro img{
-    align-items: center; /* FIX */
+    margin: auto; /* idk why do we have to do the two things */
+    display: grid;
     border: 6px solid white;
-    box-shadow: 2px 2px 4px;
+    border-radius: 50%; /*  */
+    box-shadow: 4px 4px 4px;
 }
 
 div#intro h1 {
