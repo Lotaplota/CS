@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(206, 233, 227);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body h2 {
+    color: white;
+    background-color: #4B196D;
+    text-align: center;
+    border: ;
+}
+
+div#intro img{
+    align-items: center; /* FIX */
+    border: 6px solid white;
+    box-shadow: 2px 2px 4px;
+}
+
+div#intro h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, .4);
+}
+
+div#tabelaProfissoes th{
+    background-color: #BBBBBB;
+}
+
+div#tabelaProfissoes td {
+    background-color: #DDDDDD;
+}
+
