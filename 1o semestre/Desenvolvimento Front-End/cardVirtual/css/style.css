@@ -1,5 +1,43 @@
 @charset "UTF-8";
 
-img.perfil-img {
+.perfil-img {
+    width: 300px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(105, 136, 21, 0.616);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.card {
+    background-color: antiquewhite;
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+    border: 4px dashed rgb(179, 162, 141);
+    border-radius: 25% 10%;
+    box-shadow: 4px 4px 10px rgba(0,0, 0, .5);
+}
+
+.nome {
+    color: rgb(102, 70, 9);
+    margin: 10px;
+    font-size: 30pt;
+}
+
+.botao {
     width: 100px;
+    height: 30px;
+    color:antiquewhite;
+    background-color: rgb(69, 112, 41);
+    border-color: rgb(179, 162, 141);
+    border-radius: 10px;
+}
+
+.botao:hover {
+    color: rgb(69, 112, 41);
+    background-color: antiquewhite;
 }
