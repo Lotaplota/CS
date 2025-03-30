@@ -11,15 +11,33 @@ body h2 {
     text-align: center;
 }
 
-div#intro img{
-    margin: auto; /* idk why do we have to do the two things */
-    display: grid;
+.intro-corpo {
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.intro-block {
+    display: inline-block;
+}
+
+.intro-data {
+    display: inline-block;
+}
+
+.intro-data p {
+    padding-inline: 10px;
+}
+
+.intro-img{
+    max-width: fit-content;
+    margin-right: 20px;
     border: 6px solid white;
-    border-radius: 50%; /*  */
+    border-radius: 50%;
     box-shadow: 4px 4px 4px;
 }
 
-div#intro h1 {
+div#bio h1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, .4);
 }
