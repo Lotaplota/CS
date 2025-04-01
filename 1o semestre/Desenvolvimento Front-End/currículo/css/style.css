@@ -5,6 +5,15 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14pt;
+}
+
+li {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
 body h2 {
     color: white;
     background-color: #4B196D;
@@ -19,14 +28,41 @@ body h2 {
 
 .intro-block {
     display: inline-block;
+    vertical-align: top;
 }
 
 .intro-data {
     display: inline-block;
+    vertical-align: top;
+    border-left: 25px solid #4B196D;    
 }
 
 .intro-data p {
-    padding-inline: 10px;
+    margin-inline: 6px;
+    margin-block: 2px;
+}
+
+.intro-data h2 {
+    margin-top: 0px;
+}
+
+.intro-data a {
+    background-color: aqua;
+    padding: 1px;
+    width: 40px;
+}
+
+.intro-data button {
+    height: max-content; /* TODO */
+    width: 70px;
+}
+
+nav#personal-links button {
+    background-color: rgb(153, 231, 221);
+}
+
+nav#personal-links img {
+    height: max-content; /* CONTINUE */
 }
 
 .intro-img{
