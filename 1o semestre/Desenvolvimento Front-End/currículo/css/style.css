@@ -20,6 +20,14 @@ body h2 {
     text-align: center;
 }
 
+.intro-img{
+    max-width: 200px;
+    margin-right: 20px;
+    border: 6px solid white;
+    border-radius: 50%;
+    box-shadow: 4px 4px 4px;
+}
+
 .intro-corpo {
     max-width: fit-content;
     margin-left: auto;
@@ -34,7 +42,8 @@ body h2 {
 .intro-data {
     display: inline-block;
     vertical-align: top;
-    border-left: 25px solid #4B196D;    
+    border-left: 40px solid #4B196D;
+    border-radius: 10px;  
 }
 
 .intro-data p {
@@ -83,12 +92,20 @@ nav#personal-links img {
     transition: filter .3s;
 }
 
-.intro-img{
-    max-width: 200px;
-    margin-right: 20px;
-    border: 6px solid white;
-    border-radius: 50%;
-    box-shadow: 4px 4px 4px;
+.section-block {
+    border-left: 40px solid #4B196D;
+    border-radius: 10px;
+    padding: 4px 4px 4px 0px;
+    padding-top: 0px;
+}
+
+.section-block h2 {
+    margin-top: 0px;
+    margin-bottom: 6px;
+}
+
+.section-block li {
+    padding-left: 10px;
 }
 
 div#bio h1 {
