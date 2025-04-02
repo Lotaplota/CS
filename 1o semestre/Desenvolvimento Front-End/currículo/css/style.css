@@ -43,30 +43,48 @@ body h2 {
 }
 
 .intro-data h2 {
-    margin-top: 0px;
+    margin-block: 0px;
 }
 
 .intro-data a {
-    background-color: aqua;
-    padding: 1px;
+    margin: 1px;
     width: 40px;
+    text-decoration: none;
 }
 
 .intro-data button {
+    border: none;
     height: max-content; /* TODO */
     width: 70px;
 }
 
+nav#personal-links {
+    padding: 0px;
+    width: 238px; /* I don't know how to make this dynamic */
+}
+
 nav#personal-links button {
-    background-color: rgb(153, 231, 221);
+    background-color: rgb(206, 233, 227);
+    border-right: solid 1px;
+    border-bottom: solid 1px;
+    height: 100px;
+    width: 80px;
+    margin-inline: -3px;
+    transition: filter .3s;
+}
+
+nav#personal-links button:hover {
+    filter: brightness(90%);
+    cursor: pointer;
 }
 
 nav#personal-links img {
-    height: max-content; /* CONTINUE */
+    height: 50px;
+    transition: filter .3s;
 }
 
 .intro-img{
-    max-width: fit-content;
+    max-width: 200px;
     margin-right: 20px;
     border: 6px solid white;
     border-radius: 50%;
