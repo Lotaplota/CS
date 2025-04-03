@@ -129,3 +129,53 @@ div#bio h1 {
     border: solid 1px #4B196D;
 }
 
+.fale-comigo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fale-comigo h3 {
+    background-color: #4B196D;
+    text-align: center;
+    width: 50%;
+}
+
+.main {
+    background-color: #4B196D;
+    width: 50%;
+    display: inline-block;
+}
+
+.title {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 16pt;
+    border-radius: 10px;
+}
+
+.lower-box {
+    display: flex;
+    background-color: #4B196D;
+    padding: 2px
+}
+
+.lower-box input {
+    
+}
+
+.buttons {
+    background-color: crimson;
+    width: 100%;
+}
+
+.options {
+    border: 1px solid yellow;
+    height: 60px; /* CONTINUE */
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
