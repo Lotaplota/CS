@@ -1,7 +1,17 @@
 @charset "UTF-8";
 
+:root {
+    --cor-primaria: #AED8E2;
+    --cor-primaria-desbotada: #CEE9E3;
+    --cor-gradiente: #30b191;
+    --primary-accent: #4B196D;
+    --primary-accent-faded: #AF93C2;
+    --popup-shadow: 2px 2px 2px rgba(0, 0, 0, .5);
+}
+
 body {
-    background-color: rgb(174, 216, 226);
+    height: 100vh; /* this seems to stretch the height until the end of the screen. idk about any repercussions tho... */
+    background: linear-gradient(var(--cor-primaria), var(--cor-gradiente));
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
@@ -15,14 +25,14 @@ li {
 }
 
 hr {
-    border-top: 1px dashed #4B196D;
-    border-bottom: 1px solid #4B196D;
+    border-top: 1px dashed var(--primary-accent);
+    border-bottom: 1px solid var(--primary-accent);
     height: 1px;
 }
 
 body h2 {
     color: white;
-    background-color: #4B196D;
+    background-color: var(--primary-accent);
     text-align: center;
 }
 
@@ -32,6 +42,10 @@ body h2 {
     border: 6px solid white;
     border-radius: 50%;
     box-shadow: 4px 4px 4px;
+}
+
+.intro-img:hover {
+    transform: scaleX(-1);
 }
 
 .intro-corpo {
@@ -46,9 +60,10 @@ body h2 {
 }
 
 .intro-data {
+    background: linear-gradient(to left, rgba(0, 0, 0, .2), rgba(0, 0, 0, .05));
     display: inline-block;
     vertical-align: top;
-    border-left: 40px solid #4B196D;
+    border-left: 40px solid var(--primary-accent);
     border-radius: 10px;  
 }
 
@@ -59,6 +74,7 @@ body h2 {
 
 .intro-data h2 {
     margin-block: 0px;
+    border-radius: 0px 10px 0px 0px;
 }
 
 .intro-data a {
@@ -69,7 +85,7 @@ body h2 {
 
 .intro-data button {
     border: none;
-    height: max-content; /* TODO */
+    height: max-content;
     width: 70px;
 }
 
@@ -79,7 +95,7 @@ nav#personal-links {
 }
 
 nav#personal-links button {
-    background-color: rgb(206, 233, 227);
+    background-color: var(--cor-primaria-desbotada);
     border-right: solid 1px;
     border-bottom: solid 1px;
     height: 100px;
@@ -91,6 +107,8 @@ nav#personal-links button {
 nav#personal-links button:hover {
     filter: brightness(90%);
     cursor: pointer;
+    transform: translateY(-2px);
+    box-shadow: var(--popup-shadow);
 }
 
 nav#personal-links img {
@@ -105,13 +123,14 @@ nav#personal-links img {
 }
 
 .section-block {
+    background: linear-gradient(to left, rgba(0, 0, 0, .2), rgba(0, 0, 0, .05));
     flex: 1;
     margin: 3px;
     min-width: 600px;
     max-width: 900px;
-    border-left: 40px solid #4B196D;
-    border-radius: 10px;
-    padding: 4px 4px 4px 0px;
+    border-left: 40px solid var(--primary-accent);
+    border-radius: 10px 10px 0px 10px;
+    padding: 4px 0px 4px 0px;
     padding-top: 0px;
     padding-bottom: 0px;
 }
@@ -119,6 +138,7 @@ nav#personal-links img {
 .section-block h2 {
     margin-top: 0px;
     margin-bottom: 0px;
+    border-radius: 0px 10px 0px 0px;
 }
 
 .section-block li {
@@ -203,7 +223,7 @@ div#bio h1 {
 }
 
 .lower-box textarea:focus {
-    outline-color: #af93c2;
+    outline-color: var(--primary-accent-faded);
 }
 
 /* Seção de botões */
@@ -220,15 +240,17 @@ div#bio h1 {
     display: block;
     height: 50%;
     background-color: #af93c2;
-    border: 1px solid #4B196D;
+    border: 2px solid #4B196D;
     border-radius: 4px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 16pt;
-    color: #4B196D
+    color: #4B196D;
+    transition: all .1s ease;
 }
 
 .buttons button:hover {
-    filter: brightness(90%)
+    filter: brightness(90%);
+    transform: translateX(6px);
 }
 
 /* Container para centralizar o formulário de contato */

@@ -18,6 +18,7 @@ body{
     font-family: var(--fonte-principal);
     justify-content: center;
     font-size: larger;
+    background-repeat: no-repeat;
 }
 
 body p {
