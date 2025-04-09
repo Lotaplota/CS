@@ -1,5 +1,10 @@
 @charset "UTF-8";
 
+@font-face {
+    font-family: CMU-Concrete;
+    src: url("../fonts/CMU-Concrete-Italic.ttf");
+}
+
 :root {
     --cor-primaria: #AED8E2;
     --cor-primaria-desbotada: #CEE9E3;
@@ -7,12 +12,13 @@
     --primary-accent: #4B196D;
     --primary-accent-faded: #AF93C2;
     --popup-shadow: 2px 2px 2px rgba(0, 0, 0, .5);
+    --header-font: CMU-Concrete;
 }
 
 body {
     height: 100vh; /* this seems to stretch the height until the end of the screen. idk about any repercussions tho... */
     background: linear-gradient(var(--cor-primaria), var(--cor-gradiente));
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /*font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;*/
 }
 
 p { /* I should revisit the cascading bit of the book */
@@ -31,6 +37,8 @@ hr {
 }
 
 body h2 {
+    font-family: CMU-Concrete;
+    font-size: 20px;
     color: white;
     background-color: var(--primary-accent);
     text-align: center;
@@ -174,12 +182,14 @@ div#bio h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: CMU-Concrete;
+    font-size: 100px;
 }
 
-.fale-comigo h3 {
-    background-color: #4B196D;
-    text-align: center;
-    width: 50%;
+.fale-comigo h2 {
+    margin: none;
+    padding: none;
+    height: 10px;
 }
 
 .main {
@@ -192,7 +202,7 @@ div#bio h1 {
 }
 
 /* Seção que contém o título do formulário */
-.title {
+.fale-comigo {
     color: white;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
