@@ -182,14 +182,11 @@ div#bio h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: CMU-Concrete;
-    font-size: 100px;
 }
 
 .fale-comigo h2 {
-    margin: none;
-    padding: none;
-    height: 10px;
+    margin: 0px;
+    padding: 0px;
 }
 
 .main {
