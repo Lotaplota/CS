@@ -42,7 +42,9 @@ header#cabecalho h1 {
 
 header#cabecalho h2 {
     font-family: "Titillium Web", sans-serif;
-    font-size: 15pt;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18pt;
     color: #888888;
     padding: 0px;
     margin-top: 0px;
@@ -113,4 +115,27 @@ nav#menu a {
 
 nav#menu a:hover {
     color: white
+}
+
+section#corpo {
+    display: block;
+    width: 520px;
+    float: left; /* também tem no aside#lateral */
+    border-right: 1px solid #606060;
+    padding-right: 15px;
+}
+
+aside#lateral {
+    display: block;
+    width: 350px;
+    float: right; /* também tem no section#corpo */
+}
+
+footer#rodape {
+    border-top: 1px solid #606060;
+    clear: both; /* isso limpa as configurações de float que estão no section e aside */
+}
+
+footer#rodape p {
+    text-align: center;
 }
