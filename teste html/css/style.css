@@ -1,0 +1,26 @@
+:root {
+    --background-color: #222222;
+    --main-color: #960923;
+    --secondary-color: #fffb21;
+    --accent-color: #11a0a0;
+}
+
+body {
+    background-color: var(--background-color);
+}
+
+.container {
+    display: flex;
+    justify-content: flex-end; /* CONTINUE */
+    flex-wrap: wrap;
+    
+}
+
+.item {
+    width: 100px;
+    padding: 4px;
+    border: 2px dashed;
+    margin: 4px;
+    background-color: var(--secondary-color);
+    border-color: var(--accent-color);
+}
