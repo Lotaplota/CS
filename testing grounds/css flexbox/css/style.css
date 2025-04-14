@@ -7,20 +7,25 @@
 
 body {
     background-color: var(--background-color);
+    margin: 2px; /* AID */
 }
 
 .container {
+    height: 200px;
+    border: 1px dashed white; /* AID */
     display: flex;
-    justify-content: flex-end; /* CONTINUE */
+    flex-direction: row;
+    justify-content: space-around;
     flex-wrap: wrap;
-    
+    align-content: stretch;
+    gap: 6px;
 }
 
 .item {
-    width: 100px;
+    font-size: 20pt;
+    font-weight: bold;
     padding: 4px;
-    border: 2px dashed;
-    margin: 4px;
+    border: 4px dashed;
     background-color: var(--secondary-color);
     border-color: var(--accent-color);
 }
