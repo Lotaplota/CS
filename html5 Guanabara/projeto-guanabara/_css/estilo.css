@@ -1,3 +1,6 @@
+:root {
+    --dark-color: #606060;
+}
 @charset "UTF-8";
 @font-face {
     font-family: "FonteLogo";
@@ -25,7 +28,7 @@ header#cabecalho img#icone {
 }
 
 header#cabecalho {
-    border-bottom: 1px solid #606060;
+    border-bottom: 1px solid var(--dark-color);
     height: 150px;
     background: url("../_imagens/glass-logo-peq.jpg") no-repeat 0px 80px;
 
@@ -34,7 +37,7 @@ header#cabecalho {
 header#cabecalho h1 {
     font-family: FonteLogo;
     font-size: 30pt;
-    color: #606060;
+    color: var(--dark-color);
     text-shadow: 1px 1px 1px rgba(0, 0, 0, .6);
     padding: 0px;
     margin-bottom: 0px;
@@ -100,7 +103,7 @@ nav#menu li {
 }
 
 nav#menu li:hover {
-    background-color: #606060;
+    background-color: var(--dark-color);
 }
 
 nav#menu h1 {
@@ -121,22 +124,47 @@ section#corpo {
     display: block;
     width: 520px;
     float: left; /* também tem no aside#lateral */
-    border-right: 1px solid #606060;
+    border-right: 1px solid var(--dark-color);
     padding-right: 15px;
 }
 
 table#tabelaSpec
 {
-    border: 1px solid #606060;
+    border: 1px solid var(--dark-color);
     border-spacing: 0px;
     margin-left: auto;
     margin-right: auto;
 }
 
 table#tabelaSpec td {
-    border: 1px dashed #606060;
+    border: 1px solid var(--dark-color);
     padding: 10px;
     vertical-align: top;
+}
+
+table#tabelaSpec td.ce {
+    color: white;
+    background-color: var(--dark-color);
+    vertical-align: top;
+    font-weight: bold;
+}
+
+table#tabelaSpec td.cd {
+    background-color: #cecece;
+}
+
+table#tabelaSpec caption {
+    color: #888888;
+    font-size: 12pt;
+    font-weight: bolder;
+}
+
+table#tabelaSpec caption span {
+    display: block;
+    float: right;
+    color: black;
+    font-size: 8pt;
+    margin-top: 10px;
 }
 
 aside#lateral {
@@ -146,7 +174,7 @@ aside#lateral {
 }
 
 footer#rodape {
-    border-top: 1px solid #606060;
+    border-top: 1px solid var(--dark-color);
     clear: both; /* isso limpa as configurações de float que estão no section e aside */
 }
 
