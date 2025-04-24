@@ -1,6 +1,8 @@
 :root {
-    --dark-color: #606060;
+    --dark-grey: #606060;
+    --light-grey: #dddddd;
 }
+
 @charset "UTF-8";
 @font-face {
     font-family: "FonteLogo";
@@ -10,7 +12,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
 
 body {
+    font-family: Arial, Helvetica, sans-serif;
     background-color: whitesmoke;
+    color: black;
 }
 
 div#interface {
@@ -21,6 +25,21 @@ div#interface {
     padding: 10px; /* not specifying values means they will all be equal */
 }
 
+p {
+    text-align: justify;
+    text-indent: 50px;
+}
+
+a {
+    font-weight: bold;
+    color: var(--dark-grey);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 header#cabecalho img#icone {
     position: absolute;
     right: 100px; /* idk it just felt better */
@@ -28,7 +47,7 @@ header#cabecalho img#icone {
 }
 
 header#cabecalho {
-    border-bottom: 1px solid var(--dark-color);
+    border-bottom: 1px solid var(--dark-grey);
     height: 150px;
     background: url("../_imagens/glass-logo-peq.jpg") no-repeat 0px 80px;
 
@@ -37,7 +56,7 @@ header#cabecalho {
 header#cabecalho h1 {
     font-family: FonteLogo;
     font-size: 30pt;
-    color: var(--dark-color);
+    color: var(--dark-grey);
     text-shadow: 1px 1px 1px rgba(0, 0, 0, .6);
     padding: 0px;
     margin-bottom: 0px;
@@ -48,7 +67,7 @@ header#cabecalho h2 {
     font-weight: 400;
     font-style: normal;
     font-size: 18pt;
-    color: #888888;
+    color: var(--light-grey);
     padding: 0px;
     margin-top: 0px;
 }
@@ -103,7 +122,7 @@ nav#menu li {
 }
 
 nav#menu li:hover {
-    background-color: var(--dark-color);
+    background-color: var(--dark-grey);
 }
 
 nav#menu h1 {
@@ -122,29 +141,62 @@ nav#menu a:hover {
 
 section#corpo {
     display: block;
-    width: 520px;
+    width: 500px;
     float: left; /* também tem no aside#lateral */
-    border-right: 1px solid var(--dark-color);
+    border-right: 1px solid var(--dark-grey);
     padding-right: 15px;
+}
+
+article#noticia-principal h2 {
+    font-size: 12pt;
+    color: var(--dark-grey);
+    background-color: var(--light-grey);
+    /* background-color: aqua; */
+    padding: 5px 0px;
+    margin: 10px;
+}
+
+header#cabecalho-artigo h1{
+    font-family: 'FonteLogo', sans-serif;
+    font-size: 20pt;
+    color: var(--dark-grey);
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+header#cabecalho-artigo h2{
+    font-size: 13pt;
+    color: var(--light-grey);
+    background-color: white;
+    margin: 0px;
+}
+
+header#cabecalho-artigo h3{
+    font-size: 10pt;
+    color: var(--dark-grey);
+}
+
+.direita {
+    text-align: end;
 }
 
 table#tabelaSpec
 {
-    border: 1px solid var(--dark-color);
+    border: 1px solid var(--dark-grey);
     border-spacing: 0px;
     margin-left: auto;
     margin-right: auto;
 }
 
 table#tabelaSpec td {
-    border: 1px solid var(--dark-color);
+    border: 1px solid var(--dark-grey);
     padding: 10px;
     vertical-align: top;
 }
 
 table#tabelaSpec td.ce {
     color: white;
-    background-color: var(--dark-color);
+    background-color: var(--dark-grey);
     vertical-align: top;
     font-weight: bold;
 }
@@ -154,7 +206,7 @@ table#tabelaSpec td.cd {
 }
 
 table#tabelaSpec caption {
-    color: #888888;
+    color: var(--light-grey);
     font-size: 12pt;
     font-weight: bolder;
 }
@@ -171,10 +223,27 @@ aside#lateral {
     display: block;
     width: 350px;
     float: right; /* também tem no section#corpo */
+    background-color: var(--light-grey);
+    padding: 10px;
+    margin-top: 10px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, .5);
+}
+
+aside#lateral h1 {
+    font-family: 'FonteLogo', sans-serif;
+    font-size: 20pt;
+    color: var(--dark-grey);
+}
+
+aside#lateral h2 {
+    background-color: var(--dark-grey);
+    font-size: 13pt;
+    color: white;
+    padding: 5px;
 }
 
 footer#rodape {
-    border-top: 1px solid var(--dark-color);
+    border-top: 1px solid var(--dark-grey);
     clear: both; /* isso limpa as configurações de float que estão no section e aside */
 }
 
