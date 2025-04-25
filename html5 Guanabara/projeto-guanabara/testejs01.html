@@ -4,11 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Teste JavaScript</title>
+    <script>
+        function acendeLampada()
+        {
+            document.getElementById("luz").src = "_imagens/lampada-acesa.jpg";
+        }
+        function apagaLampada()
+        {
+            document.getElementById("luz").src = "_imagens/lampada-apagada.jpg";
+        }
+        function quebraLampada()
+        {
+            document.getElementById("luz").src = "_imagens/lampada-quebrada.jpg";
+        }
+    </script>
 </head>
 <body>
-    <h1>testando javascript</h1>
-    <script>
-        document.write("Olá, mundo! Hoje é dia " + Date());
-    </script>
+    <h1>Acenda a lâmpada</h1>
+    <img src="_imagens/lampada-apagada.jpg" id="luz" alt="Lâmpada apagada" onclick="quebraLampada()" onmousemove="acendeLampada()" onmouseout="apagaLampada()">
 </body>
 </html>
