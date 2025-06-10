@@ -6,4 +6,4 @@
 [Emmet Documentation](https://docs.emmet.io/abbreviations/) for using Emmet
 
 ## Inspiration
-[Portfolios]() of other developers
+[Portfolios](https://github.com/emmabostian/developer-portfolios/) of other developers
