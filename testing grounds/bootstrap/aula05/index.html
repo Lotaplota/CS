@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <title>Contêineres</title>
+</head>
+
+<body>
+    <div class="container-lg bg-info">
+        <h1>Contêineres</h1>
+        <hr>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt libero odio, odit voluptas alias sint totam, aliquid perferendis facilis accusantium nihil! Adipisci voluptate quos ex fugiat nihil laudantium molestias ab.
+        </p>
+    </div>
+
+    <div class="container-fluid">
+        <h3>Notes</h3>
+        <p>here's some infixes' values</p>
+        <div id="rendered-markdown">Loading markdown...</div>
+    </div>
+
+    <h3><a href="../index.html">Voltar ao Início</a></h3>
+
+</body>
+<script>
+      fetch('infixes-values.md')
+        .then(response => response.text())
+        .then(md => {document.getElementById('rendered-markdown').innerHTML = marked.parse(md);});
+</script>
+</html>

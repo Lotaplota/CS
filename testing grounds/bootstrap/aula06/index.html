@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <title>Sistema de Leiaute em Grid</title>
+    <style>
+        .h400 {
+            height: 400px;
+        }
+
+        .h100 {
+            height: 100px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 bg-dark bg-opacity-50 h100"></div>
+            <div class="col-12 col-sm-3 col-md-9 bg-dark bg-opacity-75 h400"></div>
+            <div class="col-12 col-sm-9 col-md-3 bg-dark bg-opacity-25 h400"></div>
+            <div class="col-12 bg-dark bg-opacity-50 h100"></div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <h3>Notes</h3>
+        <p>the colums will default to 12 in each row</p>
+        <p>you could opt to make your columns sum to 12 to fill an entire row</p>
+        <p>you can add classes like <span class="code">col-sm-3</span> to force different arrangements for different widths</p>
+    </div>
+
+    <h3><a href="../index.html">Voltar ao Início</a></h3>
+</body>
+</html>

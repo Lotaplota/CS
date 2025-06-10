@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <script src="../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" defer></script>
+    <style>
+        .row {
+            height: 200px;
+            background-color: aliceblue;
+        }
+        .col-3 {
+            background-color: antiquewhite;
+            padding: 20px;
+            border: solid 1px black;
+        }
+    </style>
+    <title>Formatação de Colunas</title>
+</head>
+
+<body>
+    <h1>Formatação de Colunas</h1>
+    <hr>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-3 order-2">Coluna 1</div>
+            <div class="col-3 order-1 ms-auto">Coluna 2</div>
+            <div class="col-3 order-0">Coluna 3</div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <h3>Notes</h3>
+        <p>a tag <code>defer</code> indica que o arquivo de script será carregado apenas depois do carregamento dos outros elementos na página, equivale a colocar a tag script no final da página</p>
+        <p>I used <code>&ltdiv class="row align-items-xxl-center"&gt</code> to center vertically the items in the row when the page reaches the xxl breakpoint and <code>&ltdiv class="row justify-content-center"&gt</code> to center the columns</p>
+        <p>useful variations of <code>&ltdiv class="row justify-content-[variations]"&gt</code> other than <code>start</code>, <code>end</code>, and <code>center</code> are <code>between</code>, <code>around</code>, and <code>evenly</code></p>
+        <p>I used the attribute <code>offset-1</code></p>
+        <p>I used the attribute <code>ms-auto</code> and <code>mx-auto</code></p>
+        <p>I think ms, me, mx, my are margin-start, margin-end, the horizontal margin, and the vertical margin</p>
+    </div>
+
+    <h3><a href="../index.html">Voltar ao Início</a></h3>
+</body>
+</html>
