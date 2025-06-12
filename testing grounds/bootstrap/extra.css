@@ -1,3 +1,20 @@
+.note-section code {
+    background-color: rgba(220, 53, 69, .25);
+    padding: 2px;
+    border-radius: 4px;
+}
+
+.note-section p {
+    padding: 0px 0px 2px 0px;
+    margin: 0px;
+}
+
 .note-section p::before {
     content: "• ";
+}
+
+/* A level 2 note. */
+/* Still don't know how to get rid of the ::before though... */
+p.l-2 {
+    text-indent: 1rem;
 }

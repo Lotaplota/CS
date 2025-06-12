@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="../extra.css">
+    <script src="../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" defer></script>
+    <title>Bordas e Sombras</title>
+</head>
+
+<body>
+    <!-- Seção do título -->
+    <h1>Bordas e Sombras</h1>
+    <hr>
+
+    <div class="container p-5">
+        <div class="col-4 mx-auto p-5 bg-success border border-dark border-3 border-opacity-50 rounded-start-4 rounded-5">
+        </div>
+    </div>
+    <hr>
+
+    <div class="container p-5">
+        <div class="col-4 mx-auto p-5 bg-danger shadow-lg rounded-pill"></div>
+    </div>
+    <hr>
+    
+    <!-- Seção das notas -->
+    <div class="note-section container-fluid bg-info-subtle">
+        <h3>Notes</h3>
+        <p>To make an element have a border, add the <code>border</code> attribute. The border's parameters should be in other attributes.</p>
+        <p>The <code>border</code> attribute can be changed to <code>border-bottom</code> and vice versa to alter how the border is applied.</p>
+        <p>you only have <code>shadow-sm</code> and <code>shadow-lg</code> available, for some reason.</p>
+        <p><code>rounded-pill</code> and <code>rounded-circle</code> are available as some other rounding presets, with some variations possible, like <code>rounded-end-pill</code>.</p>
+        <p><code>rounded-circle</code> will make an ellipse if the element is a rectangle instead of a square.</p>
+    </div>
+
+    <h3><a href="../">Voltar ao Início</a></h3>
+</body>
+</html>

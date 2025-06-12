@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="../extra.css">
+    <script src="../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" defer></script>
+    <title>Visibilidade</title>
+    <style>
+        div.border {
+            height: 150px;
+        }
+    </style>
+</head>
+
+<img>
+    <!-- Seção do título -->
+    <h1>Visibilidade</h1>
+    <hr>
+
+    <div class="p-5 bg-danger"></div>
+    <div class="container d-flex">
+        <div class="container">
+            <div class="p-4 col-3 d-block m-3 bg-primary"></div>
+            <div class="p-4 col-3 d-block m-3 bg-success"></div>
+            <div class="p-4 col-3 d-block m-3 bg-warning"></div>
+        </div>
+        <div class="container">
+            <div class="p-4 col-3 d-inline m-3 bg-primary"></div>
+            <div class="p-4 col-3 d-inline m-3 bg-success"></div>
+            <div class="p-4 col-3 d-inline m-3 bg-warning"></div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="p-4 col-3 d-inline-block m-3 bg-primary"></div>
+        <div class="p-4 col-3 d-inline-block m-3 bg-success"></div>
+        <div class="p-4 col-3 d-inline-block m-3 bg-warning"></div>
+    </div>
+    <hr>
+
+    <div class="p-4 col-3 d-none d-sm-block m-3 bg-primary text-center fs-1">Hello, world!</div>
+    <div class="p-4 col-3 d-block m-3 bg-success">the div above will only show up in the <em>sm</em> breakpoint</div>
+    <div class="p-4 col-3 d-none d-xxl-block m-3 bg-warning text-center"><caption><em>I WAS HIDING HEEHEEHAHAHA</em></caption><img src="twitch.png" alt="Was hiding" class="img-fluid"></div>
+    <hr>
+
+    <header class="p-3 text-bg-dark">
+        <div class="container">
+            <h1 class="display-1 d-print-none">Cabeçalho</h1>
+        </div>
+    </header>
+    <article class="container my-3">
+        <h1 class="mb-4">Título do Artigo</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas consequatur neque, voluptates tenetur molestias, esse nulla eius recusandae expedita dolorum velit odio veniam nam. Alias dicta eum minima eius eveniet.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas consequatur neque, voluptates tenetur molestias, esse nulla eius recusandae expedita dolorum velit odio veniam nam. Alias dicta eum minima eius eveniet.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas consequatur neque, voluptates tenetur molestias, esse nulla eius recusandae expedita dolorum velit odio veniam nam. Alias dicta eum minima eius eveniet.</p>
+        <p class="text-end d-none d-print-block">Fonte: meusite.com.br</p>
+    </article>
+    <hr>
+
+    <div class="p-4 col-3 m-3 bg-primary">The container below me is green, I swear.</div>
+    <div class="p-0 col-3 m-3 bg-success invisible fs-6 text-center fw-bold">You should've trusted them.</div>
+    <div class="p-4 col-3 m-3 bg-warning">The container above me is green, I swear!</div>
+    <hr>
+
+    <div class="container bg-info mt-3">
+        <div class="row">
+            <div class="border p-2 col-3 overflow-auto">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias facere itaque dolores eveniet nemo! Hic quisquam repudiandae molestiae, similique sequi debitis beatae impedit facilis accusamus quo. Molestiae voluptates sit voluptatem.</div>
+            <div class="border p-2 col-3 overflow-hidden">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias facere itaque dolores eveniet nemo! Hic quisquam repudiandae molestiae, similique sequi debitis beatae impedit facilis accusamus quo. Molestiae voluptates sit voluptatem.</div>
+            <div class="border p-2 col-3 overflow-visible">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias facere itaque dolores eveniet nemo! Hic quisquam repudiandae molestiae, similique sequi debitis beatae impedit facilis accusamus quo. Molestiae voluptates sit voluptatem.</div>
+            <div class="border p-2 col-3 overflow-scroll">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias facere itaque dolores eveniet nemo! Hic quisquam repudiandae molestiae, similique sequi debitis beatae impedit facilis accusamus quo. Molestiae voluptates sit voluptatem.</div>
+        </div>
+    </div>
+    <hr>
+
+    <!-- Seção das notas -->
+    <div class="note-section container-fluid bg-info-subtle">
+        <h3>Notes</h3>
+        <p>For more information, watch <a href="https://www.youtube.com/watch?v=Wsi9neHK3_k" class="text-reset">aula 15 do curso de HTML e CSS</a> from <em>Ricardo Maroquio</em>.</p>
+        <p><code>d-print-none</code> pode ser utilizado para evitar que um elemento apareça na página de impressão.</p>
+        <p class="l-2">Alternatively, <code>d-print</code> and it's variations allow the element to be shown only on printing.</p>
+        <p>The attributes <code>visible</code> and <code>invisible</code> control the visibility of an element, but maintain their space, unlike <code>d-none</code>.</p>
+    </div>
+
+    <h3><a href="../">Voltar ao Início</a></h3>
+</body>
+</html>
