@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="../extra.css">
+    <script src="../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" defer></script>
+    <title>Formulários</title>
+</head>
+
+<img>
+    <!-- Seção do título -->
+    <h1>Formulários</h1>
+    <hr>
+
+    <div class="container">
+        <form>
+            <div class="mb-3">
+                <label for="email" class="form-label">E-mail</label>
+                <input type="email" id="email" placeholder="Insira o seu e-mail" class="form-control">
+                <div class="form-text">Nunca compartilharemos seu e-mail com terceiros.</div>
+            </div>
+            <div class="mb-3">
+                <label for="senha" class="form-label">Senha</label>
+                <input type="text" id="senha" disabled placeholder="Insira o seu e-mail primeiro!" class="form-control">
+            </div>
+            <div class="mb-3">
+                <input type="checkbox" id="lembrar" class="form-check-input">
+                <label for="lembrar" class="form-check-label">Lembrar de mim</label>
+            </div>
+            <button type="submit" class="btn btn-success">Entrar</button>
+        </form>
+    </div>
+    <hr>
+
+    <div class="container">
+        <form>
+            <div class="mb-3">
+                <label for="email" class="form-label">E-mail</label>
+                <input type="email" id="email" placeholder="Insira o seu e-mail" class="form-control-lg">
+                <div class="form-text">Nunca compartilharemos seu e-mail com terceiros.</div>
+            </div>
+            <div class="mb-3">
+                <label for="senha" class="form-label">Senha</label>
+                <input type="text" id="senha" disabled placeholder="Insira o seu e-mail primeiro!" class="form-control-sm">
+            </div>
+            <div class="mb-3">
+                <input type="checkbox" id="lembrar" class="form-check-input">
+                <label for="lembrar" class="form-check-label">Lembrar de mim</label>
+            </div>
+            <button type="submit" class="btn btn-success">Entrar</button>
+        </form>
+    </div>
+    <hr>
+
+    <div class="container">
+        <form>
+            <div class="d-flex">
+                <label for="trocadilho" class="form-label overflow- overflow-visible">He-man vence o mal, pega no meu </label>
+                <input type="text" id="trocadilho" disabled placeholder="pau!" class="form-control-plaintext w-auto"> !
+            </div>
+            <button class="btn btn-danger">eita poha</button>
+        </form>
+    </div>
+    <hr>
+
+    <div class="container">
+        <input type="file" id="arquivo" class="form-control">
+        <input type="color" id="cor" class="form-control">
+        <hr>
+
+        <div class="mb-3">
+            <label for="" class="form-label">Região Administrativa</label>
+            <input type="text" class="form-control" placeholder="Digite para buscar..." list="RAs">
+            <datalist id="RAs">
+                <option value="Taguatinga"></option>
+                <option value="Samambaia"></option>
+                <option value="Águas Claras"></option>
+                <option value="Vicente Pires"></option>
+                <option value="Jardim Botânico"></option>
+                <option value="Ceilândia"></option>
+                <option value="Brazlândia"></option>
+                <option value="Octogonal"></option>
+                <option value="Brasília"></option>
+                <option value="Park Way"></option>
+            </datalist>
+        </div>
+    </div>
+    <hr>
+    <!-- Seção das notas -->
+    <div class="note-section container-fluid bg-info-subtle">
+        <h3>Notes</h3>
+        <p>The <code>&ltlabel&gt</code> tag seems to display inline.</p>
+        <p>To do the pretty form thing, the <code>&ltlabel&gt</code> should be of class <code>form-label</code>, and the <code>&ltinput&gt</code> should be of class <code>form-control</code>.</p>
+        <p>The <code>disabled</code> and <code>readonly</code> attributes unable the user to type in the form.</p>
+        <p>Using <code>readonly</code> alongside <code>value="$value"</code> allows the user to select and copy the <em>$value</em>.</p>
+        <p><code>form-control-sm</code> and <code>form-control-lg</code> change the form's size.</p>
+        <p><code>plaintext</code> makes the form borders disappear.</p>
+        <p>An <code>&ltinput&gt</code>'s <code>list</code> attribute should be the id of a <code>&ltdatalist id="list-id"&gt&lt/datalist&gt</code> declared somewhere.</p>
+    </div>
+    
+    <h3><a href="../">Voltar ao Início</a></h3>
+</body>
+</html>
