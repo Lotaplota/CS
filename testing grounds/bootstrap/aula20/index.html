@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="../extra.css">
+    <script src="../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" defer></script>
+    <title>Campos de Checagem</title>
+</head>
+
+<body>
+    <!-- Seção do título -->
+    <h1>Campos de Checagem</h1>
+    <hr>
+
+    <div class="container p-5">
+        <div class="mb-3 form-check">
+            <input type="checkbox" id="novo" class="form-check-input">
+            <label for="novo" class="form-check-label">Produto Novo</label>
+        </div>
+        <hr>
+
+        <div class="mb-3 form-check form-check">
+            <input type="radio" id="novo" name="estado-civil" value="s" class="form-check-input">
+            <label for="novo" class="form-check-label">Solteiro</label>
+        </div>
+        <div class="mb-3 form-check form-check">
+            <input type="radio" id="novo" name="estado-civil" value="c" class="form-check-input">
+            <label for="novo" class="form-check-label">Casado</label>
+        </div>
+
+        <div class="mb-3 form-check form-check-inline">
+            <input type="radio" id="novo" name="estado-de-uso" value="n" class="form-check-input">
+            <label for="novo" class="form-check-label">Produto Novo</label>
+        </div>
+        <div class="mb-3 form-check form-check-inline">
+            <input type="radio" id="novo" name="estado-de-uso" value="u" class="form-check-input">
+            <label for="novo" class="form-check-label">Produto Usado</label>
+        </div>
+
+        <div class="mb-3 form-check form-check-reverse">
+            <input type="radio" id="gato" name="genero" value="m" class="form-check-input">
+            <label for="novo" class="form-check-label">Macho</label>
+        </div>
+        <div class="mb-3 form-check form-check-reverse">
+            <input type="radio" id="gato" name="genero" value="f" class="form-check-input">
+            <label for="novo" class="form-check-label">Fêmea</label>
+        </div>
+        <hr>
+
+        <div class="mb-3 form-switch">
+            <input type="checkbox" id="novo" class="form-check-input">
+            <label for="novo" class="form-check-label">Produto Usado</label>
+        </div>
+        <hr>
+
+        <div class="container d-flex gap-2">
+            <div class="mb-3">
+                <input type="checkbox" name="incluirHashis" id="hashis" class="btn-check">
+                <label for="hashis" class="btn btn-outline-success">Incluir hashis</label>
+            </div>
+            <div class="mb-3">
+                <input type="checkbox" name="incluirCondimentos" id="condimentos" class="btn-check">
+                <label for="condimentos" class="btn btn-outline-success">Incluir condimentos</label>
+            </div>
+        </div>
+
+        <div class="container d-flex gap-2">
+            <div class="mb-3">
+                <input type="radio" name="tipoEntrega" id="entregaRapida" class="btn-check">
+                <label for="entregaRapida" class="btn btn-outline-primary">Entrega Rápida</label>
+            </div>
+            <div class="mb-3">
+                <input type="radio" name="tipoEntrega" id="entregaLenta" class="btn-check">
+                <label for="entregaLenta" class="btn btn-outline-danger">Entrega Normal
+                </label>
+            </div>
+        </div>
+    </div>
+    <hr>
+        
+    
+    <!-- Seção das notas -->
+    <div class="note-section container-fluid bg-info-subtle">
+        <h3>Notes</h3>
+        <p>On the <code>radio</code> version of the <code>&ltinput&gt</code> tag, if two inputs have the same <code>name="$name"</code> attribute, they will be mutually exclusive.</p>
+        <p><em>Radio inputs</em> will pass on the value in their <code>value="$value"</code> attribute.</p>
+        <p><code>form-check-inline</code> can make your options be displayed <em>inline</em>, but all the options have to have the attribute.</p>
+        <p>The <code>for</code> attribute in the <em>labels</em> are supposed to link to the <code>id</code>s of items</p>
+        <p>When making buttons using the <code>&ltinput class="btn-check"&gt</code> method, keep in mind that the label will mark the <em>input</em> that has the <em>id</em> included in the label's <code>for="$id"</code> attribute.</p>
+        <p class="l-2">Yeah, I know that's confusing.</p>
+    </div>
+    
+    <h3><a href="../">Voltar ao Início</a></h3>
+</body>
+</html>
