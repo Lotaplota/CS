@@ -7,12 +7,12 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="../extra.css">
     <script src="../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" defer></script>
-    <title>Leiautes de Formulários</title>
+    <title>Validação de Formulários</title>
 </head>
 
 <body>
     <!-- Seção do título -->
-    <h1>Leiautes de Formulários</h1>
+    <h1>Validação de Formulários</h1>
     <hr>
 
     <div class="container p-5">
@@ -23,6 +23,7 @@
                 <div class="col-7">
                     <label for="logradouro" class="form-label">Logradouro</label>
                     <input type="text" class="form-control" id="logradouro" required>
+                    <div class="invalid-feedback">Você deve informar o logradouro.</div>
                 </div>
                 <div class="col-2">
                     <label for="numero" class="form-label">Número</label>
@@ -67,6 +68,9 @@
         <p>To enable Bootstrap's form validation mechanism, the <code>&ltform&gt</code>'s attributes should have <code>class="needs-validation"</code> and <code>novalidade</code></p>
         <p class="l-2">While <code>novalidade</code> disables the form's validation, the <code>class="needs-validation"</code> activates Bootstrap's.</p>
         <p>"When a <code>&ltbutton&gt</button></code> is inside a <code>&ltform&gt</form></code> and it doesn't specify a type, its default type is submit." <cite>- ChatGPT</cite></p>
+        <p>You can add a <code>&ltdiv class="invalid-feedback"&gt</code> to the parent of the input field to show to the user as feedback about the correct usage.</p>
+        <p class="l-2">Similarly, you can also use <code>valid-feedback</code>. Not really useful though.</p>
+        <p>Attributes like <code>is-valid</code> and <code>is-invalid</code> can be used to bypass client-side validation.</p>
     </div>
     
     <h3><a href="../">Voltar ao Início</a></h3>
