@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="../extra.css">
+    <script src="../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" defer></script>
+    <script src="aula30.js" defer></script>
+    <title>Mensagens Flutuantes</title>
+</head>
+
+<body>
+    <!-- Seção do título -->
+    <h1>Mensagens Flutuantes</h1>
+    <hr>
+
+    <div class="container">
+        <button class="btn btn-primary" id="btnToast" data-bs-toggle="tooltip" data-bs-title="Este botão cria um novo <em>toast</em>." data-bs-html="true">Criar Toast</button>
+        <button class="btn btn-sm btn-outline-secondary" data-bs-toggle="popover" data-bs-title="Informação" data-bs-content="Isso é uma popover.">
+            <i class="bi-info-circle-fill"></i>
+        </button>
+
+        <div class="toast-container top-0 end-0 pt-1 pe-1" id="toastContainer">
+        </div>
+
+        <div class="container d-flex">
+            <div class="toast" id="toast">
+                <div class="toast-header">
+                    <i class="bi-info-circle me-1"></i>
+                    <strong class="me-auto">Informação</strong>
+                    <button class="btn-close ms-auto" data-bs-dismiss="toast"></button>
+                </div>
+                <div class="toast-body">O botão acima cria <em>toasts</em>. Use-o cautelosamente.</div>
+            </div>
+            
+            <div class="toast text-bg-info" data-bs-delay="20000">
+                <div class="toast-body">
+                    Vou ficar um tempinho se você não clicar pra me ignorar!
+                    <div class="mt-2 pt-2 border-top text-end">
+                        <button class="btn btn-secondary btn-sm" data-bs-dismiss="toast">Ignorar</button>
+                        <button class="btn btn-primary btn-sm">Tudo bem...</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr>
+    
+    <!-- Seção das notas -->
+    <div class="note-section container-fluid bg-info-subtle">
+        <h3>Notes</h3>
+        <p>For some reason the toasts are only showing up when I add de class attribute <code>show</code>, and I think because of that, <code>data-bs-delay="1000"</code> is not making the toast disappear</p>
+        <p>This page needs the <code>aula30.js</code> file to work. I should give that a look.</p>
+        <p>The <em>tooltip</em> needs the <code>const tooltipTriggerList = ...</code> script to work.</p>
+        <p><code>data-bs-html="true"</code> enables html code in the <code>data-bs-title</code> attribute's parameter.</p>
+        <p><code>data-bs-placement="top"</code> should make the tooltip appear at the top of the element, but it didn't work in the class, nor does it here.</p>
+    </div>
+    
+    <h3><a href="../">Voltar ao Início</a></h3>
+</body>
+</html>
