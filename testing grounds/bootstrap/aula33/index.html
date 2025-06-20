@@ -16,12 +16,75 @@
     <hr>
 
     <!-- Conteúdo da aula -->
-    
+    <div class="container my-3">
+        <div class="row">
+            <!-- Accordion normal -->
+            <div class="accordion col" id="acc">
+                <div class="accordion-item">
+                    <div class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#item1">Região 1</button>
+                    </div>
+                    <div class="accordion-collapse collapse show" id="item1" data-bs-parent="#acc">
+                        <div class="accordion-body">Esse é o primeiro accordion. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel, aspernatur veritatis molestias nihil accusantium quo? Impedit unde hic voluptatibus labore!</div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <div class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#item2">Região 2</button>
+                    </div>
+                    <div class="accordion-collapse collapse" id="item2" data-bs-parent="#acc">
+                        <div class="accordion-body">Esse é o segundo accordion. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto at recusandae earum, natus totam molestiae tenetur corporis. Vero, impedit culpa!</div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <div class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#item3">Região 3</button>
+                    </div>
+                    <div class="accordion-collapse collapse" id="item3" data-bs-parent="#acc">
+                        <div class="accordion-body">Esse é o terceiro accordion. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit hic perspiciatis iste, vero fugit ullam odio quod sit et consequuntur!</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Accordion em modo flush com todos os items colapsados -->
+            <div class="accordion accordion-flush col" id="accFlush">
+                <div class="accordion-item">
+                    <div class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#itemFlush1">Região 1</button>
+                    </div>
+                    <div class="accordion-collapse collapse show" id="itemFlush1" data-bs-parent="#accFlush">
+                        <div class="accordion-body">Esse é o primeiro accordion. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel, aspernatur veritatis molestias nihil accusantium quo? Impedit unde hic voluptatibus labore!</div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <div class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#itemFlush2">Região 2</button>
+                    </div>
+                    <div class="accordion-collapse collapse" id="itemFlush2" data-bs-parent="#accFlush">
+                        <div class="accordion-body">Esse é o segundo accordion. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto at recusandae earum, natus totam molestiae tenetur corporis. Vero, impedit culpa!</div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <div class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#itemFlush3">Região 3</button>
+                    </div>
+                    <div class="accordion-collapse collapse" id="itemFlush3" data-bs-parent="#accFlush">
+                        <div class="accordion-body">Esse é o terceiro accordion. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit hic perspiciatis iste, vero fugit ullam odio quod sit et consequuntur!</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+    </div>
     
     <!-- Seção das notas -->
     <div class="note-section container-fluid bg-info-subtle">
         <h3>Notes</h3>
-        <p>No notes :^]</p>
+        <p>It's useful to be reminded that the ids referenced in the <code>data-bs-target</code>s should be preceeded by the <code>#</code>.</p>
+        <p>Accordions will behave weirdly if you don't add the <code>collapse show</code> bit to the class' parameters.</p>
+        <p>The buttons of collapsed items should be marked as <code>collapsed</code> to prevent them from looking active.</p>
+        <p>Add an id to the parent accordion and link all it's items via <code>data-bs-parent="#id"</code> to make the expansions exclusive.</p>
     </div>
     
     <h3><a href="../">Voltar ao Início</a></h3>

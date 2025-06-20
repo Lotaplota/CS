@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="../extra.css">
+    <script src="../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" defer></script>
+    <title>Navs e Tabs</title>
+</head>
+
+<body>
+    <!-- Seção do título -->
+    <h1>Navs e Tabs</h1>
+    <hr>
+
+    <!-- Conteúdo da aula -->
+    <div class="container my-5">
+        <h1>Componente Nav</h1>
+
+        <!-- Duas maneiras de fazer a mesma nav -->
+        <div class="d-flex">
+            <ul class="nav">
+                <li class="nav-item">
+                    <a href="#1" class="nav-link active">Ativo</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#2" class="nav-link">Link 2</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#3" class="nav-link">Link 3</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#4" class="nav-link disabled">Desativo</a>
+                </li>
+            </ul>
+
+            <i class="bi-arrow-left-right align-self-center"></i>
+
+            <nav class="nav">
+                <a href="#1" class="nav-link active" href-="">Ativo</a>
+                <a href="#2" class="nav-link" href-="">Link 2</a>
+                <a href="#3" class="nav-link" href-="">Link 3</a>
+                <a href="#4" class="nav-link disabled" href-="">Desativo</a>
+            </nav>
+        </div>
+        <hr>
+
+        <nav class="nav nav-tabs">
+            <a href="#1" class="nav-link active" href-="">Ativo</a>
+            <a href="#2" class="nav-link" href-="">Link 2</a>
+            <a href="#3" class="nav-link" href-="">Link 3</a>
+            <a href="#4" class="nav-link disabled" href-="">Desativo</a>
+        </nav>
+
+        <nav class="nav nav-pills justify-content-center">
+            <a href="#1" class="nav-link active" href-="">Ativo</a>
+            <a href="#2" class="nav-link" href-="">Link 2</a>
+            <a href="#3" class="nav-link" href-="">Link 3</a>
+            <a href="#4" class="nav-link disabled" href-="">Desativo</a>
+        </nav>
+
+        <nav class="nav nav-underline justify-content-end">
+            <a href="#1" class="nav-link active" href-="">Ativo</a>
+            <a href="#2" class="nav-link" href-="">Link 2</a>
+            <a href="#3" class="nav-link" href-="">Link 3</a>
+            <a href="#4" class="nav-link disabled" href-="">Desativo</a>
+        </nav>
+
+        <!-- Nav que ocupa toda a largura do pai -->
+        <nav class="nav nav-tabs nav-fill">
+            <a href="#1" class="nav-link active" href-="">Ativo</a>
+            <a href="#2" class="nav-link" href-="">Link 2</a>
+            <a href="#3" class="nav-link" href-="">Link 3</a>
+            <a href="#4" class="nav-link disabled" href-="">Desativo</a>
+        </nav>
+        <hr>
+
+        <!-- Nav com submenu -->
+        <nav class="nav nav-pills">
+            <a href="#1" class="nav-link active" href-="">Ativo</a>
+            <a href="#2" class="nav-link" href-="">Link 2</a>
+            <a href="#3" class="nav-link" href-="">Link 3</a>
+            <a href="#4" class="nav-link disabled" href-="">Desativo</a>
+            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button">Submenus</a>
+            <ul class="dropdown-menu">
+                <li>
+                    <a href="#1" class="dropdown-item">Submenu 1</a>
+                </li>
+                <li>
+                    <a href="#2" class="dropdown-item">Submenu 2</a>
+                </li>
+                <li>
+                    <a href="#3" class="dropdown-item">Submenu 3</a>
+                </li>
+                <hr class="dropdown-divider">
+
+                <li>
+                    <a href="#4" class="dropdown-item">Submenu 4</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    
+    <!-- Seção das notas -->
+    <div class="note-section container-fluid bg-info-subtle">
+        <h3>Notes</h3>
+        <p><code>flex-column</code> can be used to turn the nav into a column.</p>
+        <p><code>nav-fill</code> or <code>nav-justified</code> can be used interchangeably.</p>
+    </div>
+    
+    <h3><a href="../">Voltar ao Início</a></h3>
+</body>
+</html>
