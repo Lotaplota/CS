@@ -1,3 +1,6 @@
+## Tools
+[SVG Path Visualizer](https://svg-path-visualizer.netlify.app)
+
 ## HTML
 [Unsplash](https://unsplash.com/) for images and backgrounds\
 [Haikei](https://app.haikei.app/) for background graphics\
