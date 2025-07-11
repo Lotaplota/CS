@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Rock Paper Scissors</title>
+</head>
+<body>
+  <h1>Rock Paper Scissors</h1>
+  <button onclick="
+    const rand = Math.random();
+    if (rand < 1 / 3)
+      alert('rock, tie');
+    else if (rand < 2 / 3)
+      alert('paper, you lose');
+    else
+      alert('scissors, you win');
+  ">Rock</button>
+  <button onclick="
+    const rand = Math.random();
+    if (rand < 1 / 3)
+      alert('rock, you win');
+    else if (rand < 2 / 3)
+      alert('paper, tie');
+    else
+      alert('scissors, you lose');
+  ">Paper</button>
+  <button onclick="
+    const rand = Math.random();
+    if (rand < 1 / 3)
+      alert('rock, you lose');
+    else if (rand < 2 / 3)
+      alert('paper, you win');
+    else
+      alert('scissors, tie');
+  ">Scissors</button>
+</body>
+</html>

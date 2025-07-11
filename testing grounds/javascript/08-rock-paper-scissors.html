@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Rock Paper Scissors</title>
+</head>
+<body>
+  <h1>Rock Paper Scissors</h1>
+  <button onclick="play('rock')">Rock</button>
+  <button onclick="play('paper')">Paper</button>
+  <button onclick="play('scissors')">Scissors</button>
+  <button onclick="resetScore()">Reset Score</button>
+
+  <script>
+    let score = JSON.parse(localStorage.getItem('score')) || {wins: 0, losses: 0, ties: 0};
+    // Quite a mess here right? Let's understand
+    // localStorage.getItem may return a null value if no such item exists
+    // This would make JSON.parse(null) also return a null value
+    // Since null is falsy, the attribution of the score variable gets the default value after the ||
+    // You got this, kid!!!!
+
+    console.log(localStorage.getItem('score'));
+
+    function play(move) {
+      const computerMove = pickComputerMove();
+      let result = '';
+      
+      // Computing the results and incrementing the scores
+      if (move === computerMove) {
+        result = 'tie';
+        score.ties++;
+      }
+      else {
+        if (move === 'rock') {
+          if (computerMove === 'paper') {
+            result = 'lost';
+            score.losses++;
+          } else if (computerMove === 'scissors') {
+            result = 'won';
+            score.wins++;
+          }
+        }
+        
+        if (move === 'paper') {
+          if (computerMove === 'rock') {
+            result = 'won';
+            score.wins++;
+          }
+          else if (computerMove === 'scissors') {
+            result = 'lost';
+            score.losses++;
+          }
+        }
+        
+        if (move === 'scissors') {
+          if (computerMove === 'rock') {
+            result = 'lost';
+            score.losses++;
+          }
+          else if (computerMove === 'paper') {
+            result = 'won';
+            score.wins++;
+          }
+        }
+
+        // Testing localStorage
+        localStorage.setItem('score', JSON.stringify(score));
+      }
+      
+      // Displaying result as an alert
+      const scoreText = `Wins: ${score.wins}, losses: ${score.losses}, ties: ${score.ties}`;
+
+      if (result === 'tie') {
+        alert(`It's a tie!\n${scoreText}`);
+      }
+      else if (result === 'won') {
+        alert(`Computer played ${computerMove}, you win.\n${scoreText}`);
+      }
+      else if (result === 'lost') {
+        alert(`Computer played ${computerMove}, you lost.\n${scoreText}`);
+      }
+    }
+    
+    function pickComputerMove () {
+      let computerMove = '';
+      const rand = Math.random();
+      
+      if (rand < 1 / 3)
+        computerMove = 'rock';
+      else if (rand < 2 / 3)
+        computerMove = 'paper';
+      else
+        computerMove = 'scissors';
+
+      return computerMove;
+    }
+
+    function resetScore() {
+      score.wins = 0;
+      score.losses = 0;
+      score.ties = 0;
+
+      localStorage.removeItem('score');
+    }
+
+  </script>
+</body>
+</html>

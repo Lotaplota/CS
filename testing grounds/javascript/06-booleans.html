@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Booleans</title>
+</head>
+<body>
+  <script>
+    console.log(3 + 3);
+    if (3 > 5) {
+      console.log('5 is bigger than 3');
+    } else {
+      console.log('3 is bigger than 5');
+    }
+
+    var personAge = 15;
+    if (personAge >= 16)
+      console.log('You can drive.')
+    else if (personAge >= 14) {
+      console.log('You cannot drive.')
+      console.log('Almost there!')
+    }
+    else
+      console.log('You cannot drive.') // Curly braces are optional with only one line of code.
+
+    if (5) {
+      console.log('truthy')
+    }
+
+    const weird = true ? "this is true" : "this is not true";
+    console.log(weird);
+
+    false && console.log('this is a short circuit evaluation'); // Guard operator
+    const lang = undefined || "en"; // Default operator
+    console.log(lang);
+
+  </script>
+</body>
+</html>

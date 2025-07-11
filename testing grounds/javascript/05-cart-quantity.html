@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Cart Quantity</title>
+</head>
+<body>
+  <button onclick="console.log(`Your cart currently has ${cartQuantity} items.`);">Show quantity</button>
+  <button onclick="cartQuantity++; console.log(`Added +1 to the cart. Now the cart has ${cartQuantity}.`);">Add to cart</button>
+  <button onclick="cartQuantity += 2; console.log(`Added +2 to the cart. Now the cart has ${cartQuantity}.`);">+2</button>
+  <button onclick="cartQuantity += 3; console.log(`Added +3 to the cart. Now the cart has ${cartQuantity}.`);">+3</button>
+  <button onclick="cartQuantity = 0; console.log('Cart quantity was reset to ')">Reset Cart</button>
+
+  <script>
+    let cartQuantity = 0; // Use let instead of const only when the variable is supposed to change
+
+    console.log(typeof cartQuantity);
+  </script>
+</body>
+</html>

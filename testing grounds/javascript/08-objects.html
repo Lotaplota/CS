@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Objects</title>
+</head>
+<body>
+  <script>
+    // const product = { // FIRST PART OF THE LESSON
+    //   name: 'socks',
+    //   price: 1000
+    // }
+
+    // console.log(product.name);
+
+    // product.name = 'cotton socks';
+
+    // product.onCart = true;
+
+    // console.log(product);
+
+    // delete product.onCart;
+    
+    // console.log(product);
+
+    
+    // const product2 = { // SECOND PART OF THE LESSON
+    //   name: 'shirt',
+    //   'delivery-time': '1 day',
+    //   ratings: {
+    //     stars: 4.5,
+    //     count: 123
+    //   },
+    //   fnct: function functionInsideObject() {
+    //     console.log('I am inside an object!');
+    //   }
+    // }
+
+    // console.log(product2.name); // Dot notation
+    // console.log(product2['name']);          // Bracket notation
+    // console.log(product2['delivery-time']); // Bracket notation
+
+    // console.log("Rating: " + product2.ratings.stars + " stars from " + product2.ratings.count + " buyers.");
+    // product2.fnct();
+
+    // const jsonString = JSON.stringify(product2); // Stringify turns an object into a .json string
+    // console.log(JSON.parse(jsonString));         // Parse turns a .json string into an object
+
+    console.log('hello'.length); // JS automatically boxes the 'hello' in a special object
+    console.log('hello'.toUpperCase());
+
+    const object1 = {
+      message: 'I am object 1!'
+    }
+
+    const object2 = object1;
+    console.log(object1); console.log(object2);
+
+    const object3 = {
+      message: 'hello'
+    }
+    
+    console.log(object1 === object2);
+    console.log(object3 === object1);
+
+    const amazonItem = {
+      name: 'sanduicheira',
+      price: 799,
+      deliveryDate: '2 days'
+    }
+
+    const { name } = amazonItem; // Equivalent to const name = amazonItem.name;
+    const { price, deliveryDate } = amazonItem;
+    console.log(name + " that costs " + price + " can be delivered in " + deliveryDate);
+
+    const copyOfAmazonItem = {
+      name,
+      price,
+      deliveryDate,
+      disclaimer() {
+        console.log('I am a mere copy!');
+      }
+    }
+
+    console.log(copyOfAmazonItem);
+    copyOfAmazonItem.disclaimer();
+  </script>
+</body>
+</html>

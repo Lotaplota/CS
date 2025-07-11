@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Rock Paper Scissors</title>
+</head>
+<body>
+  <h1>Rock Paper Scissors</h1>
+  <button onclick="play('Rock')">Rock</button>
+  <button onclick="play('Paper')">Paper</button>
+  <button onclick="play('Scissors')">Scissors</button>
+
+  <script>
+    function play(move) {
+      const computerMove = pickComputerMove();
+      
+      if (move === computerMove)
+        alert('It\'s a tie!');
+      else {
+        if (move === 'Rock') {
+          if (computerMove === "Paper")
+            alert(`Computer played ${computerMove}, you lost.`);
+          else if (computerMove === "Scissors")
+            alert(`Computer played ${computerMove}, you win.`);
+        }
+
+        if (move === 'Paper') {
+          if (computerMove === "Rock")
+            alert(`Computer played ${computerMove}, you win.`);
+          else if (computerMove === "Scissors")
+            alert(`Computer played ${computerMove}, you lost.`);
+        }
+
+        if (move === 'Scissors') {
+          if (computerMove === "Rock")
+            alert(`Computer played ${computerMove}, you lost.`);
+          else if (computerMove === "Paper")
+            alert(`Computer played ${computerMove}, you win.`);
+        }
+      }
+    }
+
+    function pickComputerMove () {
+      let computerMove = '';
+      const rand = Math.random();
+
+      if (rand < 1 / 3)
+        computerMove = 'Rock';
+      else if (rand < 2 / 3)
+        computerMove = "Paper";
+      else
+        computerMove = 'Scissors';
+
+      return computerMove;
+    }
+
+  </script>
+</body>
+</html>

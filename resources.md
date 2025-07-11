@@ -1,6 +1,9 @@
 ## Tools
 [SVG Path Visualizer](https://svg-path-visualizer.netlify.app)
 
+## JavaScript
+[Eloquent JavaScript](https://eloquentjavascript.net/) - a free online book about JavaScript, by Marijn Haverbeke.
+
 ## HTML
 [Unsplash](https://unsplash.com/) for images and backgrounds\
 [Haikei](https://app.haikei.app/) for background graphics\
