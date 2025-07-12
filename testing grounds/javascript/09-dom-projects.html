@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>DOM Projects</title>
+</head>
+<body>
+  <p>Youtube Subscribe Button</p>
+  <button class="subscribe-button" onclick="subscribe();">Subscribe</button>
+  <script>
+    function subscribe() {
+      const buttonLm = document.querySelector('.subscribe-button');
+
+      if (buttonLm.innerText.toLowerCase() === 'subscribe') { // Using innerText instead of innerHTML avoid the problem of selecting whitespaces, though I didn't got this error on my code, for some reason...
+        buttonLm.innerHTML = 'Subscribed'
+      } else {
+        buttonLm.innerHTML = 'Subscribe';
+      }
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>DOM</title>
+</head>
+<body>
+  <button>first button</button>
+  <button class="second-button">second button</button>
+
+  <script>
+    document.querySelector('button'); // Gets the FIRST button element on the page
+    document.querySelector('button')
+      .innerHTML = 'changed button'; // This gets and changes the content of the first button
+    
+    const buttonElem = document.querySelector('.second-button'); // Adding a . to the beginning of the string gets the first element with that class
+    buttonElem.innerHTML = 'other button';
+
+    // console.log(document.body);
+    
+    // document.body.innerHTML = '<button>Good job!</button>';
+    // document.title = 'changed';
+  </script>
+</body>
+</html>
