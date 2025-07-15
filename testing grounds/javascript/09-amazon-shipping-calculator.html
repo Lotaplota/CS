@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Document</title>
+</head>
+<body>
+  <p>Amazon Shipping Calculator</p>
+   <p>Orders under $40 = +$10 shipping.</p>
+   <p>Orders over $40 = FREE shipping.</p>
+  <input placeholder="Cost of order" class="cost-input" onkeydown="handleCostKeyDown(event);">
+  <button onclick="calculateTotal()">Calculate</button>
+  <p class='cost-display'></p>
+
+  <script>
+    function calculateTotal() {
+      const inputLm = document.querySelector('.cost-input');
+      let cost = Number(inputLm.value);
+
+      if (cost < 40)
+        cost = cost + 10;
+
+      document.querySelector('.cost-display').innerHTML = `$${cost}`;
+    }
+    function handleCostKeyDown(event) {
+      if (event.key === 'Enter') {
+        calculateTotal();
+      }
+    }
+  </script>
+</body>
+</html>

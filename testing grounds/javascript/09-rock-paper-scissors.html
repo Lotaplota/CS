@@ -96,7 +96,7 @@
 
     function updateScoreText() {
       document.querySelector(".score-text")
-      .innerHTML = `Wins: ${score.wins}, losses: ${score.losses}, ties: ${score.ties}`;
+        .innerHTML = `Wins: ${score.wins}, losses: ${score.losses}, ties: ${score.ties}`;
       localStorage.setItem('score', JSON.stringify(score));
     }
     
@@ -111,7 +111,7 @@
       } else if (result === 'lost') {
         matchResultLm.innerHTML = 'You lost.';
       } else if (result === 'tie') {
-        matchResultLm = 'It was a tie.';
+        matchResultLm.innerHTML = 'It was a tie.';
       }
     }
   </script>
