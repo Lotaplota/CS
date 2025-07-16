@@ -12,7 +12,10 @@
   <p class='cost-display'></p>
 
   <script>
-    function calculateTotal() {
+    window.console.log('document is actually an object of the window document!');
+
+    function calculateTotal()
+    {
       const inputLm = document.querySelector('.cost-input');
       let cost = Number(inputLm.value);
 
@@ -21,8 +24,11 @@
 
       document.querySelector('.cost-display').innerHTML = `$${cost}`;
     }
-    function handleCostKeyDown(event) {
-      if (event.key === 'Enter') {
+
+    function handleCostKeyDown(event)
+    {
+      if (event.key === 'Enter')
+      {
         calculateTotal();
       }
     }

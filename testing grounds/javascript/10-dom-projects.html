@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>DOM Projects</title>
+  <style>
+    .subscribe-button {
+      border: none;
+      background-color: black;
+      color: white;
+      padding-block: 10px;
+      padding-inline: 15px;
+      font-weight: bold;
+      border-radius: 50px;
+      cursor: pointer;
+      margin-bottom: 30px;
+    }
+
+    .is-subscribed {
+      background-color: #f0f0f0;
+      color: black;
+    }
+
+    body {
+      font-family: Arial;
+    }
+
+    .cost-input {
+      font-size: 15px;
+      padding: 10px;
+    }
+
+    .calculate-button {
+      background-color: green;
+      color: white;
+      border: none;
+      font-size: 15px;
+      padding: 12px 15px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p>YouTube Subscribe Button</p>
+  <button class="js-subscribe-button subscribe-button" onclick="subscribe();">Subscribe</button>
+  <p>Amazon Shipping Calculator</p>
+  <p>Orders under $40 = +$10 shipping.</p>
+  <p>Orders over $40 = FREE shipping.</p>
+  <input placeholder="Cost of order" class="js-cost-input cost-input" onkeydown="handleCostKeyDown(event);">
+  <button onclick="calculateTotal()" class="calculate-button">Calculate</button>
+  <p class='cost-display'></p>
+
+  <script>
+    function subscribe() {
+      const buttonLm = document.querySelector('.js-subscribe-button');
+
+      if (buttonLm.innerText.toLowerCase() === 'subscribe')
+      { // Using innerText instead of innerHTML avoid the problem of selecting whitespaces, though I didn't got this error on my code, for some reason...
+        buttonLm.innerHTML = 'Subscribed'
+        buttonLm.classList.add('is-subscribed');
+      }
+      else
+      {
+        buttonLm.innerHTML = 'Subscribe';
+        buttonLm.classList.remove('is-subscribed')
+      }
+    }
+
+    function calculateTotal() {
+      const inputLm = document.querySelector('.js-cost-input');
+      let cost = Number(inputLm.value);
+
+      if (cost < 40)
+        cost = cost + 10;
+
+      document.querySelector('.cost-display').innerHTML = `$${cost}`;
+    }
+
+    function handleCostKeyDown(event) {
+      if (event.key === 'Enter')
+      {
+        calculateTotal();
+      }
+    }
+  </script>
+</body>
+</html>
