@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Document</title>
+</head>
+<body>
+  <script>
+    // const myArray = [1, 'try to remove me', true, { name: 'socks' }, [1 , 2]]; // FIRST PART
+
+    // console.log(Array.isArray(myArray[3]));
+    // console.log(Array.isArray(myArray[4]));
+
+    // console.log(myArray.length)
+    // myArray.push(100);
+    // console.log(myArray.length);
+    // myArray.splice(1, 1);
+    // console.log(myArray);
+    // console.log(myArray.length)
+
+    // const todoList = [ // SECOND PART
+    //   'abacate',
+    //   'banana',
+    //   'cenoura',
+    //   'danone'
+    // ]
+
+    // for (let i = 0; i < todoList.length; i++) { // could be (let i = todo)
+    //   console.log(todoList[i]);
+    // }
+
+    const nums = [1, 2, 3];
+    let total = 0;
+
+    for (let i = 0; i< nums.length; i++) {
+      let num = nums[i];
+      total += num;
+    }
+    console.log(total);
+
+    let numsDoubled = [];
+    for (let i = 0; i < nums.length; i++) {
+      numsDoubled.push(nums[i]*2);
+    }
+    console.log(numsDoubled);  
+  </script>
+</body>
+</html>
