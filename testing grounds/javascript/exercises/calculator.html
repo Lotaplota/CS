@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Calculator</title>
+</head>
+<body>
+  <button onclick="calculation += '1';">1</button>
+  <button onclick="calculation += '2';">2</button>
+  <button onclick="calculation += '3';">3</button>
+  <button onclick="calculation += ' + ';">+</button>
+  <button onclick="calculation += ' = '; console.log(calculation); console.log(eval(calculation));">=</button> <!-- Fix this -->
+
+  <script>
+  let calculation = '';
+  </script>
+</body>
+</html>
