@@ -28,20 +28,48 @@
     //   console.log(todoList[i]);
     // }
 
-    const nums = [1, 2, 3];
-    let total = 0;
+    // const nums = [1, 2, 3]; // Third part
+    // let total = 0;
 
-    for (let i = 0; i< nums.length; i++) {
-      let num = nums[i];
-      total += num;
-    }
-    console.log(total);
+    // for (let i = 0; i< nums.length; i++) {
+    //   let num = nums[i];
+    //   total += num;
+    // }
+    // console.log(total);
 
-    let numsDoubled = [];
-    for (let i = 0; i < nums.length; i++) {
-      numsDoubled.push(nums[i]*2);
+    // let numsDoubled = [];
+    // for (let i = 0; i < nums.length; i++) {
+    //   numsDoubled.push(nums[i]*2);
+    // }
+    // console.log(numsDoubled);  
+
+    // const oneToFour = [1, 2, 3, 4]; // PART THREE
+    // const oneToFourAgain = oneToFour.slice();
+    // const oneToTwo = oneToFour.slice(0, 2);
+    // const threeToFour = oneToFour.slice(2,);
+    
+    // const arrays = [oneToFour, oneToFourAgain, oneToTwo, threeToFour];
+
+    // for (let i = 0; i < arrays.length; i++) {
+    //   console.log(arrays[i]);
+    // }
+
+    // const [numberOne, numberTwo] = oneToFour;
+    // console.log(`${numberOne}` + numberTwo);
+
+    for (let i = 0; i < 12; i++) {
+      if (i === 7) {
+        continue;
+      }
+
+      if (i % 4) {
+        console.log(':^[');
+      } else {
+        console.log(':^]')
+      }
+
+
     }
-    console.log(numsDoubled);  
-  </script>
+    </script>
 </body>
 </html>
