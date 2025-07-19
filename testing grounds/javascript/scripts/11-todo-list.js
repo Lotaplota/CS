@@ -7,20 +7,27 @@ let todoList = [{
 }];
 let todoListHTML = '';
 
+renderTodoList();
+
 for (let i = 0; i < todoList.length; i++) {
   console.log(todoList[i]);
 }
 
 function addTodo() {
-  const textInputLm = document.querySelector('.js-add-todo-field');
-  const todoText = textInputLm.value;
+  const textInputLm = document.querySelector('.js-todo-name-input');
+  const name = textInputLm.value;
   textInputLm.value = '';
 
-  const dateInputLm = document.querySelector('.js-todo-due-date-field');
-  const todoDueDate = dateInputLm.value;
+  const dateInputLm = document.querySelector('.js-due-date-input');
+  const dueDate = dateInputLm.value;
   dateInputLm.value = '';
 
-  todoList.push({name: todoText, dueDate: todoDueDate});
+  todoList.push({
+    // name: name,
+    name,
+    // dueDate: dueDate
+    dueDate
+  });
   
   renderTodoList();
 }
@@ -30,14 +37,20 @@ function generateListHTML() {
 
   for (let i = 0; i < todoList.length; i++)
   {
-    const todo = todoList[i];
+    const todoObject = todoList[i];
+    const { name, dueDate } = todoObject;
+
     todoListHTML += `
-      <p>
-        ${todo.name}, ${todo.dueDate}
-        <button onclick="deleteTodo(${i});">
-          Delete
-        </button>
-      </p>`;
+      <div>
+        ${name}
+      </div>
+      <div>
+        ${dueDate}
+      </div>
+      <button onclick="deleteTodo(${i});" class="delete-button">
+        Delete
+      </button>
+      `
   }
 }
 
