@@ -4,7 +4,21 @@
   <title>Advanced Functions</title>
 </head>
 <body>
+  <button onclick="" class="js-button">Click</button>
   <script>
+    const buttonLm = document.querySelector('.js-button');
+    buttonLm.addEventListener('click', () => { // Apparently the events are the words that go after the "on" in the tag's attributes
+      console.log('clicked!');
+    });
+
+    const eventFunction = () => {
+      console.log('did you click again?');
+    }
+
+    buttonLm.addEventListener('click', eventFunction);
+
+    buttonLm.removeEventListener('click', eventFunction);
+
     // function greeting() { // PART 1
     //   console.log('hello');
     // }
@@ -28,12 +42,59 @@
     // run(dontRunThis);
 
 
-    for (let i = 1; i <= 4 ; i++) { // PART 3, this is some kind of timer I guess ¯\_(ツ)_/¯
-      setTimeout(() => {
-        console.log(i);
-        i++;
-      }, 1000 * i);
-    }
+    // for (let i = 1; i <= 4 ; i++) { // PART 3, this is some kind of timer I guess ¯\_(ツ)_/¯
+    //   setTimeout(() => {
+    //     console.log(i);
+    //     i++;
+    //   }, 1000 * i);
+    // }
+
+    // let timePassed = 0; // PART 4
+    
+    // setInterval(function countTime() {
+    //   console.log(timePassed / 10);
+    //   timePassed++;
+    // }, 100);
+
+    // [ // PART 5
+    //   'make dinner',
+    //   'wash dishes',
+    //   'watch youtube',
+    //   'study'
+    // ].forEach(function(value, index) { // Each value of the array gets passed into the function as the value
+    //   if (value === 'wash dishes') {
+    //     console.log('to hell with you woman, goodbye!');
+    //   } else {
+    //     console.log(index + 1 + '. go ' + value);
+    //   }
+    // });
+
+    // const arrowFunction = () => { // PART 6: ARROW FUNCTIONS
+    //   console.log('hello');
+    // }
+
+    // arrowFunction();
+
+    // const oneParam = param => {
+    //   console.log(param);
+    // }
+
+    // const oneLine = () => console.log(2 + 3);
+
+    // oneParam('hi mum!'); oneLine();
+
+    // const functionHolder = {
+    //   arrowMethod: () => {
+    //     console.log("I'm an arrow method!");
+    //   },
+    //   shorthandMethod() {
+    //     console.log("I'm a shorthand method!");
+    //   }
+    // }
+
+    // functionHolder.arrowMethod(); functionHolder.shorthandMethod();
+
+
   </script>
 </body>
 </html>
