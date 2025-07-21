@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>11</title>
+</head>
+<body>
+  <script>
+    const strings = ['this', 'that', 'piss', 'search', 'that', 'again', 'pat', 'pat', 'search']
+
+    findIndex(strings, 'that');
+    removeString(strings, 'that');
+
+    function findIndex(array, word) {
+      for (let i = 0; i < array.length; i++) {
+        if (array[i] === word) {
+          console.log(i);
+          return;
+        }
+      }
+
+      console.log('Not found.')
+    }
+
+    function removeString(array, word) {
+      let newArray = [];
+      for (let i = 0; i < array.length; i++){
+        if (array[i] !== word) {
+          newArray.push(array[i]);
+        }
+      }
+
+      console.log(newArray);
+    }
+
+    function removeFirstTwo(array, word) {
+      let newArray = [];
+      let wordsRemoved = 0;
+
+      for (let i = 0; i < array.length; i++) {
+        if (wordsRemoved < 2) {
+          if (array[i] === word) {
+            wordsRemoved++;
+            continue;
+          } else {
+            newArray.push(array[i]);
+          }
+        } else { break; }
+      }
+    }
+  </script>
+</body>
+</html>

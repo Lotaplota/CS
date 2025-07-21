@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Advanced Functions</title>
+</head>
+<body>
+  <script>
+    // function greeting() { // PART 1
+    //   console.log('hello');
+    // }
+    // greeting();
+
+    // const anonymousFunction = function() {
+    //   console.log('we are anonymous');
+    // };
+    // anonymousFunction();
+
+    // console.log(typeof function1);
+
+    // function run(param) { // PART 2
+    //   param();
+    // }
+
+    // const dontRunThis = function() {
+    //   console.log('why did you do it??');
+    // }
+
+    // run(dontRunThis);
+
+
+    for (let i = 1; i <= 4 ; i++) { // PART 3, this is some kind of timer I guess ¯\_(ツ)_/¯
+      setTimeout(() => {
+        console.log(i);
+        i++;
+      }, 1000 * i);
+    }
+  </script>
+</body>
+</html>
