@@ -5,11 +5,12 @@
 </head>
 <body>
   <script>
-    const strings = ['this', 'that', 'piss', 'search', 'that', 'again', 'pat', 'pat', 'search', 'that', 'this', 'pat', 'search', 'again'];
+    const strings = ['this', 'that', 'piss', 'search', 'that', 'again', 'pat', 'pat', 'search', 'that', 'this', 'pat', 'search', 'again', 'this', 'pat', 'pat'];
 
-    findIndex(strings, 'that');
-    removeString(strings, 'pat');
-    removeFirstTwo(strings, 'that');
+    console.log(strings);
+    // findIndex(strings, 'that');
+    // removeString(strings, 'pat');
+    removeFirstTwo(strings, 'pat');
 
     function findIndex(array, word) {
       for (let i = 0; i < array.length; i++) {
@@ -37,17 +38,28 @@
       let newArray = [];
       let wordsRemoved = 0
 
+      // Checks if the words in the array matches the word it's supposed to remove
+      // Will escape after removing 2 words and go to the next while loop
       let i = 0;
       while (wordsRemoved < 2) {
         if (array[i] === word) {
+          console.log(array[i] + ' is the same as ' + word);
           wordsRemoved++;
-          continue;
         } else {
+          console.log(array[i] + ' is not the same as ' + word);
           newArray.push(array[i]);
         }
         
         i++;
       }
+      console.log('removed two words, proceding to fill the array')
+
+      while (i < array.length) {
+        newArray.push(array[i]);
+        i++;
+      }
+
+      console.log(newArray);
     }
   </script>
 </body>

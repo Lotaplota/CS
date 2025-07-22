@@ -9,9 +9,9 @@ let todoListHTML = '';
 
 renderTodoList();
 
-for (let i = 0; i < todoList.length; i++) {
-  console.log(todoList[i]);
-}
+document.querySelector('.js-add-button').addEventListener('click', () => {
+  addTodo();
+});
 
 function addTodo() {
   const textInputLm = document.querySelector('.js-todo-name-input');
@@ -45,7 +45,7 @@ function generateListHTML() {
       <div>
         ${dueDate}
       </div>
-      <button onclick="deleteTodo(${index});" class="delete-button">
+      <button class="delete-button js-delete-button">
         Delete
       </button>
     `
@@ -60,6 +60,13 @@ function deleteTodo(i) {
 function renderTodoList() {
   generateListHTML();
 
-  const listLm = document.querySelector('.todo-list-div');
+  const listLm = document.querySelector('.js-todo-list-div');
   listLm.innerHTML = todoListHTML;
+
+  document.querySelectorAll('.js-delete-button')
+    .forEach((deleteButton, index) => {
+      deleteButton.addEventListener('click', () => {
+        deleteTodo(index);
+      })
+    });
 }
