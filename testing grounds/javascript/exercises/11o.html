@@ -5,10 +5,11 @@
 </head>
 <body>
   <script>
-    const strings = ['this', 'that', 'piss', 'search', 'that', 'again', 'pat', 'pat', 'search']
+    const strings = ['this', 'that', 'piss', 'search', 'that', 'again', 'pat', 'pat', 'search', 'that', 'this', 'pat', 'search', 'again'];
 
     findIndex(strings, 'that');
-    removeString(strings, 'that');
+    removeString(strings, 'pat');
+    removeFirstTwo(strings, 'that');
 
     function findIndex(array, word) {
       for (let i = 0; i < array.length; i++) {
@@ -34,17 +35,18 @@
 
     function removeFirstTwo(array, word) {
       let newArray = [];
-      let wordsRemoved = 0;
+      let wordsRemoved = 0
 
-      for (let i = 0; i < array.length; i++) {
-        if (wordsRemoved < 2) {
-          if (array[i] === word) {
-            wordsRemoved++;
-            continue;
-          } else {
-            newArray.push(array[i]);
-          }
-        } else { break; }
+      let i = 0;
+      while (wordsRemoved < 2) {
+        if (array[i] === word) {
+          wordsRemoved++;
+          continue;
+        } else {
+          newArray.push(array[i]);
+        }
+        
+        i++;
       }
     }
   </script>
