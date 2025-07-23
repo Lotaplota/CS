@@ -1,4 +1,4 @@
-import {cart} from '../data/cart.js';
+import {cart, addToCart} from '../data/cart.js';
 import {products} from '../data/products.js';
 
 let productsHTML = '';
@@ -58,28 +58,7 @@ products.forEach((product) => {
 
 document.querySelector('.js-product-container').innerHTML = productsHTML;
 
-// Adding eventListeners to the add to cart buttons
-document.querySelectorAll('.js-add-to-cart').forEach((button) => {
-  button.addEventListener('click', () => {
-    const productId = button.dataset.productId; // The element's data-product-name kebab-case gets converted to camelCase... I didn't know you could do that...
-    let matchingItem;
-
-    cart.forEach(cartItem => {
-      if (cartItem.productId === productId) {
-        matchingItem = cartItem
-      }
-    })
-
-    if (matchingItem) {
-      matchingItem.quantity++;
-    } else {
-      cart.push({
-        productId: productId,
-        quantity: 1
-      })
-    }
-
-    // Calculating the amount of items in the cart
+function updateCartQuantity() {
     let cartQuantity = 0;
 
     cart.forEach(cartItem => {
@@ -89,5 +68,14 @@ document.querySelectorAll('.js-add-to-cart').forEach((button) => {
     // Changing the cart quantity on the header
     document.querySelector('.js-cart-quantity')
       .innerHTML = cartQuantity > 9 ? '9+': cartQuantity;
+}
+
+// Adding eventListeners to the add to cart buttons
+document.querySelectorAll('.js-add-to-cart').forEach((button) => {
+  button.addEventListener('click', () => {
+    const productId = button.dataset.productId; // The element's data-product-name kebab-case gets converted to camelCase... I didn't know you could do that...
+    
+    addToCart(productId);
+    updateCartQuantity();
   })
 })
