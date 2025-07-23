@@ -46,7 +46,7 @@ products.forEach((product) => {
         Added
       </div>
 
-      <button class="add-to-cart-button button-primary js-add-to-cart" data-product-name="${product.name}">
+      <button class="add-to-cart-button button-primary js-add-to-cart" data-product-id="${product.id}">
         Add to Cart
       </button>
     </div>
@@ -55,14 +55,14 @@ products.forEach((product) => {
 
 document.querySelector('.js-product-container').innerHTML = productsHTML;
 
+// Adding eventListeners to the add to cart buttons
 document.querySelectorAll('.js-add-to-cart').forEach((button) => {
   button.addEventListener('click', () => {
-    const productName = button.dataset.productName; // The element's data-product-name kebab-case gets converted to camelCase... I didn't know you could do that...
+    const productId = button.dataset.productId; // The element's data-product-name kebab-case gets converted to camelCase... I didn't know you could do that...
     let matchingItem;
-    productInCart = '';
 
     cart.forEach(cartItem => {
-      if (cartItem.productName === productName) {
+      if (cartItem.productId === productId) {
         matchingItem = cartItem
       }
     })
@@ -71,9 +71,16 @@ document.querySelectorAll('.js-add-to-cart').forEach((button) => {
       matchingItem.quantity++;
     } else {
       cart.push({
-        productName: productName,
+        productId: productId,
         quantity: 1
       })
     }
+
+    // Calculating the amount of items in the cart
+    let itemQuantity = 0;
+
+    cart.forEach(cartItem => {
+      itemQuantity += cartItem.quantity;
+    })
   })
 })
