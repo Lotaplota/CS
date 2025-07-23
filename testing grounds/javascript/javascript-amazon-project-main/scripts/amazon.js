@@ -77,10 +77,14 @@ document.querySelectorAll('.js-add-to-cart').forEach((button) => {
     }
 
     // Calculating the amount of items in the cart
-    let itemQuantity = 0;
+    let cartQuantity = 0;
 
     cart.forEach(cartItem => {
-      itemQuantity += cartItem.quantity;
+      cartQuantity += cartItem.quantity;
     })
+
+    // Changing the cart quantity on the header
+    document.querySelector('.js-cart-quantity')
+      .innerHTML = cartQuantity > 9 ? '9+': cartQuantity;
   })
 })
