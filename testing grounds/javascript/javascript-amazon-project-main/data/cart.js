@@ -43,5 +43,5 @@ export function removeFromCart(productId) {
   });
 
   cart = newCart;
-  // Isn't this method more intensive?
+  // Isn't this method more memory intensive?
 }
