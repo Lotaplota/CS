@@ -1,6 +1,13 @@
 import {cart, removeFromCart} from '../data/cart.js';
 import {products} from '../data/products.js';    // Double dots means return one folder
 import {formatCurrency} from './utils/money.js'; // Single dot means same folder
+import {hello} from 'https://unpkg.com/supersimpledev@1.0.1/hello.esm.js';
+import dayjs from 'https://unpkg.com/supersimpledev@8.5.0/dayjs/esm/index.js'; // The ESM version of the code is needed to use it as a module (see ECMAScript)
+                                                                               // This is also called a "default export". The other ones are called "named exports" 
+
+let today = dayjs().format('dddd, MMM. D');
+console.log(today);
+hello();
 
 let cartSummaryHTML = ''
 
