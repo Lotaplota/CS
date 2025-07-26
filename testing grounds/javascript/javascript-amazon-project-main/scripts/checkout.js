@@ -15,18 +15,33 @@ let cartSummaryHTML = ''
 cart.forEach(cartItem => {
   const productId = cartItem.productId;
 
+  // Getting the cart item's product data
   let matchingProduct;
-
+  
   products.forEach(product => {
     if (product.id === productId) {
       matchingProduct = product;
     }
   })
+  
+  // getting the delivery option
+  let matchingDeliveryOption;
 
+  deliveryOptions.forEach(option => {
+    if (option.id === cartItem.deliveryOptionId) {
+      matchingDeliveryOption = option;
+    }
+  });
+
+  const today = dayjs();
+  const deliveryDate = today.add(matchingDeliveryOption.deliveryDays, 'days');
+  const dateString = deliveryDate.format('dddd, MMMM D');
+
+  // Buildind the cart summary's html
   cartSummaryHTML += `
     <div class="cart-item-container js-cart-item-container-${matchingProduct.id}">
       <div class="delivery-date">
-        Delivery date: Tuesday, June 21
+        Delivery date: ${dateString}
       </div>
 
       <div class="cart-item-details-grid">
@@ -70,7 +85,7 @@ function deliveryOptionsHTML(product, cartItem) {
   deliveryOptions.forEach(deliveryOption => {
     const today = dayjs();
     const deliveryDate = today.add(deliveryOption.deliveryDays, 'days');
-    const dateString = deliveryDate.format('dddd, MMMM D')
+    const dateString = deliveryDate.format('dddd, MMMM D');
 
     const priceString = deliveryOption.priceCents
       ? `${formatCurrency(deliveryOption.priceCents)} -`
