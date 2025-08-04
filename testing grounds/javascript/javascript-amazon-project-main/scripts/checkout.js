@@ -1,4 +1,4 @@
-import { cart, removeFromCart } from '../data/cart.js';
+import { cart, removeFromCart, updateDeliveryOption } from '../data/cart.js';
 import { products } from '../data/products.js';    // Double dots means return one folder
 import { formatCurrency } from './utils/money.js'; // Single dot means same folder
 import { hello } from 'https://unpkg.com/supersimpledev@1.0.1/hello.esm.js';
@@ -93,7 +93,9 @@ function deliveryOptionsHTML(product, cartItem) {
     const isChecked = deliveryOption.id === cartItem.deliveryOptionId;
 
     html += `
-      <div class="delivery-option">
+      <div class="delivery-option js-delivery-option"
+      data-product-id="${product.id}"
+      data-delivery-option-id="${deliveryOption.id}">
         <input type="radio" ${isChecked ? 'checked' : ''}
           class="delivery-option-input"
           name="delivery-option-${product.id}">
@@ -123,5 +125,13 @@ document.querySelectorAll('.js-delete-link')
 
       const container = document.querySelector(`.js-cart-item-container-${productId}`);
       container.remove();
+    })
+  })
+
+document.querySelectorAll('.js-delivery-option')
+  .forEach((element) =>{
+    element.addEventListener('click', () => {
+      const {productId, deliveryOptionId} = element.dataset; // This is a shorthand property. A bit tricky to master so... keep in mind.
+      updateDeliveryOption();
     })
   })

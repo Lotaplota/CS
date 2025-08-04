@@ -38,7 +38,7 @@ export function addToCart(productId) {
     cart.push({
       productId: productId,
       quantity: 1,
-      deliveryOptionId: '1' // Maybe this fixes a bug
+      deliveryOptionId: '1' // Changing it to a string fixed a bug
     })
   }
   
@@ -64,6 +64,20 @@ export function removeFromCart(productId) {
 
   cart = newCart;
   // Isn't this method more memory intensive?
+
+  saveToStorage();
+}
+
+export function updateDeliveryOption (productId, deliveryOptionId) {
+  let matchingItem;
+
+  cart.forEach(cartItem => {
+    if (cartItem.productId === productId) {
+      matchingItem = cartItem
+    }
+  })
+
+  matchingItem.deliveryOptionId = deliveryOptionId;
 
   saveToStorage();
 }
