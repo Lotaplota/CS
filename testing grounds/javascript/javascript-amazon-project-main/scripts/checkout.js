@@ -7,8 +7,6 @@ import dayjs from 'https://unpkg.com/supersimpledev@8.5.0/dayjs/esm/index.js'; /
 import { deliveryOptions } from '../data/deliveryOptions.js';
 
 let today = dayjs().format('dddd, MMM. D');
-console.log(today);
-hello();
 
 let cartSummaryHTML = ''
 
@@ -24,7 +22,7 @@ cart.forEach(cartItem => {
     }
   })
   
-  // getting the delivery option
+  // Getting the delivery option
   let matchingDeliveryOption;
 
   deliveryOptions.forEach(option => {
