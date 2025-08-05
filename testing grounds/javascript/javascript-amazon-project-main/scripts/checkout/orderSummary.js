@@ -1,5 +1,5 @@
 import { cart, removeFromCart, updateDeliveryOption } from '../../data/cart.js';
-import { products } from '../../data/products.js';    // Double dots means return one folder
+import { getProduct, products } from '../../data/products.js';    // Double dots means return one folder
 import { formatCurrency } from '../utils/money.js'; // Single dot means same folder
 import { hello } from 'https://unpkg.com/supersimpledev@1.0.1/hello.esm.js';
 import dayjs from 'https://unpkg.com/supersimpledev@8.5.0/dayjs/esm/index.js'; // The ESM version of the code is needed to use it as a module (see ECMAScript)
@@ -14,13 +14,7 @@ export function renderOrderSummary() {
     const productId = cartItem.productId;
   
     // Getting the cart item's product data
-    let matchingProduct;
-    
-    products.forEach(product => {
-      if (product.id === productId) {
-        matchingProduct = product;
-      }
-    })
+    let matchingProduct = getProduct(productId);
     
     // Getting the delivery option
     let matchingDeliveryOption;
