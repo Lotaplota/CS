@@ -73,7 +73,9 @@ export function removeFromCart(productId) {
 export function updateDeliveryOption (productId, deliveryOptionId) {
   let matchingItem = getProduct(productId);
 
-  matchingItem.deliveryOptionId = deliveryOptionId;
+  console.log(matchingItem); // DONKEY
+  matchingItem.deliveryOptionId = deliveryOptionId; // CONTINUE fix this bug where the delivery option checkmark is not changing
+  console.log(matchingItem); // DONKEY
 
   saveToStorage();
 }

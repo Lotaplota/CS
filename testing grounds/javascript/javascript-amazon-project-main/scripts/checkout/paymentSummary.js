@@ -18,39 +18,43 @@ export function renderPaymentSummary() {
   const totalBeforeTaxCents = productPriceCents + shippingPriceCents;
   const taxCents = totalBeforeTaxCents *.1;
   const totalCents = totalBeforeTaxCents + taxCents;
+  console.log(shippingPriceCents); // DONKEY
 
-  const paymentSummaryHTML = `
+  const paymentSummaryHTML = /* html */ `
     <div class="payment-summary-title">
       Order Summary
     </div>
 
     <div class="payment-summary-row">
       <div>Items (3):</div>
-      <div class="payment-summary-money">$${formatCurrency(productPriceCents)}</div> // CONTINUE
+      <div class="payment-summary-money">$${formatCurrency(productPriceCents)}</div>
     </div>
 
     <div class="payment-summary-row">
       <div>Shipping &amp; handling:</div>
-      <div class="payment-summary-money">$4.99</div>
+      <div class="payment-summary-money">$${formatCurrency(shippingPriceCents)}</div>
     </div>
 
     <div class="payment-summary-row subtotal-row">
       <div>Total before tax:</div>
-      <div class="payment-summary-money">$47.74</div>
+      <div class="payment-summary-money">$${formatCurrency(totalBeforeTaxCents)}</div>
     </div>
 
     <div class="payment-summary-row">
       <div>Estimated tax (10%):</div>
-      <div class="payment-summary-money">$4.77</div>
+      <div class="payment-summary-money">$${formatCurrency(taxCents)}</div>
     </div>
 
     <div class="payment-summary-row total-row">
       <div>Order total:</div>
-      <div class="payment-summary-money">$52.51</div>
+      <div class="payment-summary-money">${formatCurrency(totalCents)}}</div>
     </div>
 
     <button class="place-order-button button-primary">
       Place your order
     </button>
   `;
+
+  let summaryElement = document.querySelector('.js-payment-summary');
+  summaryElement.innerHTML = paymentSummaryHTML;
 }
