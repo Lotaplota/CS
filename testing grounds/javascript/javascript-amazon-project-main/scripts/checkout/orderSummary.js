@@ -4,7 +4,7 @@ import { formatCurrency } from '../utils/money.js'; // Single dot means same fol
 import { hello } from 'https://unpkg.com/supersimpledev@1.0.1/hello.esm.js';
 import dayjs from 'https://unpkg.com/supersimpledev@8.5.0/dayjs/esm/index.js'; // The ESM version of the code is needed to use it as a module (see ECMAScript)
                                                                                // This is also called a "default export". The other ones are called "named exports" 
-import { deliveryOptions } from '../../data/deliveryOptions.js';
+import { deliveryOptions, getDeliveryOption } from '../../data/deliveryOptions.js';
 
 export function renderOrderSummary() {
 
@@ -17,16 +17,10 @@ export function renderOrderSummary() {
     let matchingProduct = getProduct(productId);
     
     // Getting the delivery option
-    let matchingDeliveryOption;
-  
-    deliveryOptions.forEach(option => {
-      if (option.id === cartItem.deliveryOptionId) {
-        matchingDeliveryOption = option;
-      }
-    });
+    const deliveryOption = getDeliveryOption(cartItem.deliveryOptionId);
   
     const today = dayjs();
-    const deliveryDate = today.add(matchingDeliveryOption.deliveryDays, 'days');
+    const deliveryDate = today.add(deliveryOption.deliveryDays, 'days');
     const dateString = deliveryDate.format('dddd, MMMM D');
   
     // Buildind the cart summary's html
