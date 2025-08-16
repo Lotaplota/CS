@@ -1,6 +1,9 @@
 ## Tools
 [SVG Path Visualizer](https://svg-path-visualizer.netlify.app)
 
+## C
+A very beginner-friendly [cheatsheet](https://manual.cs50.io/) for the most common functions and libraries.
+
 ## JavaScript
 [Eloquent JavaScript](https://eloquentjavascript.net/) - a free online book about JavaScript, by Marijn Haverbeke.
 
