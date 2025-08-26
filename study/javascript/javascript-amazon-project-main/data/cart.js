@@ -85,7 +85,7 @@ export function removeFromCart(productId) {
 export function updateDeliveryOption (productId, deliveryOptionId) {
   let matchingItem = getItem(productId);
 
-  matchingItem.deliveryOptionId = deliveryOptionId; // CONTINUE fix this bug where the delivery option checkmark is not changing
+  matchingItem.deliveryOptionId = deliveryOptionId;
 
   saveToStorage();
 }
