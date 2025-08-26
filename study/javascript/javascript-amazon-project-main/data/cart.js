@@ -25,6 +25,18 @@ function saveToStorage() {
   localStorage.setItem('cart', JSON.stringify(cart));
 }
 
+function getItem(id) {
+    let matchingItem;
+
+    cart.forEach(item => {
+        if (id === item.productId) {
+            matchingItem = item;
+        }
+    });
+
+    return matchingItem;
+}
+
 export function addToCart(productId) {
   let matchingItem;
 
@@ -71,11 +83,9 @@ export function removeFromCart(productId) {
 }
 
 export function updateDeliveryOption (productId, deliveryOptionId) {
-  let matchingItem = getProduct(productId);
+  let matchingItem = getItem(productId);
 
-  console.log(matchingItem); // DONKEY
   matchingItem.deliveryOptionId = deliveryOptionId; // CONTINUE fix this bug where the delivery option checkmark is not changing
-  console.log(matchingItem); // DONKEY
 
   saveToStorage();
 }
