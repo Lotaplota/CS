@@ -17,7 +17,6 @@ export function renderPaymentSummary() {
 
   const totalBeforeTaxCents = productPriceCents + shippingPriceCents;
   const taxCents = totalBeforeTaxCents *.1;
-  console.log(taxCents); // CONTINUE fix the bug on the tax calculation, for some reason there are decimals in the tax cents
   const totalCents = totalBeforeTaxCents + taxCents;
 
   const paymentSummaryHTML = /* html */ `
@@ -47,7 +46,7 @@ export function renderPaymentSummary() {
 
     <div class="payment-summary-row total-row">
       <div>Order total:</div>
-      <div class="payment-summary-money">${formatCurrency(totalCents)}}</div>
+      <div class="payment-summary-money">$${formatCurrency(totalCents)}</div>
     </div>
 
     <button class="place-order-button button-primary">
