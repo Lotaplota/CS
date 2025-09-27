@@ -24,7 +24,7 @@ void calcular_idade(int db, int mb, int yb, int d, int m, int y)
 
     printf("%i,%i,%i,%i,%i,%i,\n", db, mb, yb, d, m, y); // DONKEY
     ay = y - yb;
-    printf("%i\n", ay); // DONKEY
+    printf("%i\n", ay); // DONKEY CONTINUE
 
     if (m < mb) { ay--; }
     else if(m == mb)
