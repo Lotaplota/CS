@@ -1,0 +1,4507 @@
+                                                                                                             THE TRIANGLE FARMER
+double triangleBase = 4.5;
+double triangleHeight = 12.2;
+
+Console.WriteLine("let's find the area of a triangle with a base measuring " + triangleBase +
+                  " units and a height measuring " + triangleHeight +
+                  " units.");
+
+Console.WriteLine("first we multiply the tringle's base and height together.");
+Console.WriteLine("this gives us " + triangleBase * triangleHeight + " units.");
+
+double triangleArea = triangleBase * triangleHeight / 2;
+
+Console.WriteLine("finally, we take that result and divide it by 2.");
+Console.WriteLine("we now have the triangle's area, which is " + triangleArea + " square units.");
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                           THE DOMINION OF KINGS
+int estateQty = 2; int duchyQty = 3; int provinceQty = 1;
+
+int swagScore = estateQty + 3 * duchyQty + 6 * provinceQty;
+
+Console.WriteLine("you have " + swagScore + " swag points.");
+Console.WriteLine("now go fuck yourself you monarch");
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                               THE FOUR SISTERS AND THE DUCKBEAR
+Console.WriteLine("how many sisters are absent?");
+int numberOfAbsentSisters = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("how many eggs did they collect?");
+int eggsCollected = Convert.ToInt32(Console.ReadLine());
+
+int eggsForDuckbear = eggsCollected % (4 - numberOfAbsentSisters);
+int eggsForSisters = (eggsCollected - eggsForDuckbear) / (4 - numberOfAbsentSisters);
+
+Console.WriteLine("today's egghunt accounted for " + eggsCollected + " chocolate eggs."); // add a singular/plural modifier
+if (numberOfAbsentSisters == 0)
+{
+    Console.WriteLine("since there were no sisters absent, each sister will get " +
+                       eggsForSisters + " eggs.");
+}
+else
+{
+    Console.WriteLine("since there were " +
+                       numberOfAbsentSisters +
+                       " sisters absent, each sister will get " +
+                       eggsForSisters + " eggs.");
+}
+
+if (eggsForDuckbear == 0)
+{
+    Console.WriteLine("duckbear will get no eggs.");
+    Console.WriteLine("i'm so sorry duckbear :^[");
+}
+else
+{
+    Console.WriteLine("duckbear will get " + eggsForDuckbear + " eggs.");
+    Console.WriteLine("good for you duckbear!");
+}
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                         THE DEFENSE OF CONSOLAS
+Console.Title = "Defense of Consolas";
+
+Console.WriteLine("choose the column of the city block you want to defend:");
+int defendColumn = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("now choose the row of the city block you want to defend:");
+int defendRow = Convert.ToInt32(Console.ReadLine());
+
+int squad0Row = defendRow; int squad0Column = defendColumn + 1; // i should be more consistent with the order that my elements show up
+int squad1Row = defendRow + 1; int squad1Column = defendColumn; // like sticking to columns first then rows later
+int squad2Row = defendRow; int squad2Column = defendColumn - 1;
+int squad3Row = defendRow - 1; int squad3Column = defendColumn;
+
+string squad0Position = $"({squad0Column},{squad0Row})";
+string squad1Position = $"({squad1Column},{squad1Row})";
+string squad2Position = $"({squad2Column},{squad2Row})";
+string squad3Position = $"({squad3Column},{squad3Row})";
+
+Console.BackgroundColor = ConsoleColor.Red; Console.ForegroundColor = ConsoleColor.Black;
+
+Console.WriteLine("Squad #      Position");
+Console.WriteLine($"0. {squad0Position,15}\n" + // maybe align the numbers with the # that's above them(?)
+                  $"1. {squad1Position,15}\n" +
+                  $"2. {squad2Position,15}\n" +
+                  $"3. {squad3Position,15}\n");
+
+Console.Beep();
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                       REPAIRING THE CLOCK TOWER
+Console.WriteLine("how many seconds passed since the clock started?");
+int secondsPassed = Convert.ToInt32(Console.ReadLine());
+string clockSound;
+
+if (secondsPassed % 2 == 0) clockSound = "tick";
+else clockSound = "tock";
+
+Console.WriteLine("then the clock should go " + clockSound + ".");
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                         REPAIRING THE CLOCK TOWER (improved by TAKING A NUMBER)
+int secondsPassed = AskForNumber("how many seconds passed since the clock started?");
+string clockSound;
+
+if (secondsPassed % 2 == 0) clockSound = "tick";
+else clockSound = "tock";
+
+Console.WriteLine("then the clock should go " + clockSound + ".");
+int AskForNumber(string text)
+{
+    Console.WriteLine(text);
+    int userInput = Convert.ToInt32(Console.ReadLine());
+    return userInput;
+}
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                      WATCHTOWER
+Console.Title = "Watchtower";
+
+Console.WriteLine("the watchtower is under attack!\n" +
+    "please insert the enemy's x coordinate:");
+int enemyXCoordinate = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("now insert the enemy's y coordinate:");
+int enemyYCoordinate = Convert.ToInt32(Console.ReadLine());
+
+string enemyDirection;
+
+if (enemyXCoordinate == 0 && enemyYCoordinate == 0)
+{
+    enemyDirection = "center";
+}
+else enemyDirection = "to be put";
+if (enemyDirection == "center")
+{
+    Console.WriteLine("the enemy is among us!");
+}
+else
+{
+    if (enemyXCoordinate < 0)
+    {
+        if (enemyYCoordinate < 0) enemyDirection = "southwest";
+        else if (enemyYCoordinate == 0) enemyDirection = "west";
+        else enemyDirection = "northwest";
+    }
+    else if (enemyXCoordinate == 0)
+    {
+        if (enemyYCoordinate < 0) enemyDirection = "south";
+        // i know the center bit should be here for simplicity and consistency ok? i just wanted to use all the things i learned in this chapter
+        else enemyDirection = "north";
+    }
+    else
+    {
+        if (enemyYCoordinate < 0) enemyDirection = "southeast";
+        else if (enemyYCoordinate == 0) enemyDirection = "east";
+        else enemyDirection = "northeast";
+    }
+    Console.WriteLine($"The enemy is to the {enemyDirection}!");
+}
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                BUYING INVENTORY
+Console.WriteLine("The following items are available:\n" +
+    "1   Rope\n" +
+    "2   Torches\n" +
+    "3   Climbing Equipment\n" +
+    "4   Clean Water\n" +
+    "5   Machete\n" +
+    "6   Canoe\n" +
+    "7   Food Supplies\n" +
+    "Which one would you like to buy?");
+
+byte userChoice = Convert.ToByte(Console.ReadLine());
+
+string shopperResponse = userChoice switch
+{
+    1 => "The rope costs 10 gold.",
+    2 => "The torches cost 15 gold.",
+    3 => "The climbing equipment costs 25 gold.",
+    4 => "Clean water costs 1 gold.",
+    5 => "The machete costs 20 gold.",
+    6 => "The canoe costs 200 gold.",
+    7 => "Food supplies cost 1 gold.",
+    _ => "Sorry, we don't have that"
+};
+
+Console.WriteLine(shopperResponse);
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                            DISCOUNTED INVENTORY
+double costRope = 10; double costTorch = 15; double costClimbingEquipment = 25; double costCleanWater = 1; double costMachete = 20; double costCanoe = 200; double costFoodSupplies = 1;
+
+Console.WriteLine("Ahoy matey! What's your name?");
+string userName = Console.ReadLine();
+
+if (userName == "lotaplota")
+{
+    costRope *= 0.5; costTorch *= 0.5; costClimbingEquipment *= 0.5; costCleanWater *= 0.5; costMachete *= 0.5; costCanoe *= 0.5; costFoodSupplies *= 0.5;
+    Console.WriteLine("So you're the programmer that helped me, aye? You old salt deserve a discount!");
+}
+
+Console.WriteLine("The following items are available:\n" +
+                  "1   Rope\n" +
+                  "2   Torches\n" +
+                  "3   Climbing Equipment\n" +
+                  "4   Clean Water\n" +
+                  "5   Machete\n" +
+                  "6   Canoe\n" +
+                  "7   Food Supplies\n" +
+                  "What are you buying?");
+
+byte userChoice = Convert.ToByte(Console.ReadLine());
+
+string shopperResponse = userChoice switch
+{
+    1 => $"The rope costs {costRope:0.} gold.", // i thought it was reasonable to add the :0. since they can't trade with fractions and it rounds up
+    2 => $"The torches cost {costTorch:0.} gold.",
+    3 => $"The climbing equipment costs {costClimbingEquipment:0.} gold.",
+    4 => $"Clean water costs {costCleanWater:0.} gold.",
+    5 => $"The machete costs {costMachete:0.} gold.",
+    6 => $"The canoe costs {costCanoe:0.} gold.",
+    7 => $"Food supplies cost {costFoodSupplies:0.} gold.",
+    _ => $"Sorry, we don't have that."
+};
+
+Console.WriteLine(shopperResponse);
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                   THE PROTOTYPE
+Console.WriteLine("pilot, enter a number between 0 and 100");
+string pilotInput = Console.ReadLine(); int targetValue = Convert.ToInt32(pilotInput);
+
+while (true)
+{
+    if (targetValue >= 0 && targetValue <= 100) {  break; };
+    Console.WriteLine("invalid number. the entered number must be between 0 and 100. pick another one");
+    pilotInput = Console.ReadLine(); targetValue = Convert.ToInt32(pilotInput);
+}
+Console.Clear();
+
+Console.WriteLine("hunter, guess the pilot's number by entering a number between 0 and 100");
+while (true)
+{
+    string hunterInput = Console.ReadLine(); int guessedValue = Convert.ToInt32(hunterInput);
+    if (guessedValue == targetValue)
+    {
+        Console.Beep(523, 250); Console.Beep(659, 250);
+        break;
+    };
+    if (guessedValue < 0 || guessedValue > 100)
+    {
+        Console.WriteLine("enter a valid number");
+        continue;
+    };
+    if (guessedValue < targetValue)
+    {
+        Console.Beep(220, 250); Console.Beep(220, 250);
+        Console.WriteLine("your number was too low. enter another one:");
+    }
+    else
+    {
+        Console.Beep(220, 250); Console.Beep(220, 250);
+        Console.WriteLine("your number was too high. enter another one:");
+    };
+}
+
+Console.WriteLine("you hit the target!");
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                     THE PROTOTYPE (improved by TAKING A NUMBER)
+int targetValue = AskForNumberInRange("pilot, enter a number between 0 and 100", 0, 100);
+Console.Clear();
+
+int guessedValue = AskForNumberInRange("hunter, guess the pilot's number by entering a number between 0 and 100", 0, 100);
+while (true)
+{
+    if (guessedValue == targetValue)
+    {
+        Console.WriteLine("you hit the target!");
+        Console.Beep(523, 250); Console.Beep(659, 250);
+        break;
+    }
+    if (guessedValue < targetValue)
+    {
+        Console.Beep(220, 250); Console.Beep(220, 250);
+        guessedValue = AskForNumberInRange("your number was too low. enter another one:", 0, 100);
+    }
+    else
+    {
+        Console.Beep(220, 250); Console.Beep(220, 250);
+        guessedValue = AskForNumberInRange("your number was too high. enter another one:", 0, 100);
+    }
+}
+
+int AskForNumberInRange(string text, int min, int max)
+{
+    Console.WriteLine(text);
+    int numberInRange;
+    while (true)
+    {
+        numberInRange = Convert.ToInt32(Console.ReadLine());
+        if (numberInRange >= min && numberInRange <= max) { break; }
+        else { Console.WriteLine("that number is out of the range. enter another one:");}
+    }
+    return numberInRange;
+}
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                THE MAGIC CANNON
+int crankTurn = 1; string blastType = " ";
+
+while (true)
+{
+    if (crankTurn % 3 == 0 && crankTurn % 5 == 0)
+    {
+        Console.BackgroundColor = ConsoleColor.Blue; Console.ForegroundColor = ConsoleColor.White;
+        blastType = "fire and electric";
+    }
+    else if (crankTurn % 3 == 0)
+    {
+        Console.BackgroundColor = ConsoleColor.Red; Console.ForegroundColor = ConsoleColor.Black;
+        blastType = "fire";
+    }
+    else if (crankTurn % 5 == 0)
+    {
+        Console.BackgroundColor = ConsoleColor.Yellow; Console.ForegroundColor = ConsoleColor.Black;
+        blastType = "electric";
+    }
+    else
+    {
+        Console.BackgroundColor = ConsoleColor.Black; Console.ForegroundColor = ConsoleColor.White;
+        blastType = "normal";
+    }
+
+    Console.WriteLine($"{crankTurn}: {blastType}");
+    crankTurn++;
+    if (crankTurn > 100) { break; };
+}
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                          THE REPLICATOR OF D'TO
+int[] userNumbers = new int[5];
+
+Console.WriteLine("enter 5 integers:");
+userNumbers[0] = Convert.ToInt32(Console.ReadLine());
+userNumbers[1] = Convert.ToInt32(Console.ReadLine());
+userNumbers[2] = Convert.ToInt32(Console.ReadLine());
+userNumbers[3] = Convert.ToInt32(Console.ReadLine());
+userNumbers[4] = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine($"you entered the numbers {userNumbers[0]}, {userNumbers[1]}, {userNumbers[2]}, {userNumbers[3]}, and {userNumbers[4]}.");
+Console.WriteLine("now the replicator will try to copy your numbers");
+
+int[] copiedNumbers = new int[5];
+
+for(int i = 0; i < userNumbers.Length; i++)
+{
+    copiedNumbers[i] = userNumbers[i];
+}
+
+Console.WriteLine($"this is your list:\n" +
+                  $"copied number 1: {copiedNumbers[0]}\n" +
+                  $"copied number 1: {copiedNumbers[1]}\n" +
+                  $"copied number 1: {copiedNumbers[2]}\n" +
+                  $"copied number 1: {copiedNumbers[3]}\n" +
+                  $"copied number 1: {copiedNumbers[4]}\n");
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                              THE LAWS OF FREACH
+Console.WriteLine("enter numbers to make an array of any size. enter \"done\" when you're done.");
+string userInput = Console.ReadLine(); int userNumber = Convert.ToInt32(userInput);
+int[] numbers = [userNumber];
+
+while (true)
+{
+    if (userInput == "done") { break; }
+    userNumber = Convert.ToInt32(userInput);
+    numbers = numbers.Append(userNumber).ToArray();
+    userInput = Console.ReadLine();
+}
+
+numbers = numbers[1..]; // yes yes... i know this is a bodge
+
+Console.WriteLine("do you want to know the average of your list or the minimum value?\n" +
+                  "enter \"avg\" or \"min\"");
+
+while (true)
+{
+    userInput = Console.ReadLine();
+    if (userInput == "avg")
+    {
+        int arraySum = 0;
+        foreach (int i in numbers)
+            arraySum += i;
+        float average = (float)arraySum / numbers.Length;
+        Console.WriteLine($"the average of the created array is {average}.");
+        { break; }
+    }
+    else if (userInput == "min")
+    {
+        int currentSmallest = int.MaxValue;
+        foreach (int i in numbers)
+        {
+            if (i < currentSmallest) currentSmallest = i;
+        }
+        Console.WriteLine($"the minimum value of the created array is {currentSmallest}.");
+        { break ; }
+    }
+    else
+    {
+        Console.WriteLine("this is not a valid input. please enter \"avg\" or \"min\"");
+    }
+}
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                 TAKING A NUMBER
+int AskForNumber(string text) // was used to improve REPAIRING THE CLOCK
+{
+    Console.WriteLine(text);
+    int userInput = Convert.ToInt32(Console.ReadLine());
+    return userInput;
+}
+
+int AskForNumberInRange(string text, int min, int max) // was used to improve THE PROTOTYPE
+{
+    Console.WriteLine(text);
+    int numberInRange;
+    while (true)
+    {
+        numberInRange = Convert.ToInt32(Console.ReadLine());
+        if (numberInRange >= min && numberInRange <= max) { break; }
+        else { Console.WriteLine("that number is out of the range. enter another one:");}
+    }
+    return numberInRange;
+}
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                       COUNTDOWN
+int inputNumber = Convert.ToInt32(Console.ReadLine());
+Console.Clear();
+
+Countdown(inputNumber);
+
+int Countdown(int number)
+{
+    if (number == 0)
+    {
+        Console.WriteLine(0);
+        return 0;
+    }
+    Console.WriteLine(number);
+    return Countdown(number - 1);
+} // i hated it...
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                           HUNTING THE MANTICORE
+int manticoreHealth = 10; int round = 1; int cityHealth = 15;
+int manticoreDistance = getValueInRange("player 1, how far away from the city do you want to station the manticore? " +
+                                        "(enter a value between 1 and 100):\n", 1, 100);
+
+while (true)
+{
+    if (manticoreHealth <= 0)
+    {
+        Console.WriteLine("you've destroyed the manticore. congratulations!"); break;
+    }
+    if (cityHealth <= 0)
+    {
+        Console.WriteLine("the city was destroyed! you have failed us."); break;
+    }
+    roundStart(round);
+}
+Console.Beep();
+
+int getValueInRange(string text, int min, int max)
+{
+    int output;
+    Console.Write(text); // thx to @castrotheboy who taught me this :^]
+
+    while (true)
+    {
+        output = Convert.ToInt32(Console.ReadLine());
+        if (output >= min && output <= max) { break; };
+        Console.WriteLine("value outside of range. enter another one: ");
+    }
+    return output;
+
+}
+void roundStart(int currentRound)
+{
+    int cannonDamage = getCannonDamage(currentRound);
+    Console.WriteLine($"STATUS: Round: {currentRound} City health: {cityHealth} / 15 Manticore: {manticoreHealth} / 10\n" +
+                      $"The cannon is expected to deal {cannonDamage} damage this round.");
+    int cannonRange = getValueInRange("enter desired cannon range: ", 1, 100);
+    if (cannonRange < manticoreDistance)
+    {
+        Console.BackgroundColor = ConsoleColor.Red;
+        Console.WriteLine("That round FELL SHORT of the target\n");
+        Console.BackgroundColor = ConsoleColor.Black;
+    }
+    else if (cannonRange > manticoreDistance)
+    {
+        Console.BackgroundColor = ConsoleColor.Blue;
+        Console.WriteLine("that round OVERSHOT the target\n");
+        Console.BackgroundColor = ConsoleColor.Black;
+    }
+    else
+    {
+        Console.BackgroundColor = ConsoleColor.Green;
+        Console.WriteLine("that round was a DIRECT HIT!\n");
+        Console.BackgroundColor = ConsoleColor.Black;
+        manticoreHealth -= cannonDamage;
+    }
+    cityHealth -= 1; round++;
+}
+int getCannonDamage(int leverCrank)
+{
+    if (leverCrank % 3 == 0 && leverCrank % 5 == 0) { return 15; }
+    else if (leverCrank % 3 == 0) { return 3; }
+    else if (leverCrank % 5 == 0) { return 5; }
+    else return 1;
+}
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+BoxState currentState = BoxState.Open;
+
+Console.WriteLine("the box is currently open. what do you want to do?");
+string userInput = Console.ReadLine();
+
+while (true)
+{
+    if (currentState == BoxState.Open && userInput == "close")
+    {
+        currentState = BoxState.Closed;
+        Console.WriteLine("the box is now closed. what do you want to do?");
+        userInput = Console.ReadLine();
+    }
+    else if (currentState == BoxState.Open && userInput == "lock")
+    {
+        Console.WriteLine("you need to close the box first! what do you want to do?");
+        userInput = Console.ReadLine();
+    }
+    else if (currentState == BoxState.Closed && userInput == "open")
+    {
+        currentState = BoxState.Open;
+        Console.WriteLine("the box is now open. what do you want to do?");
+        userInput = Console.ReadLine();
+    }
+    else if (currentState == BoxState.Closed && userInput == "lock")
+    {
+        currentState = BoxState.Locked;
+        Console.WriteLine("the box is now locked. what do you want to do?");
+        userInput = Console.ReadLine();
+    }
+    else if (currentState == BoxState.Locked && userInput == "unlock")
+    {
+        currentState = BoxState.Closed;
+        Console.WriteLine("the box is now unlocked and closed. what do you want to do?");
+        userInput = Console.ReadLine();
+    }
+    else if (currentState == BoxState.Locked && userInput == "open")
+    {
+        Console.WriteLine("you need to unlock the box first! what do you want to do?");
+        userInput = Console.ReadLine();
+    }
+    else
+    {
+        Console.WriteLine("it already is! what do you want to do?");
+        userInput = Console.ReadLine(); // i think this can be considered a bodge :p
+    }
+}
+
+enum BoxState { Open, Closed, Locked }
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                   SIMULA'S SOUP
+
+(SoupType chosenType, MainIngredient chosenIngredient, Seasoning chosenSeasoning) finalSoup;
+
+string[] typeArray = Enum.GetNames(typeof(SoupType));                 // I couldn't figure out a way to work
+string[] mainIngredientArray = Enum.GetNames(typeof(MainIngredient)); // with only the enumerations, so I
+string[] seasoningArray = Enum.GetNames(typeof(Seasoning));           // converted them to arrays
+
+Console.WriteLine($"Welcome to Simula's Soupery!\n" +
+                  $"Please choose your soup type (enter a number from 1 to " + typeArray.Length + ")");
+DisplayEnumerationElements(typeArray);
+finalSoup.chosenType = (SoupType)ReceiveAndDecrement(); // Is casting the better option here?
+
+Console.WriteLine($"Now choose the soup's main ingredient (enter a number from 1 to " + mainIngredientArray.Length + ")");
+DisplayEnumerationElements(mainIngredientArray);
+finalSoup.chosenIngredient = (MainIngredient)ReceiveAndDecrement();
+
+Console.WriteLine($"What seasoning would you like in your soup? (enter a number from 1 to " + seasoningArray.Length + ")");
+DisplayEnumerationElements(seasoningArray);
+finalSoup.chosenSeasoning = (Seasoning)ReceiveAndDecrement();
+
+Console.WriteLine($"You chose the {finalSoup.chosenSeasoning} {finalSoup.chosenIngredient} {finalSoup.chosenType}. Great choice!");
+
+int ReceiveAndDecrement()
+{
+    int userChoice = Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine();
+    return userChoice - 1; // I tried userChoice-- and it didn't work. Why?
+}
+
+void DisplayEnumerationElements(string[] thisArray) // Are these even called elements?
+{
+    int index = 1;
+    foreach (string element in thisArray)
+    {
+        Console.WriteLine($"{index}.{element, 10}");
+        index++;
+    }
+}
+
+enum SoupType { Soup, Stew, Gumbo }
+enum MainIngredient { Mushroom, Chicken, Carrot, Potato }
+enum Seasoning { Spicy, Salty, Sweet }
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                           VIN FLETCHER'S ARROWS
+Arrow arrow = new Arrow();
+
+Console.WriteLine("Welcome to the shop.\n");
+
+arrow.ChooseArrowhead("Choose your arrowhead. (enter the item's index)");
+arrow.ChooseShaftSize("Choose the lenght of the arrow's shaft.\n(Enter a value between 60 cm and 100 cm)");
+arrow.ChooseFletching("Choose the arrow's fletching.");
+
+arrow.DisplayFinishedArrow();
+
+
+class Arrow
+{
+    (string chosenArrowhead, float chosenShaftSize, string chosenFletching) finishedArrow;
+    
+    public Arrow()
+    {
+        finalCost = 0;
+    }
+
+    float finalCost;
+    
+    readonly (string arrowheadType, float price)[] arrowheadCatalog =
+        [
+        ("Steel", 10),
+        ("Wood", 3),
+        ("Obsidian", 5)
+        ];
+
+    readonly (string fletchingType, float price)[] fletchingCatalog =
+        [
+        ("Plastic", 10),
+        ("Turkey Feathers", 5),
+        ("Goose Feathers", 3),
+        ];
+
+
+    public void ChooseArrowhead(string promptText)
+    {
+        Console.WriteLine(promptText);
+        for (int i = 0; i < arrowheadCatalog.Length; i++)
+        {
+            Console.WriteLine($"{i+1}. {arrowheadCatalog[i].arrowheadType, -10} [{arrowheadCatalog[i].price} gold]");
+        }
+
+        int userInput = Convert.ToInt32(Console.ReadLine());
+
+        finishedArrow.chosenArrowhead = arrowheadCatalog[userInput - 1].arrowheadType;
+        finalCost += arrowheadCatalog[userInput - 1].price;
+        
+        Console.WriteLine();
+    }
+
+    public void ChooseShaftSize(string promptText)
+    {
+        Console.WriteLine(promptText);
+        
+        while (true)
+        {
+            int userInput = Convert.ToInt32(Console.ReadLine());
+            
+            if(userInput >= 60 && userInput <= 100)
+            {
+                finishedArrow.chosenShaftSize = userInput;
+                finalCost += userInput * 0.05f;
+
+                Console.WriteLine("that totalizes " + userInput * 0.05f + " gold coins.");
+                break;
+            }
+            else
+            {
+                Console.WriteLine("that is not a valid shaft size. choose a number between 60 and 100.");
+            }
+        }
+
+        Console.WriteLine();
+    }
+
+    public void ChooseFletching(string promptText)
+    {
+        Console.WriteLine(promptText);
+        for (int i = 0; i < fletchingCatalog.Length; i++)
+        {
+            Console.WriteLine($"{i + 1}. {fletchingCatalog[i].fletchingType, -17} [{fletchingCatalog[i].price} gold]");
+        }
+
+        int userInput = Convert.ToInt32(Console.ReadLine());
+
+        finishedArrow.chosenFletching = fletchingCatalog[userInput - 1].fletchingType;
+        finalCost += fletchingCatalog[userInput - 1].price;
+
+        Console.WriteLine();
+    }
+
+    internal void DisplayFinishedArrow()
+    {
+        Console.WriteLine($"Your arrow will have a {finishedArrow.chosenArrowhead.ToLower()} arrowhead, " +
+            $"with a {finishedArrow.chosenShaftSize} cm long shaft, " +
+            $"and a fletching made of {finishedArrow.chosenFletching.ToLower()}.\n" +
+            $"This will cost you {finalCost} gold coins.");
+    }
+}
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                   VIN'S TROUBLE
+Arrow arrow = new Arrow();
+
+arrow.ChooseShaftSize("what's yo shaft be?");
+float shaftSize = arrow.GetChosenShaftSize();
+Console.WriteLine("yo shaft size is " + shaftSize + " then");
+
+class Arrow
+{
+    (string chosenArrowhead, float chosenShaftSize, string chosenFletching) finishedArrow;
+
+    public Arrow()
+    {
+        finalCost = 0;
+    }
+
+    float finalCost;
+
+    readonly (string arrowheadType, float price)[] arrowheadCatalog =
+        [
+        ("Steel", 10),
+        ("Wood", 3),
+        ("Obsidian", 5)
+        ];
+
+    readonly (string fletchingType, float price)[] fletchingCatalog =
+        [
+        ("Plastic", 10),
+        ("Turkey Feathers", 5),
+        ("Goose Feathers", 3),
+        ];
+
+
+    public void ChooseArrowhead(string promptText)
+    {
+        Console.WriteLine(promptText);
+        for (int i = 0; i < arrowheadCatalog.Length; i++)
+        {
+            Console.WriteLine($"{i + 1}. {arrowheadCatalog[i].arrowheadType,-10} [{arrowheadCatalog[i].price} gold]");
+        }
+
+        int userInput = Convert.ToInt32(Console.ReadLine());
+
+        finishedArrow.chosenArrowhead = arrowheadCatalog[userInput - 1].arrowheadType;
+        finalCost += arrowheadCatalog[userInput - 1].price;
+
+        Console.WriteLine();
+    }
+
+    public void ChooseShaftSize(string promptText)
+    {
+        Console.WriteLine(promptText);
+
+        while (true)
+        {
+            int userInput = Convert.ToInt32(Console.ReadLine());
+
+            if (userInput >= 60 && userInput <= 100)
+            {
+                finishedArrow.chosenShaftSize = userInput;
+                finalCost += userInput * 0.05f;
+
+                Console.WriteLine("that totalizes " + userInput * 0.05f + " gold coins.");
+                break;
+            }
+            else
+            {
+                Console.WriteLine("that is not a valid shaft size. choose a number between 60 and 100.");
+            }
+        }
+
+        Console.WriteLine();
+    }
+
+    public void ChooseFletching(string promptText)
+    {
+        Console.WriteLine(promptText);
+        for (int i = 0; i < fletchingCatalog.Length; i++)
+        {
+            Console.WriteLine($"{i + 1}. {fletchingCatalog[i].fletchingType,-17} [{fletchingCatalog[i].price} gold]");
+        }
+
+        int userInput = Convert.ToInt32(Console.ReadLine());
+
+        finishedArrow.chosenFletching = fletchingCatalog[userInput - 1].fletchingType;
+        finalCost += fletchingCatalog[userInput - 1].price;
+
+        Console.WriteLine();
+    }
+
+    public string GetChosenArrowhead()
+    {
+        return finishedArrow.chosenArrowhead;
+    }
+
+    public float GetChosenShaftSize()
+    {
+        return finishedArrow.chosenShaftSize;
+    }
+
+    public string GetChosenFletching()
+    {
+        return finishedArrow.chosenFletching;
+    }
+
+    internal void DisplayFinishedArrow()
+    {
+        Console.WriteLine($"Your arrow will have a {finishedArrow.chosenArrowhead.ToLower()} arrowhead, " +
+            $"with a {finishedArrow.chosenShaftSize} cm long shaft, " +
+            $"and a fletching made of {finishedArrow.chosenFletching.ToLower()}.\n" +
+            $"This will cost you {finalCost} gold coins.");
+    }
+}
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                        THE PROPERTIES OF ARROWS
+Arrow arrow = new();
+
+arrow.ChooseShaftSize("Let's be real, Flynn Vetcher's arrow are too unreliable.\nChoose your shaft size.");
+arrow.ChooseArrowhead("Choose the arrowhead");
+arrow.ChooseFletching("Choose the arrow's fletching.");
+arrow.DisplayFinishedArrow();
+
+class Arrow
+{
+    private (string chosenArrowhead, float chosenShaftSize, string chosenFletching) finishedArrow;
+
+    public float FinalCost { get; private set; } = 0;
+
+    (string arrowheadType, float price)[] ArrowheadCatalog { get; } =
+        [
+        ("Steel", 10),
+        ("Wood", 3),
+        ("Obsidian", 5)
+        ];
+
+    (string fletchingType, float price)[] FletchingCatalog { get; } =
+        [
+        ("Plastic", 10),
+        ("Turkey Feathers", 5),
+        ("Goose Feathers", 3),
+        ];
+
+    public void ChooseArrowhead(string promptText)
+    {
+        Console.WriteLine(promptText);
+        for (int i = 0; i < ArrowheadCatalog.Length; i++)
+        {
+            Console.WriteLine($"{i + 1}. {ArrowheadCatalog[i].arrowheadType,-10} [{ArrowheadCatalog[i].price} gold]");
+        }
+
+        int userInput = Convert.ToInt32(Console.ReadLine());
+
+        finishedArrow.chosenArrowhead = ArrowheadCatalog[userInput - 1].arrowheadType;
+        FinalCost += ArrowheadCatalog[userInput - 1].price;
+
+        Console.WriteLine();
+    }
+
+    public void ChooseShaftSize(string promptText)
+    {
+        Console.WriteLine(promptText);
+
+        while (true)
+        {
+            int userInput = Convert.ToInt32(Console.ReadLine());
+
+            if (userInput >= 60 && userInput <= 100)
+            {
+                finishedArrow.chosenShaftSize = userInput;
+                FinalCost += userInput * 0.05f;
+
+                Console.WriteLine("that totalizes " + userInput * 0.05f + " gold coins.");
+                break;
+            }
+            else
+            {
+                Console.WriteLine("that is not a valid shaft size. choose a number between 60 and 100.");
+            }
+        }
+
+        Console.WriteLine();
+    }
+
+    public void ChooseFletching(string promptText)
+    {
+        Console.WriteLine(promptText);
+        for (int i = 0; i < FletchingCatalog.Length; i++)
+        {
+            Console.WriteLine($"{i + 1}. {FletchingCatalog[i].fletchingType,-17} [{FletchingCatalog[i].price} gold]");
+        }
+
+        int userInput = Convert.ToInt32(Console.ReadLine());
+
+        finishedArrow.chosenFletching = FletchingCatalog[userInput - 1].fletchingType;
+        FinalCost += FletchingCatalog[userInput - 1].price;
+
+        Console.WriteLine();
+    }
+
+    internal void DisplayFinishedArrow()
+    {
+        Console.WriteLine($"Your arrow will have a {finishedArrow.chosenArrowhead.ToLower()} arrowhead, " +
+            $"with a {finishedArrow.chosenShaftSize} cm long shaft, " +
+            $"and a fletching made of {finishedArrow.chosenFletching.ToLower()}.\n" +
+            $"This will cost you {FinalCost} gold coins.");
+    }
+}
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                 ARROW FACTORIES
+public class Arrow
+{
+    Arrowhead arrowHead;
+    float shaftSize;
+    Fletching fletching;
+
+    public Arrow(Arrowhead chosenArrowHead, float chosenShaft, Fletching chosenFletching)
+    {
+        arrowHead = chosenArrowHead;
+        shaftSize = chosenShaft;
+        fletching = chosenFletching;
+    }
+
+    public static Arrow CreateStandardArrow(StandardArrow standardArrow)
+    {
+        if ( standardArrow == StandardArrow.Elite ) { return new Arrow(Arrowhead.Steel, 95f, Fletching.Plastic); }
+        if ( standardArrow == StandardArrow.Beginner ) { return new Arrow(Arrowhead.Wood, 75f, Fletching.Goose); }
+        if (standardArrow == StandardArrow.Marksman) { return new Arrow(Arrowhead.Steel, 65f, Fletching.Goose); }
+        else return new Arrow(Arrowhead.Error, 0f, Fletching.Error);
+    }
+    
+    public float FinalCost()
+    {
+        float cost = 0;
+
+        cost += arrowHead switch
+        {
+            Arrowhead.Steel => 10,
+            Arrowhead.Obsidian => 5,
+            Arrowhead.Wood => 3
+        };
+
+        cost += shaftSize * .05f;
+
+        cost += fletching switch
+        {
+            Fletching.Plastic => 10,
+            Fletching.Turkey => 5,
+            Fletching.Goose => 3
+        };
+
+        return cost;
+    }
+
+    public string ArrowDescription()
+    {
+        string arrowDescription = "This is a";
+        arrowDescription += arrowHead switch
+        {
+            Arrowhead.Steel => " steel ",
+            Arrowhead.Obsidian => "n obsidian ", // what a bodge!!
+            Arrowhead.Wood => " wooden "
+        };
+        arrowDescription += $"tipped, {shaftSize * .05f} cm shaft, ";
+        arrowDescription += fletching switch
+        {
+            Fletching.Plastic => "plastic feathered ",
+            Fletching.Turkey => "turkey feathered ",
+            Fletching.Goose => "goose feathered "
+        };
+        arrowDescription += "arrow.";
+
+        return arrowDescription;
+    }
+} // i forgot to add the credit for the help... sorry mate
+
+public enum Arrowhead { Steel = 1, Obsidian, Wood, Error }
+public enum Fletching { Plastic = 1, Turkey, Goose, Error }
+public enum StandardArrow { Elite = 1, Beginner, Marksman }
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                       THE POINT
+Point point1 = new(2, 3);
+Point point2 = new(-4, 0);
+
+Console.WriteLine("Point 1: X is " + point1.Xcoord + " and Y is " + point1.Ycoord + ".");
+Console.WriteLine("Point 2: X is " + point2.Xcoord + " and Y is " + point2.Ycoord + ".");
+
+public class Point
+{
+    public float Xcoord { get; }
+    public float Ycoord { get; }
+
+    public Point(float x, float y)
+    {
+        Xcoord = x;
+        Ycoord = y;
+    }
+
+    public Point() : this(0, 0) { } // "this" seems to be a very powerful tool that i'm not making adequate use of
+}
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                       THE COLOR
+Color spaceCadet = new(46, 41, 78);
+Color colorPurple = Color.Purple;
+
+Console.WriteLine($"Space Cadet's values are:\n" +
+    $"Red: {spaceCadet.RedValue, -7}Blue: {spaceCadet.BlueValue, -7}Green: {spaceCadet.GreenValue, -7}");
+Console.WriteLine("");
+
+Console.WriteLine($"Purple's values are:\n" +
+    $"Red: {colorPurple.RedValue, -7}Blue: {colorPurple.BlueValue, -7}Green: {colorPurple.GreenValue, -7}");
+
+public class Color
+{
+    public byte RedValue { get; private set; }
+    public byte GreenValue { get; private set; }
+    public byte BlueValue { get; private set; }
+
+    public Color(byte r, byte g, byte b)
+    {
+        RedValue = r;
+        GreenValue = g;
+        BlueValue = b;
+    }
+
+    public static Color White { get; } = new(255, 255, 255);
+    public static Color Black { get; } = new(0, 0, 0);
+    public static Color Red { get; } = new(255, 0, 0);
+    public static Color Orange { get; } = new(255, 165, 0);
+    public static Color Yellow { get; } = new(255, 255, 0);
+    public static Color Green { get; } = new(0, 128, 0);
+    public static Color Blue { get; } = new(0, 0, 255);
+    public static Color Purple { get; } = new(128, 0, 128);
+}
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                        THE CARD
+Color[] colors = [Color.Red, Color.Green, Color.Blue, Color.Yellow];
+Rank[] ranks = [Rank.One, Rank.Two, Rank.Three, Rank.Four, Rank.Five, Rank.Six, Rank.Seven, Rank.Eight, Rank.Nine, Rank.Ten, Rank.DollarSign, Rank.Percent, Rank.Caret, Rank.Ampersand];
+
+foreach (Color color in colors)
+{
+    foreach (Rank rank in ranks)
+    {
+        Card thisCard = new(color, rank);
+        thisCard.WhoAmI();
+    }
+}
+
+public class Card
+{
+    public Color CardColor { get; }
+    public Rank CardRank { get; }
+
+    public Card(Color color, Rank rank)
+    {
+        CardColor = color;
+        CardRank = rank;
+    }
+
+    public void WhoAmI()
+    {
+        Console.WriteLine($"I am the {CardColor.ToString().ToLower()} {CardRank.ToString().ToLower()}.");
+    }
+
+    public bool isSymbol => CardRank == Rank.DollarSign || CardRank == Rank.Percent || CardRank == Rank.Caret || CardRank == Rank.Ampersand; // this is new, i don't really know how to use it
+    public bool isNumber => !isSymbol;
+}
+
+public enum Color { Red, Green, Blue, Yellow }
+public enum Rank { One, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, DollarSign, Percent, Caret, Ampersand }
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                 THE LOCKED DOOR
+
+Console.WriteLine("Enter the door's initial passcode:");
+string chosenPasscode = Console.ReadLine();
+Door door = new(chosenPasscode);
+Console.WriteLine("You created a door with the passcode " + chosenPasscode + ". The door is currently locked.");
+
+while (true)
+{
+    Console.WriteLine("What do you want to do with it?\n" +
+        "1. Open the door\n" +
+        "2. Close the door\n" +
+        "3. Lock the door\n" +
+        "4. Unlock the door\n" +
+        "5. Change the door's passcode\n" +
+        "E. Quit the application");
+
+    string input = Console.ReadLine();
+    switch (input)
+    {
+        case "1":
+            door.OpenDoor();
+            break;
+        case "2":
+            door.CloseDoor();
+            break;
+        case "3":
+            door.LockDoor();
+            break;
+        case "4":
+            door.UnlockDoor();
+            break;
+        case "5":
+            door.ChangePasscode();
+            break;
+        case "E":
+            Console.WriteLine("Goodbye!");
+            break;
+        default:
+            Console.WriteLine("Enter a valid input.");
+            break;
+    }
+    /*input switch
+    {
+        "1" => door.OpenDoor(),
+        "2" => door.CloseDoor(),
+        "3" => door.LockDoor(),
+        "4" => door.UnlockDoor(),
+        "E" => Console.WriteLine("Goodbye!"),
+        _ => Console.WriteLine("Enter a valid input.")
+    }*/
+    // why didn't this work?
+
+    if (input == "E")
+    {
+        break;
+    }
+}
+
+public class Door
+{
+    public string Passcode { get; private set; }
+    DoorState state = DoorState.Locked;
+
+    public Door(string initialPasscode)
+    {
+        Passcode = initialPasscode;
+    }
+
+    public void LockDoor()
+    {
+        if (state != DoorState.Closed)
+        {
+            Console.WriteLine("The door must be closed in order to be locked!\n");
+        }
+        else
+        {
+            state = DoorState.Locked;
+            Console.WriteLine("The door is now locked.\n");
+        }
+    }
+
+    public void UnlockDoor()
+    {
+        if (state != DoorState.Locked)
+        {
+            Console.WriteLine("The door is not locked!\n");
+        }
+        else
+        {
+            Console.WriteLine("Please, enter the door's passcode:");
+
+            while (true)
+            {
+                string input = Console.ReadLine();
+                if (input == Passcode)
+                {
+                    state = DoorState.Closed;
+                    Console.WriteLine("The door is now unlocked.\n");
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Incorrect passcode. Try again.");
+                }
+            }
+        }
+    }
+
+    public void OpenDoor()
+    {
+        if (state != DoorState.Closed)
+        {
+            Console.WriteLine("The door must be closed in order to be opened!\n");
+        }
+        else
+        {
+            state = DoorState.Open;
+            Console.WriteLine("The door is now opened.\n");
+        }
+    }
+
+    public void CloseDoor()
+    {
+        if (state != DoorState.Open)
+        {
+            Console.WriteLine("The door must be opened in order to be closed!\n");
+        }
+        else
+        {
+            state = DoorState.Closed;
+            Console.WriteLine("The door is now closed.\n");
+        }
+    }
+
+    public void ChangePasscode()
+    {
+        Console.WriteLine("Please enter the door's current passcode:");
+
+        while (true)
+        {
+            string userInput = Console.ReadLine();
+
+            if (userInput == Passcode)
+            {
+                Console.WriteLine("Now enter the new passcode:");
+                Passcode = Console.ReadLine();
+                Console.WriteLine("The door's passcode is now " + Passcode + ".\n");
+                break;
+            }
+            else
+            {
+                Console.WriteLine("Incorrect passcode. Try again.");
+            }
+        }
+    }
+
+    enum DoorState { Open, Closed, Locked }
+}
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                          THE PASSWORD VALIDATOR
+PasswordValidator validator = new();
+
+while (true)
+{
+    validator.CheckPasswordValidity(GetInput("your password must be at least 6 letters long and must have no more than 13 characters\n" +
+        "it must contain at least one lowercase letter, one uppercase letter, and one digit\n" +
+        "it cannot contain an & or an uppercase T (thanks to Ingelmar in IT)"));
+}
+
+string GetInput(string prompt)
+{
+    Console.WriteLine(prompt);
+    string input = Console.ReadLine().ToString();
+    return input;
+}
+
+public class PasswordValidator
+{
+    public void CheckPasswordValidity(string password)
+    {
+        if (HasRequiredLenght(password) && HasRequiredCharacters(password) && NoForbiddenCharacters(password))
+        {
+            Console.WriteLine("password is valid!\n");
+        }
+        else
+        {
+            Console.WriteLine("password is invalid!\n");
+        }
+
+    }
+
+    private bool HasRequiredLenght(string value)
+    {
+        if (value.Length >= 6 && value.Length <= 13)
+            return true;
+        else
+            return false;
+    }
+
+    private bool HasRequiredCharacters(string value)
+    {
+        bool hasLower = false;
+        bool hasUpper = false;
+        bool hasDigit = false;
+
+        foreach (char c in value)
+        {
+            if (char.IsLower(c)) { hasLower = true; }
+            if (char.IsUpper(c)) { hasUpper = true; }
+            if (char.IsDigit(c)) { hasDigit = true; }
+        }
+
+        if (hasLower && hasUpper && hasDigit) { return true; } else { return false; }
+    }
+
+    private bool NoForbiddenCharacters(string value)
+    {
+        bool hasInvalidCharacters = false;
+
+        foreach (char c in value)
+        {
+            if (c.ToString() == "T" || c.ToString() == "&")
+            { hasInvalidCharacters = true; }
+        }
+
+        if (hasInvalidCharacters) { return false; } else { return true; }
+    }
+}
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                             ROCK PAPER SCISSORS
+RockPaperScissors
+    stores the possible choices, Rock, Paper, and Scissors (maybe even handles Lizard and Spock!)
+    handles two players
+        Player; GameManager
+    ask for the names of the two players
+        Player
+
+Player
+    stores the player's name
+    stores the player's results
+        GameManager
+
+GameManager
+    starts and ends the round
+    ask for the player's choice
+        Player
+    decides who won or if the round tied
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                  15-PUZZLE GAME
+15-PuzzleGame
+    has a 4x4 grid of numbers with 15 numbers
+    ends the game if all the entries are in increasing order
+        OrderChecker
+
+GameManager
+    asks for the player's input
+    warns the player if the inputted movement is invalid
+        MoveValidator
+
+MoveValidator
+    checks if the player's movements are valid
+        GameManager
+
+OrderChecker
+    checks if the orders are correct
+        GameManager
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                     TIC TAC TOE
+GameManager manager = new();
+Player player1 = new(1, GetString("Player 1 choose your name: "));
+Player player2 = new(2, GetString("Player 2 choose your name: "));
+int turn = 0;
+
+Console.WriteLine("let's start the game of Tic Tac Toe\n");
+manager.DisplayBoard();
+while (true)
+{
+    turn++;
+    manager.InsertMark(player1);
+    manager.DisplayBoard();
+    if (manager.PlayerWon() == true)
+    {
+        Console.WriteLine($"Congrats {player1.Name}, you win!");
+        break;
+    }
+
+    if (turn == 9)
+    {
+        Console.WriteLine("it's a draw!");
+        break;
+    }
+
+    turn++;
+    manager.InsertMark(player2);
+    manager.DisplayBoard();
+    if (manager.PlayerWon() == true)
+    {
+        Console.WriteLine($"Congrats {player2.Name}, you win!");
+        break;
+    }
+}
+
+string GetString(string prompt)
+{
+    Console.Write(prompt);
+    string? value = Console.ReadLine();
+    return value;
+}
+
+int GetInt(string prompt)
+{
+    Console.Write(prompt);
+    int value = Convert.ToInt32(Console.ReadLine());
+    return value;
+}
+
+public class GameManager
+{
+    string[] house = [null, " ", " ", " ", " ", " ", " ", " ", " ", " "];
+    public List<int> filledHouses = [];
+
+    public bool IsWon { get; private set; }
+
+    public void DisplayBoard()
+    {
+        Console.WriteLine(
+            $"{house[7]}|{house[8]}|{house[9]}\n" +
+                                       $"-----\n" +
+            $"{house[4]}|{house[5]}|{house[6]}\n" +
+                                       $"-----\n" +
+            $"{house[1]}|{house[2]}|{house[3]}\n");
+    }
+
+    public void InsertMark(Player currentPlayer)
+    {
+        Mark mark = currentPlayer.Mark;
+        int input;
+
+        while (true)
+        {
+            input = GetInt($"{currentPlayer.Name}, where would you like to place your mark? "); Console.WriteLine();
+
+            if (filledHouses.Contains(input))
+            {
+                Console.WriteLine("this house is already filled! choose another one");
+            }
+            else
+            {
+                filledHouses.Add(input);
+                break;
+            }
+        }
+        house[input] = mark.ToString();
+
+        int GetInt(string prompt)
+        {
+            Console.Write(prompt);
+            int value = Convert.ToInt32(Console.ReadLine());
+            return value;
+        }
+    }
+
+    public bool PlayerWon()
+    {
+        bool value = false;
+
+        // checking collumns
+        if (house[7] != " " || house[4] != " " || house[1] != " ")
+        {
+            if (house[7] == house[4] && house[4] == house[1])
+                value = true;
+        }
+        else if (house[8] != " " || house[5] != " " || house[2] != " ")
+        {
+            if (house[8] == house[5] && house[5] == house[2])
+                value = true;
+        }
+        else if (house[9] != " " || house[6] != " " || house[3] != " ")
+        {
+            if (house[9] == house[6] && house[6] == house[3])
+                value = true;
+        }
+
+        // checking rows
+        if (house[7] != " " || house[8] != " " || house[9] != " ")
+        {
+            if (house[7] == house[8] && house[8] == house[9])
+                value = true;
+        }
+        else if (house[4] != " " || house[5] != " " || house[6] != " ")
+        {
+            if (house[4] == house[5] && house[5] == house[6])
+                value = true;
+        }
+        else if (house[1] != " " || house[2] != " " || house[3] != " ")
+        {
+            if (house[1] == house[2] && house[2] == house[3])
+                value = true;
+        }
+
+        //checking diagonals
+        if (house[7] != " " || house[5] != " " || house[3] != " ")
+        {
+            if (house[7] == house[5] && house[5] == house[3])
+                value = true;
+        }
+        else if (house[9] != " " || house[5] != " " || house[1] != " ")
+        {
+            if (house[9] == house[5] && house[5] == house[1])
+                value = true;
+        }
+
+        return value;
+    }
+
+}
+
+public class Player
+{
+    public string Name { get; private set; }
+    public Mark Mark { get; private set; }
+
+    public Player(int playerNumber, string playerName)
+    {
+        if (playerNumber == 1)
+        {
+            Mark = Mark.O;
+            Name = playerName;
+        }
+        else
+        {
+            Mark = Mark.X;
+            Name = playerName;
+        }
+    }
+}
+
+public enum Mark { O, X }
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                               PACKING INVENTORY
+Pack pack = new(10, 10, 10);
+
+Console.WriteLine("choose what you want to do:\n" +
+    "1. add an arrow\n" +
+    "2. add a bow\n" +
+    "3. add a rope\n" +
+    "4. add some water\n" +
+    "5. add a food ration\n" +
+    "6. add a sword\n" +
+    "I. show the pack's status\n" +
+    "Q. quit application");
+ConsoleKey input = 0;
+
+while (input != ConsoleKey.Q)
+{
+    Console.Write("enter your choice: ");
+    input = Console.ReadKey().Key; Console.WriteLine();
+
+    InventoryItem? newItem = input switch
+    {
+        ConsoleKey.NumPad1 => new Arrow(),
+        ConsoleKey.NumPad2 => new Bow(),
+        ConsoleKey.NumPad3 => new Rope(),
+        ConsoleKey.NumPad4 => new Water(),
+        ConsoleKey.NumPad5 => new FoodRation(),
+        ConsoleKey.NumPad6 => new Sword(),
+        _ => null
+    };
+
+    if (input == ConsoleKey.I)
+    {
+        pack.ShowStatus(); continue;
+    }
+
+    if (pack.IsFull(newItem))
+    {
+        Console.WriteLine("you can't add any more items!\n");
+    }
+    else
+    {
+        pack.Add(newItem);
+        Console.WriteLine($"{newItem.ToString} was added to your pack\n");
+    }
+}
+
+public class Pack
+{
+    public float MaxWeight { get; }
+    public float MaxVolume { get; }
+    public int MaxCount { get; }
+
+    public InventoryItem[] items;
+
+    public float CurrentWeight { get; private set; }
+    public float CurrentVolume { get; private set; }
+    public int CurrentCount { get; private set; }
+
+    public bool IsFull(InventoryItem newItem)
+    {
+        if (CurrentWeight + newItem.Weight > MaxWeight) return true;
+        else if (CurrentVolume + newItem.Volume > MaxVolume) return true;
+        else if (CurrentCount + 1 > MaxCount) return true;
+        else return false;
+    }
+
+    public void Add(InventoryItem item)
+    {
+        items[CurrentCount] = item;
+        CurrentCount++;
+
+        CurrentVolume += item.Volume;
+        CurrentWeight += item.Weight;
+    }
+
+    public void ShowStatus()
+    {
+        if ( MaxCount - CurrentCount > 0 )
+        {
+            Console.WriteLine($"your pack has {CurrentWeight} units of weight, {CurrentVolume} units of volume, and can carry {MaxCount - CurrentCount} more items\n");
+        }
+        else
+        {
+            Console.WriteLine($"your pack has {CurrentWeight} units of weight, {CurrentVolume} units of volume, but can carry no more items\n");
+        }
+    }
+
+    public Pack(float w, float v, int c)
+    {
+        MaxWeight = w; CurrentWeight = 0;
+        MaxVolume = v; CurrentVolume = 0;
+        MaxCount = c; CurrentCount = 0;
+
+        items = new InventoryItem[c];
+    }
+}
+
+public class InventoryItem
+{
+    public float Weight { get; }
+    public float Volume { get; }
+
+    public InventoryItem(float w, float v)
+    {
+        Weight = w;
+        Volume = v;
+    }
+}
+
+public class Arrow : InventoryItem      { public Arrow() : base(.1f, .05f)   { } }
+public class FoodRation : InventoryItem { public FoodRation() : base(1, .5f) { } }
+public class Water : InventoryItem      { public Water() : base(2, 3)        { } }
+public class Sword : InventoryItem      { public Sword() : base(5f, 3f)      { } }
+public class Bow : InventoryItem        { public Bow() : base(1, 4)          { } }
+public class Rope : InventoryItem       { public Rope() : base(1, 1.5f)      { } }
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                              LABELING INVENTORY
+Pack pack = new(10, 10, 10);
+Console.WriteLine(pack);
+
+Console.WriteLine("choose what you want to do:\n" +
+    "1. add an arrow\n" +
+    "2. add a bow\n" +
+    "3. add a rope\n" +
+    "4. add some water\n" +
+    "5. add a food ration\n" +
+    "6. add a sword\n" +
+    "I. show the pack's status\n" +
+    "Q. quit application");
+ConsoleKey input = 0;
+
+while (input != ConsoleKey.Q)
+{
+    Console.Write("enter your choice: ");
+    input = Console.ReadKey().Key; Console.WriteLine();
+
+    InventoryItem? newItem = input switch
+    {
+        ConsoleKey.NumPad1 => new Arrow(),
+        ConsoleKey.NumPad2 => new Bow(),
+        ConsoleKey.NumPad3 => new Rope(),
+        ConsoleKey.NumPad4 => new Water(),
+        ConsoleKey.NumPad5 => new FoodRation(),
+        ConsoleKey.NumPad6 => new Sword(),
+        _ => null
+    };
+
+    if (input == ConsoleKey.I)
+    {
+        pack.ShowStatus();
+        continue;
+    }
+
+    if (pack.IsFull(newItem)) { Console.WriteLine("you can't add any more items!\n"); }
+    else
+    {
+        pack.Add(newItem);
+        Console.WriteLine($"{newItem} was added to your pack\n" + pack); // so you don't have to add the .ToString for the class' name to be called...
+    }
+
+    Console.WriteLine();
+}
+
+public class Pack
+{
+    public float CurrentWeight { get; private set; }  public float MaxWeight { get; }
+    public float CurrentVolume { get; private set; }  public float MaxVolume { get; }
+    public int CurrentCount { get; private set; }     public int MaxCount { get; }
+
+    public InventoryItem[] items;
+
+    public bool IsFull(InventoryItem newItem)
+    {
+        if (CurrentWeight + newItem.Weight > MaxWeight) return true;
+        else if (CurrentVolume + newItem.Volume > MaxVolume) return true;
+        else if (CurrentCount + 1 > MaxCount) return true;
+        else return false;
+    }
+
+    public override string ToString()
+    {
+        if (items[0] == null) { return "an empty pack"; }
+
+        string sentence = "A pack containing ";
+
+        foreach (InventoryItem item in items)
+        {
+            if (item != null)
+            {
+                sentence += item + " ";
+            }
+            else { break; }
+        }
+
+        return sentence;
+    }
+
+    public void Add(InventoryItem item)
+    {
+        items[CurrentCount] = item;
+        CurrentCount++;
+
+        CurrentVolume += item.Volume;
+        CurrentWeight += item.Weight;
+    }
+
+    public void ShowStatus()
+    {
+        if (MaxCount - CurrentCount > 0)
+        {
+            Console.WriteLine($"your pack has {CurrentWeight} units of weight, {CurrentVolume} units of volume, and can carry {MaxCount - CurrentCount} more items\n");
+        }
+        else
+        {
+            Console.WriteLine($"your pack has {CurrentWeight} units of weight, {CurrentVolume} units of volume, but can carry no more items\n");
+        }
+    }
+
+    public Pack(float w, float v, int c)
+    {
+        MaxWeight = w; CurrentWeight = 0;
+        MaxVolume = v; CurrentVolume = 0;
+        MaxCount = c; CurrentCount = 0;
+
+        items = new InventoryItem[c];
+    }
+}
+
+public class InventoryItem
+{
+    public float Weight { get; }
+    public float Volume { get; }
+    public string Name { get; }
+
+    public InventoryItem(float w, float v, string name)
+    {
+        Weight = w;
+        Volume = v;
+        Name = name;
+    }
+
+    public override string ToString() => Name; // this is amazing! setting up a ToString override lets you call the class without the .methods!
+}
+
+public class Arrow : InventoryItem { public Arrow() : base(.1f, .05f, "Arrow") { } }
+public class FoodRation : InventoryItem { public FoodRation() : base(1, .5f, "Food Ration") { } }
+public class Water : InventoryItem { public Water() : base(2, 3, "Water") { } }
+public class Sword : InventoryItem { public Sword() : base(5f, 3f, "Sword") { } }
+public class Bow : InventoryItem { public Bow() : base(1, 4, "Bow") { } }
+public class Rope : InventoryItem { public Rope() : base(1, 1.5f, "Rope") { } }
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                   THE OLD ROBOT
+Robot robot = new();
+
+Console.WriteLine("type 3 of the following commands to give to the robot:\n\n" +
+    "on.     Turns the robot on\n" +
+    "off.    Turns the robot off\n" +
+    "north.  moves the robot one unit north\n" +
+    "south.  moves the robot one unit south\n" +
+    "west.   moves the robot one unit west\n" +
+    "east.   moves the robot one unit east\n");
+
+for (int i = 0; i < 3; i++)
+{
+    robot.Commands[i] = ChooseCommand(GetInput());
+}
+
+robot.Run();
+
+RobotCommand ChooseCommand(string choice)
+{
+    RobotCommand command = choice switch
+    {
+        "on" => new OnCommand(),
+        "off" => new OffCommand(),
+        "north" => new NorthCommand(),
+        "south" => new SouthCommand(),
+        "west" => new WestCommand(),
+        "east" => new EastCommand(),
+    };
+
+    return command;
+}
+
+string GetInput()
+{
+    while (true)
+    {
+        string[] validInputs = ["on", "off", "north", "south", "west", "east"];
+        
+        string input = Console.ReadLine().ToString();
+        
+        if (!validInputs.Contains(input)) { Console.WriteLine("that is not a valid input\n"); }
+        else{ return input; }
+    }
+}
+
+public class Robot
+{
+    public int X { get; set; }
+    public int Y { get; set; }
+    public bool IsPowered { get; set; }
+
+    public RobotCommand?[] Commands { get; } = new RobotCommand?[3];
+    public void Run()
+    {
+        foreach (RobotCommand? command in Commands)
+        {
+            command?.Run(this);
+            Console.WriteLine($"[{X} {Y} {IsPowered}]");
+        }
+    }
+}
+
+public abstract class RobotCommand
+{
+    public abstract void Run(Robot robot);
+}
+
+public class OnCommand : RobotCommand
+{
+    public override void Run(Robot robot)
+    {
+        robot.IsPowered = true;
+    }
+}
+
+public class OffCommand : RobotCommand
+{
+    public override void Run(Robot robot)
+    {
+        robot.IsPowered = false;
+    }
+}
+
+public class WestCommand : RobotCommand
+{
+    public override void Run(Robot robot)
+    {
+        if (robot.IsPowered) robot.X--;
+        else Console.WriteLine("the robot needs to be turned on first!");
+    }
+}
+
+public class EastCommand : RobotCommand
+{
+    public override void Run(Robot robot)
+    {
+        if (robot.IsPowered) robot.X++;
+        else Console.WriteLine("the robot needs to be turned on first!");
+    }
+}
+
+public class SouthCommand : RobotCommand
+{
+    public override void Run(Robot robot)
+    {
+        if (robot.IsPowered) robot.Y--;
+        else Console.WriteLine("the robot needs to be turned on first!");
+    }
+}
+
+public class NorthCommand : RobotCommand
+{
+    public override void Run(Robot robot)
+    {
+        if (robot.IsPowered) robot.Y++;
+        else Console.WriteLine("the robot needs to be turned on first!");
+    }
+}
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                               ROBOTIC INTERFACE
+Robot robot = new();
+
+Console.WriteLine("type 3 of the following commands to give to the robot:\n\n" +
+    "on.     Turns the robot on\n" +
+    "off.    Turns the robot off\n" +
+    "north.  moves the robot one unit north\n" +
+    "south.  moves the robot one unit south\n" +
+    "west.   moves the robot one unit west\n" +
+    "east.   moves the robot one unit east\n");
+
+for (int i = 0; i < 3; i++)
+{
+    robot.Commands[i] = ChooseCommand(GetInput());
+}
+
+robot.Run();
+
+IRobotCommand ChooseCommand(string choice)
+{
+    IRobotCommand command = choice switch
+    {
+        "on" => new OnCommand(),
+        "off" => new OffCommand(),
+        "north" => new NorthCommand(),
+        "south" => new SouthCommand(),
+        "west" => new WestCommand(),
+        "east" => new EastCommand(),
+        _ => new OffCommand()
+    };
+
+    return command;
+}
+
+string GetInput()
+{
+    while (true)
+    {
+        string[] validInputs = ["on", "off", "north", "south", "west", "east"];
+
+        string input = Console.ReadLine();
+
+        if (!validInputs.Contains(input)) { Console.WriteLine("that is not a valid input\n"); }
+        else { return input; }
+    }
+}
+
+public class Robot
+{
+    public int X { get; set; }
+    public int Y { get; set; }
+    public bool IsPowered { get; set; }
+
+    public IRobotCommand?[] Commands { get; } = new IRobotCommand?[3];
+    public void Run()
+    {
+        foreach (IRobotCommand? command in Commands)
+        {
+            command?.Run(this);
+            Console.WriteLine($"[{X} {Y} {IsPowered}]");
+        }
+    }
+}
+
+public interface IRobotCommand
+{
+    void Run(Robot robot);
+}
+
+public class OnCommand : IRobotCommand
+{
+    public void Run(Robot robot)
+    {
+        robot.IsPowered = true;
+    }
+}
+
+public class OffCommand : IRobotCommand
+{
+    public void Run(Robot robot)
+    {
+        robot.IsPowered = false;
+    }
+}
+
+public class WestCommand : IRobotCommand
+{
+    public void Run(Robot robot)
+    {
+        if (robot.IsPowered) robot.X--;
+        else Console.WriteLine("the robot needs to be turned on first!");
+    }
+}
+
+public class EastCommand : IRobotCommand
+{
+    public void Run(Robot robot)
+    {
+        if (robot.IsPowered) robot.X++;
+        else Console.WriteLine("the robot needs to be turned on first!");
+    }
+}
+
+public class SouthCommand : IRobotCommand
+{
+    public void Run(Robot robot)
+    {
+        if (robot.IsPowered) robot.Y--;
+        else Console.WriteLine("the robot needs to be turned on first!");
+    }
+}
+
+public class NorthCommand : IRobotCommand
+{
+    public void Run(Robot robot)
+    {
+        if (robot.IsPowered) robot.Y++;
+        else Console.WriteLine("the robot needs to be turned on first!");
+    }
+}
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                ROOM COORDINATES
+Random random = new();
+
+Coordinate c1 =  new(random.Next(-2, 2), random.Next(-2, 2));
+Coordinate c2 = new(random.Next(-2, 2), random.Next(-2, 2));
+Coordinate c3 = new(random.Next(-2, 2), random.Next(-2, 2));
+
+Console.WriteLine($"c1 = ({c1.X}, {c1.Y})    c2 = ({c2.X}, {c2.Y})    c3 = ({c3.X}, {c3.Y})");
+c1.Compare(c2);
+c2.Compare(c3);
+c1.Compare(c3);
+
+public struct Coordinate
+{
+    public int X { get; init; }
+    public int Y { get; init; }
+
+    public Coordinate(int x, int y)
+    {
+        X = x; Y = y;
+    }
+
+    public void Compare(Coordinate other)
+    {
+        if (other.X == X && other.Y == Y)
+        {
+            Console.WriteLine($"{this} and {other} are the same room!");
+        }
+        else if ((other.X == X && MathF.Abs(other.Y - Y) == 1) ||
+                 (other.Y == Y && MathF.Abs(other.X - X) == 1 ))
+        {
+            Console.WriteLine($"{this} and {other} are adjacent");
+        }
+        else
+        {
+            Console.WriteLine($"{this} and {other} are not adjacent");
+        }
+    }
+}
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                WAR PREPARATIONS
+Sword basicSword = new(Material.Iron, Gemstone.None, 60, 15);
+Sword grassSword = basicSword with { Material = Material.Binarium, Gemstone = Gemstone.Emerald, Lenght = 80 };
+Sword iceDagger = basicSword with { Gemstone = Gemstone.Sapphire, Lenght = 30, CrossguardWidth = 10 };
+
+Console.WriteLine($"{basicSword}\n{grassSword}\n{iceDagger}");
+
+public record Sword(Material Material, Gemstone Gemstone, float Lenght, float CrossguardWidth)
+{
+    public override string ToString()
+    {
+        if (Gemstone == Gemstone.None) return $"{Material} sword";
+        else return $"{Material} {Gemstone} sword";
+    }
+}
+
+public enum Material { Wood, Bronze, Iron, Steel, Binarium }
+public enum Gemstone { None, Emerald, Amber, Sapphire, Diamond, Bitstone}
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                   COLORED ITEMS
+
+ColoredItem<Sword> blueSword = new ColoredItem<Sword>(new Sword(), ConsoleColor.Blue);
+ColoredItem<Bow> redBow = new ColoredItem<Bow>(new Bow(), ConsoleColor.Red);
+ColoredItem<Axe> greenAxe = new ColoredItem<Axe>(new Axe(), ConsoleColor.Green);
+
+blueSword.Display();
+redBow.Display();
+greenAxe.Display();
+
+public class ColoredItem<T>
+{
+    public T Item { get; }
+    public ConsoleColor Color { get; }
+    
+    public ColoredItem(T item, ConsoleColor color)
+    {
+        Item = item;
+        Color = color;
+    }
+
+    public void Display()
+    {
+        Console.ForegroundColor = Color;
+        Console.WriteLine(Item);
+    }
+}
+
+public class Sword() { }
+public class Bow() { }
+public class Axe() { }
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                         THE FOUNTAIN OF OBJECTS
+
+Player player1 = new();
+Board cave = new Board(4, 4, [0, 2]);
+GameManager gameManager = new(cave, player1);
+
+Greet(cave);
+
+Run(player1, gameManager);
+
+static void Greet(Board cave)
+{
+    Console.Write($"You are in a {cave.ColumnCount}x{cave.RowCount} cave. You have to enable the Fountain of Objects and return to the entrance to escape.\n" +
+        $"Press the spacebar to start the game, or Q to quit. ");
+    while (true)
+    {
+        if (Console.ReadKey().Key == ConsoleKey.Q)
+        {
+            Environment.Exit(0);
+        }
+        if (Console.ReadKey().Key == ConsoleKey.Spacebar)
+        {
+            break;
+        }
+    }
+}
+
+static void Run(Player player1, GameManager gameManager)
+{
+    while (true)
+    {
+        gameManager.Render();
+        gameManager.PromptAction();
+        gameManager.CheckWin();
+
+        if (player1.Won)
+        {
+            Console.WriteLine("The Fountain of Objects has been reactivated, and you have escaped with your life!");
+            break;
+        }
+    }
+}
+
+public class Player
+{
+    public int[] Position { get; set; } = new int[2];
+    public bool Won { get; internal set; }
+
+    public Player()
+    {
+        Position[0] = Position[1] = 0;
+    }
+
+    void Move(int x, int y)
+    {
+        Position[0] = x; Position[1] = y;
+    }
+
+    public string ShowCoordinates()
+    {
+        return $"(Column={Position[0]}, Row={Position[1]})";
+    }
+}
+
+public class Room
+{
+    public int[] Position { get; set; } = { 0, 0 };
+    public RoomType type = RoomType.Empty;
+}
+
+public class Board
+{
+    public int ColumnCount { get; private set; }
+    public int RowCount { get; private set; }
+
+    public Room[,] Rooms;
+    public int[] FountainPosition { get; private set; }
+    public bool FountainEnabled { get; private set; } = false;
+
+    public Board(int columnCount, int rowCount, int[] fountainCoord)
+    {
+        ColumnCount = columnCount;
+        RowCount = rowCount;
+
+        Rooms = new Room[columnCount, rowCount];
+
+        PopulateRooms(columnCount, rowCount);
+        SpecializeRooms(fountainCoord);
+    }
+
+    private void PopulateRooms(int columnCount, int rowCount)
+    {
+        for (int i = 0; i < columnCount; i++)
+        {
+            for (int j = 0; j < rowCount; j++)
+            {
+                Rooms[i, j] = new Room();
+                Rooms[i, j].Position[0] = i;
+                Rooms[i, j].Position[1] = j;
+            }
+        }
+    }
+
+    private void SpecializeRooms(int[] fountainCoord)
+    {
+        Rooms[0, 0].type = RoomType.Entrance;
+        FountainPosition = fountainCoord;
+        Rooms[fountainCoord[0], fountainCoord[1]].type = RoomType.Fountain;
+    }
+
+    public void EnableFountain()
+    {
+        FountainEnabled = true; // maybe i'll have to add an if block to allow the fountain to be disabled
+    }
+}
+
+public class GameManager
+{
+    Board Board { get; set; }
+    Player Player { get; set; }
+
+    public GameManager(Board board, Player player)
+    {
+        Board = board;
+        Player = player;
+    }
+
+    public void Render()
+    {
+        Console.Clear();
+
+        Console.WriteLine($"You are in the room at {Player.ShowCoordinates()}.");
+
+        if (Board.Rooms[Player.Position[0], Player.Position[1]].type == RoomType.Entrance)
+        {
+            Console.WriteLine("You see light coming from the cavern entrance.");
+        }
+        if (Board.Rooms[Player.Position[0], Player.Position[1]].type == RoomType.Fountain)
+        {
+            Console.WriteLine("You hear water dripping from this room. The fountain of objects is here!");
+            if (Board.FountainEnabled)
+            {
+                Console.WriteLine("You have enabled the Fountain of Objects.");
+            }
+        }
+    }
+
+    public void PromptAction()
+    {
+        string input;
+
+        while (true)
+        {
+            Console.Write("What do you want to do?\n" +
+            "(move north, move south, move east, move west, enable fountain) ");
+            input = Console.ReadLine();
+
+            // checks if input is valid
+            // prevents the player from clipping through a wall
+            if (input == "move north")
+            {
+                if (Player.Position[1] == 0)
+                {
+                    Console.WriteLine("You would hit a wall!");
+                }
+                else
+                {
+                    Player.Position[1]--;
+                    break;
+                }
+            }
+            else if (input == "move south")
+            {
+                if (Player.Position[1] == Board.RowCount - 1)
+                {
+                    Console.WriteLine("You would hit a wall!");
+                }
+                else
+                {
+                    Player.Position[1]++;
+                    break;
+                }
+            }
+            else if (input == "move east")
+            {
+                if (Player.Position[0] == Board.ColumnCount - 1)
+                {
+                    Console.WriteLine("You would hit a wall!");
+                }
+                else
+                {
+                    Player.Position[0]++;
+                    break;
+                }
+            }
+            else if (input == "move west")
+            {
+                if (Player.Position[0] == 0)
+                {
+                    Console.WriteLine("You would hit a wall!");
+                }
+                else
+                {
+                    Player.Position[0]--;
+                    break;
+                }
+            }
+            else if (input == "enable fountain")
+            {
+                if (Player.Position[0] == Board.FountainPosition[0] ||
+                    Player.Position[1] == Board.FountainPosition[1])
+                {
+                    Board.EnableFountain();
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("You're not in the fountain room!");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Invalid input");
+            }
+        }
+    }
+
+    internal void CheckWin()
+    {
+        if (Board.FountainEnabled && Player.Position[0] == 0 && Player.Position[1] == 0)
+        {
+            Player.Won = true;
+        }
+    }
+}
+
+public enum RoomType { Entrance, Fountain, Empty }
+public enum Actions { MoveNorth, MoveSouth, MoveEast, MoveWest, EnableFountain }
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                         SMALL, MEDIUM, OR LARGE
+
+Player player1 = new();
+Preferences preferences = new();
+SetPreferences();
+Board cave = new Board(preferences.NumberOfColumns, preferences.NumberOfColumns, [0, 2]);
+GameManager gameManager = new(cave, player1);
+
+
+Run(player1, gameManager);
+
+void SetPreferences()
+{
+    Console.Write($"In this game, you are in a cave and you have to enable the Fountain of Objects and return to the entrance to escape.\n" +
+        $"Choose the size of the cave you want to play in:" +
+        $"1. Small (4x4)\n" +
+        $"2. Medium (6x6)\n" +
+        $"3. Large (8x8)\n" +
+        $"(Choose the numbers from 1 to 3: ");
+
+    ConsoleKey input;
+
+    while (true)
+    {
+        input = Console.ReadKey().Key;
+
+        if (input == ConsoleKey.D1)
+        {
+            preferences.NumberOfColumns = 4;
+            preferences.NumberOfRows = 4;
+            break;
+        }
+        else if (input == ConsoleKey.D2)
+        {
+            preferences.NumberOfColumns = 6;
+            preferences.NumberOfRows = 6;
+            break;
+        }
+        else if (input == ConsoleKey.D3)
+        {
+            preferences.NumberOfColumns = 8;
+            preferences.NumberOfRows = 8;
+            break;
+        }
+        else
+        {
+            Console.Write("\nI don't get it...");
+        }
+    }
+}
+
+static void Run(Player player1, GameManager gameManager)
+{
+    while (true)
+    {
+        gameManager.Render();
+        gameManager.PromptAction();
+        gameManager.CheckWin();
+
+        if (player1.Won)
+        {
+            Console.WriteLine("The Fountain of Objects has been reactivated, and you have escaped with your life!");
+            break;
+        }
+    }
+}
+
+struct Preferences
+{
+    public int NumberOfColumns { get; set; }
+    public int NumberOfRows { get; set; }
+}
+
+public class Player
+{
+    public int[] Position { get; set; } = new int[2];
+    public bool Won { get; internal set; }
+
+    public Player()
+    {
+        Position[0] = Position[1] = 0;
+    }
+
+    void Move(int x, int y)
+    {
+        Position[0] = x; Position[1] = y;
+    }
+
+    public string ShowCoordinates()
+    {
+        return $"(Column={Position[0]}, Row={Position[1]})";
+    }
+}
+
+public class Room
+{
+    public int[] Position { get; set; } = { 0, 0 };
+    public RoomType type = RoomType.Empty;
+}
+
+public class Board
+{
+    public int ColumnCount { get; private set; }
+    public int RowCount { get; private set; }
+
+    public Room[,] Rooms;
+    public int[] FountainPosition { get; private set; } = new int[2];
+    public bool FountainEnabled { get; private set; } = false;
+
+    public Board(int columnCount, int rowCount, int[] fountainCoord)
+    {
+        ColumnCount = columnCount;
+        RowCount = rowCount;
+        FountainPosition = fountainCoord;
+
+        Rooms = new Room[columnCount, rowCount];
+
+        PopulateRooms(columnCount, rowCount);
+        SpecializeRooms();
+    }
+
+    private void PopulateRooms(int columnCount, int rowCount)
+    {
+        for (int i = 0; i < columnCount; i++)
+        {
+            for (int j = 0; j < rowCount; j++)
+            {
+                Rooms[i, j] = new Room();
+                Rooms[i, j].Position[0] = i;
+                Rooms[i, j].Position[1] = j;
+            }
+        }
+    }
+
+    private void SpecializeRooms()
+    {
+        Rooms[0, 0].type = RoomType.Entrance;
+        Rooms[FountainPosition[0], FountainPosition[1]].type = RoomType.Fountain;
+    }
+
+    public void EnableFountain()
+    {
+        FountainEnabled = true; // maybe i'll have to add an if block to allow the fountain to be disabled
+    }
+}
+
+public class GameManager
+{
+    Board Board { get; set; }
+    Player Player { get; set; }
+
+    public GameManager(Board board, Player player)
+    {
+        Board = board;
+        Player = player;
+    }
+
+    public void Render()
+    {
+        Console.Clear();
+
+        Console.WriteLine($"You are in the room at {Player.ShowCoordinates()}.");
+
+        if (Board.Rooms[Player.Position[0], Player.Position[1]].type == RoomType.Entrance)
+        {
+            Console.WriteLine("You see light coming from the cavern entrance.");
+        }
+        if (Board.Rooms[Player.Position[0], Player.Position[1]].type == RoomType.Fountain)
+        {
+            Console.WriteLine("You hear water dripping from this room. The fountain of objects is here!");
+            if (Board.FountainEnabled)
+            {
+                Console.WriteLine("You have enabled the Fountain of Objects.");
+            }
+        }
+    }
+
+    public void PromptAction()
+    {
+        string input;
+
+        while (true)
+        {
+            Console.Write("What do you want to do?\n" +
+            "(move north, move south, move east, move west, enable fountain) ");
+            input = Console.ReadLine();
+
+            // checks if input is valid
+            // prevents the player from clipping through a wall
+            if (input == "move north")
+            {
+                if (Player.Position[1] == 0)
+                {
+                    Console.WriteLine("You would hit a wall!");
+                }
+                else
+                {
+                    Player.Position[1]--;
+                    break;
+                }
+            }
+            else if (input == "move south")
+            {
+                if (Player.Position[1] == Board.RowCount - 1)
+                {
+                    Console.WriteLine("You would hit a wall!");
+                }
+                else
+                {
+                    Player.Position[1]++;
+                    break;
+                }
+            }
+            else if (input == "move east")
+            {
+                if (Player.Position[0] == Board.ColumnCount - 1)
+                {
+                    Console.WriteLine("You would hit a wall!");
+                }
+                else
+                {
+                    Player.Position[0]++;
+                    break;
+                }
+            }
+            else if (input == "move west")
+            {
+                if (Player.Position[0] == 0)
+                {
+                    Console.WriteLine("You would hit a wall!");
+                }
+                else
+                {
+                    Player.Position[0]--;
+                    break;
+                }
+            }
+            else if (input == "enable fountain")
+            {
+                if (CoordinatesMatch(Player.Position, Board.FountainPosition))
+                {
+                    Board.EnableFountain();
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("You're not in the fountain room!");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Invalid input");
+            }
+        }
+    }
+
+    // Function that compares two integer arrays and returns `true` if they match
+    bool CoordinatesMatch(int[] first, int[] second)
+    {
+        if (first.Length != second.Length)
+        {
+            return false;
+        }
+
+        for (int i = 0; i < first.Length; i++)
+        {
+            if (first[i] != second[i])
+            {
+                return false;
+            }
+        }
+
+        return true;
+    }
+
+    internal void CheckWin()
+    {
+        if (Board.FountainEnabled && Player.Position[0] == 0 && Player.Position[1] == 0)
+        {
+            Player.Won = true;
+        }
+    }
+}
+
+public enum RoomType { Entrance, Fountain, Empty }
+public enum Actions { MoveNorth, MoveSouth, MoveEast, MoveWest, EnableFountain }
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                            PITS
+
+Player player1 = new();
+Preferences preferences = new();
+SetPreferences();
+
+Board cave = new Board(preferences, new Position(0, 2));
+Game game = new(cave, player1);
+Run(game);
+
+void SetPreferences()
+{
+    Console.Write($"In this game, you are in a cave and you have to enable the Fountain of Objects and return to the entrance to escape.\n" +
+        $"Choose the size of the cave you want to play in:\n" +
+        $"1. Small (4x4)\n" +
+        $"2. Medium (6x6)\n" +
+        $"3. Large (8x8)\n" +
+        $"(Choose the numbers from 1 to 3: ");
+
+    ConsoleKey input;
+
+    while (true)
+    {
+        input = Console.ReadKey().Key;
+
+        switch (input)
+        {
+            case ConsoleKey.D1:
+                preferences.NumberOfColumns = 4; preferences.NumberOfRows = 4; preferences.NumberOfPits = 1;
+                break;
+            case ConsoleKey.D2:
+                preferences.NumberOfColumns = 6; preferences.NumberOfRows = 6; preferences.NumberOfPits = 2;
+                break;
+            case ConsoleKey.D3:
+                preferences.NumberOfColumns = 8; preferences.NumberOfRows = 8; preferences.NumberOfPits = 3;
+                break;
+            default:
+                PrettyConsole.Write("\nInvalid input", ConsoleColor.DarkRed, ConsoleColor.Black);
+                continue;
+        }
+        break;
+    }
+}
+
+static void Run(Game game)
+{
+    while (game.Player.IsAlive && !game.Player.Won)
+    {
+        game.UpdatePlayerSenses();
+        game.Render();
+        game.PromptAction();
+        game.CheckPlayerStatus();
+        game.Player.SetSenses(false);
+    }
+
+    if (game.Player.Won)
+    {
+        PrettyConsole.WriteLine("The Fountain of Objects has been reactivated, and you have escaped with your life!", ConsoleColor.DarkGreen);
+    }
+    else if (!game.Player.IsAlive)
+    {
+        PrettyConsole.WriteLine("You died!", ConsoleColor.Red, ConsoleColor.Black);
+    }
+}
+
+public struct Preferences
+{
+    public int NumberOfColumns { get; set; }
+    public int NumberOfRows { get; set; }
+    public int NumberOfPits { get; set; }
+}
+
+public struct Position
+{
+    public int X { get; set; }
+    public int Y { get; set; }
+
+    public Position(int x, int y)
+    {
+        X = x; Y = y;
+    }
+
+    public static bool operator ==(Position p1, Position p2)
+    {
+        return p1.Equals(p2);
+    }
+
+    public static bool operator !=(Position p1, Position p2)
+    {
+        return !p1.Equals(p2);
+    }
+
+    public override bool Equals(object obj)
+    {
+        if (obj is Position other)
+        {
+            if (other.X == X && other.Y == Y)
+            {
+                return true;
+            }
+            else { return false; }
+        }
+        else
+        {
+            return false;
+        }
+    }
+}
+
+public class Player
+{
+    public bool IsAlive { get; internal set; }
+    public Position Position;
+    // public Dictionary<Sense, bool> Senses { get; set; } = [];
+    // maybe dictionaries are a good addition to the game
+    public bool SensesDraft { get; internal set; }
+    public bool SensesEntranceLight { get; internal set; }
+    public bool SensesFountain { get; internal set; }
+    public bool Won { get; internal set; }
+
+    public Player()
+    {
+        IsAlive = true;
+        Position.X = Position.Y = 0;
+    }
+
+    public string ShowCoordinates()
+    {
+        return $"(Column={Position.X}, Row={Position.Y})";
+    }
+
+    // Function that sets the players senses to a specific bool value
+    internal void SetSenses(bool value)
+    {
+        SensesDraft = SensesEntranceLight = SensesFountain = value;
+    }
+}
+
+public struct Room
+{
+    public Position Position;
+    public RoomType Type { get; set; } = RoomType.Empty;
+
+    public Room(int x, int y)
+    {
+        Position.X = x; Position.Y = y;
+    }
+}
+
+public class Board
+{
+    public int ColumnCount { get; init; }
+    public int RowCount { get; init; }
+    public int PitCount { get; init; }
+
+    public Room[,] Rooms;
+    public Position FountainPosition { get; init; }
+    public bool FountainEnabled { get; private set; } = false;
+
+    public Board(Preferences pref, Position fountainPosition)
+    {
+        ColumnCount = pref.NumberOfColumns;
+        RowCount = pref.NumberOfRows;
+        PitCount = pref.NumberOfPits;
+        FountainPosition = fountainPosition;
+
+        Rooms = new Room[pref.NumberOfColumns, pref.NumberOfRows];
+
+        PopulateRooms();
+        SpecializeRooms();
+    }
+
+    private void PopulateRooms()
+    {
+        for (int i = 0; i < ColumnCount; i++)
+        {
+            for (int j = 0; j < RowCount; j++)
+            {
+                Rooms[i, j] = new Room(i, j);
+            }
+        }
+    }
+
+    private void SpecializeRooms()
+    {
+        Rooms[0, 0].Type = RoomType.Entrance;
+        Rooms[FountainPosition.X, FountainPosition.Y].Type = RoomType.Fountain;
+        if (PitCount == 1)
+        {
+            Rooms[2, 2].Type = RoomType.Pit;
+        }
+        else if (PitCount == 2)
+        {
+            Rooms[2, 2].Type = RoomType.Pit;
+            Rooms[3, 3].Type = RoomType.Pit;
+        }
+        else if (PitCount == 3)
+        {
+            Rooms[2, 2].Type = RoomType.Pit;
+            Rooms[3, 3].Type = RoomType.Pit;
+            Rooms[4, 4].Type = RoomType.Pit;
+        }
+    }
+
+    public void EnableFountain()
+    {
+        FountainEnabled = true; // maybe i'll have to add an if block to allow the fountain to be disabled
+    }
+
+    public bool InsideBounds(int[] coordinates)
+    {
+        if (coordinates[0] > 0 && coordinates[0] <= ColumnCount && coordinates[1] > 0 && coordinates[1] < RowCount)
+        {
+            return true;
+        }
+        else { return false; }
+    }
+}
+
+public class Game
+{
+    public Board Board { get; set; }
+    public Player Player { get; set; }
+
+    public Game(Board board, Player player)
+    {
+        Board = board;
+        Player = player;
+    }
+
+    Room GetRoom(Player p)
+    {
+        return Board.Rooms[p.Position.X, p.Position.Y];
+    }
+
+    Room GetRoom(int row, int column)
+    {
+        return Board.Rooms[row, column];
+    }
+
+    public void Render()
+    {
+        Console.Clear();
+
+        PrettyConsole.WriteLine($"You are in the room at {Player.ShowCoordinates()}.", ConsoleColor.White, ConsoleColor.Black);
+
+        if (Player.SensesEntranceLight)
+        {
+            PrettyConsole.WriteLine("You see light coming from the cavern entrance.", ConsoleColor.DarkBlue);
+        }
+        if (Player.SensesDraft)
+        {
+            PrettyConsole.WriteLine("You feel a draft. There is a pit in a nearby room.", ConsoleColor.DarkYellow, ConsoleColor.Black);
+        }
+        if (Player.SensesFountain)
+        {
+            PrettyConsole.WriteLine("You hear water dripping from this room. The fountain of objects is here!", ConsoleColor.DarkBlue);
+            if (Board.FountainEnabled)
+            {
+                PrettyConsole.WriteLine("You have enabled the Fountain of Objects.", ConsoleColor.DarkGreen);
+            }
+        }
+    }
+
+    public void PromptAction()
+    {
+        string input;
+
+        while (true)
+        {
+            PrettyConsole.WriteLine("What do you want to do?", ConsoleColor.White, ConsoleColor.Black);
+            Console.Write("(move north, move south, move east, move west, enable fountain) ");
+            input = Console.ReadLine();
+
+            // If block to check if input is valid and prevent the player from going out of bounds
+            if (input == "move north")
+            {
+                if (Player.Position.Y == 0)
+                {
+                    PrettyConsole.WriteLine("You would hit a wall!", ConsoleColor.DarkYellow);
+                }
+                else
+                {
+                    Player.Position.Y--;
+                    break;
+                }
+            }
+            else if (input == "move south")
+            {
+                if (Player.Position.Y == Board.RowCount - 1)
+                {
+                    PrettyConsole.WriteLine("You would hit a wall!", ConsoleColor.DarkYellow);
+                }
+                else
+                {
+                    Player.Position.Y++;
+                    break;
+                }
+            }
+            else if (input == "move east")
+            {
+                if (Player.Position.X == Board.ColumnCount - 1)
+                {
+                    PrettyConsole.WriteLine("You would hit a wall!", ConsoleColor.DarkYellow);
+                }
+                else
+                {
+                    Player.Position.X++;
+                    break;
+                }
+            }
+            else if (input == "move west")
+            {
+                if (Player.Position.X == 0)
+                {
+                    PrettyConsole.WriteLine("You would hit a wall!", ConsoleColor.DarkYellow);
+                }
+                else
+                {
+                    Player.Position.X--;
+                    break;
+                }
+            }
+            else if (input == "enable fountain")
+            {
+                if (Player.Position == Board.FountainPosition)
+                {
+                    Board.EnableFountain();
+                    break;
+                }
+                else
+                {
+                    PrettyConsole.WriteLine("You're not in the fountain room!", ConsoleColor.DarkYellow, ConsoleColor.Black);
+                }
+            }
+            else
+            {
+                PrettyConsole.WriteLine("Invalid input", ConsoleColor.DarkRed, ConsoleColor.Black);
+            }
+        }
+    }
+
+    // Function to check if the player died or won the game
+    internal void CheckPlayerStatus()
+    {
+        // Checking if player has enabled fountain and has got to the entrance
+        if (Board.FountainEnabled && Player.Position == new Position(0, 0))
+        {
+            Player.Won = true;
+        }
+
+        // Checking if the player fell in a pit
+        if (GetRoom(Player).Type == RoomType.Pit)
+        {
+            Player.IsAlive = false;
+        }
+    }
+
+    internal void UpdatePlayerSenses()
+    {
+        // Checking if the player is at the entrance
+        if (Player.Position == new Position(0, 0))
+        {
+            Player.SensesEntranceLight = true;
+        }
+
+        // Checking if the player is in one of the eight adjacent rooms to the pit
+        for (int i = -1; i < 2; i++)
+        {
+            for (int j = -1; j < 2; j++)
+            {
+                if (i == j && j == 0) { } // avoids checking the room the player is currently standing
+                else if (Board.InsideBounds([Player.Position.X + i, Player.Position.Y + j])) // Avoids checking for rooms that are out of bounds
+                {
+                    if (Board.Rooms[Player.Position.X + i, Player.Position.Y + j].Type == RoomType.Pit) // If one of the adjacent rooms are RoomType.Pit, warns the player that they feel a draft
+                    {
+                        Player.SensesDraft = true;
+                    }
+                }
+            }
+        }
+
+        // Checking if the player is at the Fountain room
+        if (GetRoom(Player).Type == RoomType.Fountain)
+        {
+            Player.SensesFountain = true;
+        }
+    }
+}
+
+// Class used to display colored text based on context
+static class PrettyConsole
+{
+    // Function that mimics Console.Writeline, but changes the background color
+    public static void WriteLine(string v, ConsoleColor c)
+    {
+        Console.BackgroundColor = c;
+        Console.WriteLine(v);
+        // Changes back the console to the default palette
+        Console.BackgroundColor = ConsoleColor.Black;
+    }
+
+    // Function that mimics Console.Writeline, but changes the background and the foreground colors
+    public static void WriteLine(string v, ConsoleColor b, ConsoleColor f)
+    {
+        Console.BackgroundColor = b;
+        Console.ForegroundColor = f;
+        Console.WriteLine(v);
+        // Changes back the console to the default palette
+        Console.BackgroundColor = ConsoleColor.Black;
+        Console.ForegroundColor = ConsoleColor.White;
+    }
+
+    // Function that mimics Console.Write, but changes the background color
+    public static void Write(string v, ConsoleColor c)
+    {
+        Console.BackgroundColor = c;
+        Console.Write(v);
+        // Changes back the console to the default palette
+        Console.BackgroundColor = ConsoleColor.Black;
+    }
+
+    // Function that mimics Console.Write, but changes the background and the foreground colors
+    public static void Write(string v, ConsoleColor b, ConsoleColor f)
+    {
+        Console.BackgroundColor = b;
+        Console.ForegroundColor = f;
+        Console.Write(v);
+        // Changes back the console to the default palette
+        Console.BackgroundColor = ConsoleColor.Black;
+        Console.ForegroundColor = ConsoleColor.White;
+    }
+}
+
+public enum RoomType { Entrance, Fountain, Pit, Empty }
+public enum Action { MoveNorth, MoveSouth, MoveEast, MoveWest, EnableFountain }
+public enum Sense { Draft, EntranceLight }
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                         AMAROKS
+
+Player player1 = new();
+Preferences preferences = new();
+SetPreferences();
+Board cave = new Board(preferences, new Position(0, 2));
+Game game = new(cave, player1);
+Run(game);
+
+void SetPreferences()
+{
+    Console.Write($"In this game, you are in a cave and you have to enable the Fountain of Objects and return to the entrance to escape.\n" +
+        $"Choose the size of the cave you want to play in:\n" +
+        $"1. Small (4x4)\n" +
+        $"2. Medium (6x6)\n" +
+        $"3. Large (8x8)\n" +
+        $"(Choose the numbers from 1 to 3: ");
+
+    ConsoleKey input;
+
+    while (true)
+    {
+        input = Console.ReadKey().Key;
+
+        switch (input)
+        {
+            case ConsoleKey.D1:
+                preferences.NumberOfColumns = 4; preferences.NumberOfRows = 4; preferences.NumberOfPits = 1; preferences.EnemyCount = 2; preferences.CaveType = CaveType.Small;
+                break;
+            case ConsoleKey.D2:
+                preferences.NumberOfColumns = 6; preferences.NumberOfRows = 6; preferences.NumberOfPits = 2; preferences.EnemyCount = 3; preferences.CaveType = CaveType.Medium;
+                break;
+            case ConsoleKey.D3:
+                preferences.NumberOfColumns = 8; preferences.NumberOfRows = 8; preferences.NumberOfPits = 3; preferences.EnemyCount = 5; preferences.CaveType = CaveType.Large;
+                break;
+            default:
+                PrettyConsole.Write("\nInvalid input", ConsoleColor.DarkRed, ConsoleColor.Black);
+                continue;
+        }
+        break;
+    }
+}
+
+static void Run(Game game)
+{
+    while (game.Player.IsAlive && !game.Player.Won)
+    {
+        game.UpdatePlayerSenses();
+        game.Render();
+        game.PromptAction();
+        game.EnemiesAct();
+        game.CheckForWinOrDeath();
+        game.Player.SetSenses(false);
+    }
+
+    if (game.Player.Won)
+    {
+        PrettyConsole.WriteLine("The Fountain of Objects has been reactivated, and you have escaped with your life!", ConsoleColor.DarkGreen);
+    }
+    else if (!game.Player.IsAlive)
+    {
+        PrettyConsole.WriteLine("You fell in a pit and died!", ConsoleColor.Red, ConsoleColor.Black);
+    }
+}
+
+public struct Preferences
+{
+    public int NumberOfColumns { get; set; }
+    public int NumberOfRows { get; set; }
+    public int NumberOfPits { get; set; }
+    public int NumberOfMaelstroms { get; set; }
+    public int EnemyCount { get; set; }
+    public CaveType CaveType { get; internal set; }
+}
+
+public struct Position
+{
+    public int X { get; set; }
+    public int Y { get; set; }
+
+    public Position(int x, int y)
+    {
+        X = x; Y = y;
+    }
+
+    public static bool operator ==(Position p1, Position p2)
+    {
+        return p1.Equals(p2);
+    }
+
+    public static bool operator !=(Position p1, Position p2)
+    {
+        return !p1.Equals(p2);
+    }
+
+    public override bool Equals(object obj)
+    {
+        if (obj is Position other)
+        {
+            if (other.X == X && other.Y == Y)
+            {
+                return true;
+            }
+            else { return false; }
+        }
+        else
+        {
+            return false;
+        }
+    }
+}
+
+public class Player
+{
+    public bool IsAlive { get; internal set; }
+    public Position Position;
+    // public Dictionary<Sense, bool> Senses { get; set; } = [];
+    // maybe dictionaries are a good addition to the game
+    public bool SensesDraft { get; internal set; }
+    public bool SensesEntranceLight { get; internal set; }
+    public bool SensesFountain { get; internal set; }
+    public bool SensesMaelstrom { get; internal set; }
+    public bool SensesAmarok { get; internal set; }
+    public bool Won { get; internal set; }
+
+    // These should persist after a round has ended in order for the renderer display some information
+    public static bool BeenSoared { get; set; }
+
+    public Player()
+    {
+        IsAlive = true;
+        Position.X = Position.Y = 0;
+    }
+
+    public string ShowCoordinates()
+    {
+        return $"(Column={Position.X}, Row={Position.Y})";
+    }
+
+    // Function that sets the players senses to a specific bool value
+    internal void SetSenses(bool value)
+    {
+        SensesDraft = SensesEntranceLight = SensesFountain = SensesMaelstrom = value;
+    }
+}
+
+public struct Room
+{
+    public Position Position;
+    public RoomType Type { get; set; } = RoomType.Empty;
+
+    public Room(int x, int y)
+    {
+        Position.X = x; Position.Y = y;
+    }
+}
+
+public abstract class Enemy
+{
+    public Position Position { get; set; }
+    public bool IsAlive { get; set; }
+
+    public Enemy(Position p)
+    {
+        Position = p;
+        IsAlive = true;
+    }
+
+    public abstract void Act(Game game);
+    public abstract void Smell(Game game);
+}
+
+public class Amarok : Enemy
+{
+    public Amarok(Position p) : base(p) { }
+
+    public override void Act(Game game)
+    {
+        if (game.Player.Position == Position)
+        {
+            KillPlayer(game);
+        }
+    }
+
+    // Function to clear the console and warn him that he has been killed by an amarok
+    private void KillPlayer(Game game) // NOTE i think this method should be a Game method, and maybe the pits should have them as well
+    {
+        Console.Clear();
+        PrettyConsole.WriteLine("You have been killed by an amarok!", ConsoleColor.Black, ConsoleColor.DarkRed);
+        Environment.Exit(0);
+    }
+
+    public override void Smell(Game game)
+    {
+        game.Player.SensesAmarok = true;
+    }
+}
+
+public class Maelstrom : Enemy
+{
+    public Maelstrom(Position p) : base(p) { }
+
+    // Checks if the player is in the same room as itself, then relocates itself and the player to different locations 
+    public override void Act(Game game)
+    {
+        if (game.Player.Position == Position)
+        {
+            // Relocates the player to one unit north, two units east, clamping to the maps boundaries
+            game.Player.Position = new Position(Math.Clamp(game.Player.Position.X + 2, 0, game.Board.ColumnCount - 1), Math.Clamp(game.Player.Position.Y + 1, 0, game.Board.RowCount - 1));
+            // Relocates itself to one unit south, two units west, clamping to the maps boundaries
+            Position = new Position(Math.Clamp(Position.X - 2, 0, game.Board.ColumnCount - 1), Math.Clamp(Position.Y - 1, 0, game.Board.RowCount -1));
+
+            // This bool will be reset after the renderer displays this information
+            Player.BeenSoared = true;
+            
+            // Checks the player status after moved to another location
+            game.CheckForWinOrDeath();
+        }
+    }
+
+    public override void Smell(Game game)
+    {
+        game.Player.SensesMaelstrom = true;
+    }
+}
+
+public class Board
+{
+    CaveType Type { get; init; }
+    public int ColumnCount { get; init; }
+    public int RowCount { get; init; }
+    public int PitCount { get; init; }
+
+    public Room[,] Rooms;
+    public Enemy[] Enemies;
+    public Position FountainPosition { get; init; }
+    public bool FountainEnabled { get; private set; } = false;
+
+    public Board(Preferences pref, Position fountainPosition)
+    {
+        Type = pref.CaveType;
+        ColumnCount = pref.NumberOfColumns;
+        RowCount = pref.NumberOfRows;
+        PitCount = pref.NumberOfPits;
+        FountainPosition = fountainPosition;
+
+        Rooms = new Room[pref.NumberOfColumns, pref.NumberOfRows];
+        Enemies = new Enemy[pref.EnemyCount];
+
+        PopulateRooms();
+        SpecializeRooms();
+        PlaceEnemies();
+    }
+
+    private void PlaceEnemies()
+    {
+        if (Type == CaveType.Small)
+        {
+            Enemies[0] = new Maelstrom(new Position(0, 3));
+            Enemies[1] = new Amarok(new Position(2, 2));
+        }
+        if (Type == CaveType.Medium)
+        {
+            Enemies[0] = new Maelstrom(new Position(5, 0));
+            Enemies[1] = new Amarok(new Position(1, 4));
+            Enemies[2] = new Amarok(new Position(4, 5));
+        }
+        if (Type == CaveType.Large)
+        {
+            Enemies[0] = new Maelstrom(new Position(1, 1));
+            Enemies[1] = new Maelstrom(new Position(0, 7));
+            Enemies[2] = new Amarok(new Position(2, 2));
+            Enemies[3] = new Amarok(new Position(7, 2));
+            Enemies[4] = new Amarok(new Position(5, 5));
+        }
+
+    }
+
+    private void PopulateRooms()
+    {
+        for (int i = 0; i < ColumnCount; i++)
+        {
+            for (int j = 0; j < RowCount; j++)
+            {
+                Rooms[i, j] = new Room(i, j);
+            }
+        }
+    }
+
+    private void SpecializeRooms()
+    {
+        Rooms[0, 0].Type = RoomType.Entrance;
+        Rooms[FountainPosition.X, FountainPosition.Y].Type = RoomType.Fountain;
+        if (PitCount == 1)
+        {
+            Rooms[2, 2].Type = RoomType.Pit;
+        }
+        else if (PitCount == 2)
+        {
+            Rooms[3, 2].Type = RoomType.Pit;
+            Rooms[3, 3].Type = RoomType.Pit;
+        }
+        else if (PitCount == 3)
+        {
+            Rooms[2, 2].Type = RoomType.Pit;
+            Rooms[3, 2].Type = RoomType.Pit;
+            Rooms[4, 4].Type = RoomType.Pit;
+        }
+    }
+
+    public void EnableFountain()
+    {
+        FountainEnabled = true; // maybe i'll have to add an if block to allow the fountain to be disabled
+    }
+
+    public bool InsideBounds(int[] coordinates)
+    {
+        if (coordinates[0] >= 0 && coordinates[0] < ColumnCount && coordinates[1] >= 0 && coordinates[1] < RowCount)
+        {
+            return true;
+        }
+        else { return false; }
+    }
+}
+
+public class Game
+{
+    public Board Board { get; set; }
+    public Player Player { get; set; }
+
+    public Game(Board board, Player player)
+    {
+        Board = board;
+        Player = player;
+    }
+
+    Room GetRoom(Player p)
+    {
+        return Board.Rooms[p.Position.X, p.Position.Y];
+    }
+
+    Room GetRoom(int row, int column)
+    {
+        return Board.Rooms[row, column];
+    }
+
+    public void Render()
+    {
+        Console.Clear();
+
+        PrettyConsole.WriteLine($"You are in the room at {Player.ShowCoordinates()}.", ConsoleColor.White, ConsoleColor.Black);
+
+        // If block to display what the player senses
+        if (Player.SensesEntranceLight)
+        {
+            PrettyConsole.WriteLine("You see light coming from the cavern entrance.", ConsoleColor.DarkBlue);
+        }
+        if (Player.SensesDraft)
+        {
+            PrettyConsole.WriteLine("You feel a draft. There is a pit in a nearby room.", ConsoleColor.DarkYellow, ConsoleColor.Black);
+        }
+        if (Player.SensesFountain)
+        {
+            PrettyConsole.WriteLine("You hear water dripping from this room. The fountain of objects is here!", ConsoleColor.DarkBlue);
+            if (Board.FountainEnabled)
+            {
+                PrettyConsole.WriteLine("You have enabled the Fountain of Objects.", ConsoleColor.DarkGreen);
+            }
+        }
+        if (Player.SensesMaelstrom)
+        {
+            PrettyConsole.WriteLine("Your hear the growling and groaning of a maelstrom nearby.", ConsoleColor.DarkYellow, ConsoleColor.Black);
+        }
+        if (Player.SensesAmarok)
+        {
+            PrettyConsole.WriteLine("You smell the rotten stench of an amarok in a nearby room.", ConsoleColor.DarkYellow, ConsoleColor.Black);
+        }
+
+        // if block to render events that happened in the previous round
+        if (Player.BeenSoared)
+        {
+            PrettyConsole.WriteLine("You have been soared to another position!", ConsoleColor.DarkGray);
+            Player.BeenSoared = false;
+        }
+    }
+
+    public void PromptAction()
+    {
+        string input;
+
+        while (true)
+        {
+            PrettyConsole.WriteLine("What do you want to do?", ConsoleColor.White, ConsoleColor.Black);
+            Console.Write("(move north, move south, move east, move west, enable fountain) ");
+            input = Console.ReadLine();
+
+            // If block to check if input is valid and prevent the player from going out of bounds
+            if (input == "move north")
+            {
+                if (Player.Position.Y == 0)
+                {
+                    PrettyConsole.WriteLine("You would hit a wall!", ConsoleColor.DarkYellow);
+                }
+                else
+                {
+                    Player.Position.Y--;
+                    break;
+                }
+            }
+            else if (input == "move south")
+            {
+                if (Player.Position.Y == Board.RowCount - 1)
+                {
+                    PrettyConsole.WriteLine("You would hit a wall!", ConsoleColor.DarkYellow);
+                }
+                else
+                {
+                    Player.Position.Y++;
+                    break;
+                }
+            }
+            else if (input == "move east")
+            {
+                if (Player.Position.X == Board.ColumnCount - 1)
+                {
+                    PrettyConsole.WriteLine("You would hit a wall!", ConsoleColor.DarkYellow);
+                }
+                else
+                {
+                    Player.Position.X++;
+                    break;
+                }
+            }
+            else if (input == "move west")
+            {
+                if (Player.Position.X == 0)
+                {
+                    PrettyConsole.WriteLine("You would hit a wall!", ConsoleColor.DarkYellow);
+                }
+                else
+                {
+                    Player.Position.X--;
+                    break;
+                }
+            }
+            else if (input == "enable fountain")
+            {
+                if (Player.Position == Board.FountainPosition)
+                {
+                    Board.EnableFountain();
+                    break;
+                }
+                else
+                {
+                    PrettyConsole.WriteLine("You're not in the fountain room!", ConsoleColor.DarkYellow, ConsoleColor.Black);
+                }
+            }
+            else
+            {
+                PrettyConsole.WriteLine("Invalid input", ConsoleColor.DarkRed, ConsoleColor.Black);
+            }
+        }
+    }
+
+    // Function to check if the player died or won the game
+    internal void CheckForWinOrDeath()
+    {
+        // Checking if player has enabled fountain and has got to the entrance
+        if (Board.FountainEnabled && Player.Position == new Position(0, 0))
+        {
+            Player.Won = true;
+        }
+
+        // Checking if the player fell in a pit
+        if (GetRoom(Player).Type == RoomType.Pit)
+        {
+            Player.IsAlive = false;
+        }
+    }
+
+    internal void UpdatePlayerSenses()
+    {
+        // Checking if the player is at the entrance, if they are, they will be warned that they sense light
+        if (Player.Position == new Position(0, 0))
+        {
+            Player.SensesEntranceLight = true;
+        }
+
+        // Checking conditions surrounding the adjacent rooms
+        for (int i = -1; i < 2; i++)
+        {
+            for (int j = -1; j < 2; j++)
+            {
+                // Variables to store the coordinates of the adjacent rooms to be checked
+                int curX = Player.Position.X + i;
+                int curY = Player.Position.Y + j;
+                if (i == 0 && i == j) { } // avoids checking the room the player is currently standing
+                else if (Board.InsideBounds([curX, curY])) // Avoids checking for rooms that are out of bounds
+                {
+                    // If the current room is RoomType.Pit the player will be warned
+                    if (Board.Rooms[curX, curY].Type == RoomType.Pit) // If one of the adjacent rooms are RoomType.Pit, warns the player that they feel a draft
+                    {
+                        Player.SensesDraft = true;
+                    }
+
+                    // Loops through the enemy list and warn the player of their proximity
+                    foreach (Enemy enemy in Board.Enemies)
+                    {
+                        if (enemy.Position == new Position(curX, curY))
+                        {
+                            enemy.Smell(this);
+                        }
+                    }
+                }
+            }
+        }
+
+        // Checking if the player is at the Fountain room
+        if (GetRoom(Player).Type == RoomType.Fountain)
+        {
+            Player.SensesFountain = true;
+        }
+    }
+
+    internal void EnemiesAct()
+    {
+        foreach (Enemy enemy in Board.Enemies)
+        {
+            enemy.Act(this);
+        }
+    }
+}
+
+// Class used to display colored text based on context
+static class PrettyConsole
+{
+    // Function that mimics Console.Writeline, but changes the background color
+    public static void WriteLine(string v, ConsoleColor c)
+    {
+        Console.BackgroundColor = c;
+        Console.WriteLine(v);
+        // Changes back the console to the default palette
+        Console.BackgroundColor = ConsoleColor.Black;
+    }
+
+    // Function that mimics Console.Writeline, but changes the background and the foreground colors
+    public static void WriteLine(string v, ConsoleColor b, ConsoleColor f)
+    {
+        Console.BackgroundColor = b;
+        Console.ForegroundColor = f;
+        Console.WriteLine(v);
+        // Changes back the console to the default palette
+        Console.BackgroundColor = ConsoleColor.Black;
+        Console.ForegroundColor = ConsoleColor.White;
+    }
+
+    // Function that mimics Console.Write, but changes the background color
+    public static void Write(string v, ConsoleColor c)
+    {
+        Console.BackgroundColor = c;
+        Console.Write(v);
+        // Changes back the console to the default palette
+        Console.BackgroundColor = ConsoleColor.Black;
+    }
+
+    // Function that mimics Console.Write, but changes the background and the foreground colors
+    public static void Write(string v, ConsoleColor b, ConsoleColor f)
+    {
+        Console.BackgroundColor = b;
+        Console.ForegroundColor = f;
+        Console.Write(v);
+        // Changes back the console to the default palette
+        Console.BackgroundColor = ConsoleColor.Black;
+        Console.ForegroundColor = ConsoleColor.White;
+    }
+}
+
+public enum RoomType { Entrance, Fountain, Pit, Empty }
+public enum Action { MoveNorth, MoveSouth, MoveEast, MoveWest, EnableFountain }
+public enum Sense { Draft, EntranceLight }
+public enum CaveType { Small, Medium, Large } // IMPLEMENT in the cave creation part
+
+// DarkGrey for maelstrom movement
+// DarkYellow Black for danger warnings (proximity to an amarok or maelstrom)
+// Black DarkRed for getting killed by an amarok
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                    GETTING HELP
+                                                                                                    (still needs documenting...)
+
+Player player1 = new();
+Preferences preferences = new();
+SetPreferences();
+Board cave = new Board(preferences, new Position(0, 2));
+Game game = new(cave, player1);
+Run(game);
+
+void SetPreferences()
+{
+    Console.Write($"In this game, you are in a cave and you have to enable the Fountain of Objects and return to the entrance to escape.\n" +
+        $"Choose the size of the cave you want to play in:\n" +
+        $"1. Small (4x4)\n" +
+        $"2. Medium (6x6)\n" +
+        $"3. Large (8x8)\n" +
+        $"(Choose the numbers from 1 to 3: ");
+
+    ConsoleKey input;
+
+    while (true)
+    {
+        input = Console.ReadKey().Key;
+
+        switch (input)
+        {
+            case ConsoleKey.D1:
+                preferences.NumberOfColumns = 4; preferences.NumberOfRows = 4; preferences.NumberOfPits = 1; preferences.EnemyCount = 2; preferences.CaveType = CaveType.Small;
+                break;
+            case ConsoleKey.D2:
+                preferences.NumberOfColumns = 6; preferences.NumberOfRows = 6; preferences.NumberOfPits = 2; preferences.EnemyCount = 3; preferences.CaveType = CaveType.Medium;
+                break;
+            case ConsoleKey.D3:
+                preferences.NumberOfColumns = 8; preferences.NumberOfRows = 8; preferences.NumberOfPits = 3; preferences.EnemyCount = 5; preferences.CaveType = CaveType.Large;
+                break;
+            default:
+                PrettyConsole.Write("\nInvalid input", ConsoleColor.DarkRed, ConsoleColor.Black);
+                continue;
+        }
+        break;
+    }
+}
+
+void Run(Game game)
+{
+    PrettyConsole.DisplayAndWaitForInput("You enter the Cavern of Objects, a maze of rooms filled with dangerous pits in search " +
+        "of the Fountain of Objects. Light is visible only in the entrance, and no other light is seen anywhere in the caverns. " +
+        "You must navigate the Caverns with your other senses. Find the Fountain of Objects, activate it, and return to the " +
+        "entrance.",
+            ConsoleColor.Black, ConsoleColor.White);
+
+    while (game.Player.IsAlive && !game.Player.Won)
+    {
+        game.UpdatePlayerSenses();
+        game.Render();
+        game.PromptAction();
+        game.EnemiesAct();
+        game.CheckForWinOrDeath();
+        game.Player.SetSenses(false);
+    }
+
+    if (game.Player.Won)
+    {
+        PrettyConsole.WriteLine("The Fountain of Objects has been reactivated, and you have escaped with your life!", ConsoleColor.DarkGreen);
+    }
+    else if (!game.Player.IsAlive)
+    {
+        PrettyConsole.WriteLine("You fell in a pit and died!", ConsoleColor.Red, ConsoleColor.Black);
+    }
+}
+
+public struct Preferences
+{
+    public int NumberOfColumns { get; set; }
+    public int NumberOfRows { get; set; }
+    public int NumberOfPits { get; set; }
+    public int NumberOfMaelstroms { get; set; }
+    public int EnemyCount { get; set; }
+    public CaveType CaveType { get; internal set; }
+}
+
+public struct Position
+{
+    public int X { get; set; }
+    public int Y { get; set; }
+
+    public Position(int x, int y)
+    {
+        X = x; Y = y;
+    }
+
+    public static bool operator ==(Position p1, Position p2)
+    {
+        return p1.Equals(p2);
+    }
+
+    public static bool operator !=(Position p1, Position p2)
+    {
+        return !p1.Equals(p2);
+    }
+
+    public override bool Equals(object obj)
+    {
+        if (obj is Position other)
+        {
+            if (other.X == X && other.Y == Y)
+            {
+                return true;
+            }
+            else { return false; }
+        }
+        else
+        {
+            return false;
+        }
+    }
+
+    public Position Clone()
+    {
+        return new Position(this.X, this.Y);
+    }
+
+    public bool SameRow(Position other)
+    {
+        if (other.Y == Y) { return true; }
+        else { return false; }
+    }
+
+    public bool SameColumn(Position other)
+    {
+        if (other.X == X) { return true; }
+        else { return false; }
+    }
+}
+
+
+public interface IAction
+{
+    // Executes the interface's action
+    // The int this method returns is useful for knowing if the action chosen was activated effectively (0) or not (1)
+    public int Execute(Game game);
+}
+
+// Action that does nothing
+// This is here so the PromptAction() while loop works
+// I know it's awful. I'm a beginner ;-;
+public class VoidAction : IAction
+{
+    public int Execute(Game game)
+    {
+        PrettyConsole.WriteLine("Invalid action. Please choose one from the list", ConsoleColor.DarkCyan);
+        // Fails the action in order to rerun the prompt loop
+        return 1;
+    }
+}
+
+public class MoveAction : IAction
+{
+    Direction Direction { get; set; }
+
+    public int Execute(Game game)
+    {
+        Position newPos = Direction switch
+        {
+            Direction.North => new Position(game.Player.Position.X, game.Player.Position.Y - 1),
+            Direction.South => new Position(game.Player.Position.X, game.Player.Position.Y + 1),
+            Direction.East => new Position(game.Player.Position.X + 1, game.Player.Position.Y),
+            Direction.West => new Position(game.Player.Position.X - 1, game.Player.Position.Y)
+        };
+
+        if (game.Board.InsideBounds(newPos))
+        {
+            game.Player.Position = newPos;
+            // Effective action
+            return 0;
+        }
+        else
+        {
+            PrettyConsole.WriteLine("You would hit a wall!", ConsoleColor.DarkCyan);
+            // Ineffective action
+            return 1;
+        }
+    }
+
+    public MoveAction(Direction direction)
+    {
+        Direction = direction;
+    }
+}
+
+public class EnableFountainAction : IAction
+{
+    public int Execute(Game game)
+    {
+        if (game.Player.Position == game.Board.FountainPosition)
+        {
+            if (!game.Board.FountainEnabled)
+            {
+
+                game.Board.FountainEnabled = true;
+                // Effective action
+                return 0;
+            }
+            else
+            {
+                PrettyConsole.WriteLine("The fountain is already enabled.", ConsoleColor.DarkCyan);
+            }
+        }
+        else
+        {
+            PrettyConsole.WriteLine("You are not on the fountain room.", ConsoleColor.DarkCyan);
+        }
+
+        return 1; // NOTE i hope this works, but if it doesn't, you would have to add a fail state to each branch of the if block
+    }
+}
+
+public class GetHelpAction : IAction
+{
+    public int Execute(Game game)
+    {
+        // Clears the console and displays all of the available commands to the player
+        Console.Clear();
+        PrettyConsole.DisplayAndWaitForInput("Available commands:\n" +
+            "move north         (moves your character north)\n" +
+            "move south         (moves your character south)\n" +
+            "move east          (moves your character east)\n" +
+            "move west          (moves your character west)\n" +
+            "enable fountain    (enables the Fountain of Objects if you're in the same room)\n" +
+            "shoot north        (shoots an arrow north, killing the first enemy struck)\n" +
+            "shoot south        (shoots an arrow south, killing the first enemy struck)\n" +
+            "shoot east         (shoots an arrow east, killing the first enemy struck)\n" +
+            "shoot west         (shoots an arrow north, killing the first enemy struck)", ConsoleColor.Blue, ConsoleColor.White);
+        PrettyConsole.WriteLine("Press any key to continue", ConsoleColor.White, ConsoleColor.Black);
+
+        return 0;
+    }
+}
+
+public class ShootAction : IAction
+{
+    Direction Direction { get; set; }
+
+    public ShootAction(Direction dir)
+    {
+        Direction = dir;
+    }
+
+    public int Execute(Game game)
+    {
+        if (game.Player.ArrowCount < 1)
+        {
+            PrettyConsole.WriteLine("You are out of arrows.", ConsoleColor.DarkCyan);
+            return 1;
+        }
+
+        bool enemyHit = false;
+
+        // Loops through all of the enemies in the board and kills them if they're in the chosen direction
+        foreach (Enemy enemy in game.Board.Enemies)
+        {
+            if (Direction == Direction.North)
+            {
+                if (game.Player.Position.SameColumn(enemy.Position) &&
+                     enemy.Position.Y < game.Player.Position.Y &&
+                     enemy.IsAlive)
+                {
+                    enemy.IsAlive = false;
+                    enemyHit = true;
+                }
+            }
+            else if (Direction == Direction.South)
+            {
+                if (game.Player.Position.SameColumn(enemy.Position) &&
+                     enemy.Position.Y > game.Player.Position.Y &&
+                     enemy.IsAlive)
+                {
+                    enemy.IsAlive = false;
+                    enemyHit = true;
+                }
+                else
+                {
+                    PersistentEvents.MissedEnemy = true;
+                }
+            }
+            else if (Direction == Direction.East)
+            {
+                if (game.Player.Position.SameRow(enemy.Position) &&
+                     enemy.Position.X > game.Player.Position.X &&
+                     enemy.IsAlive)
+                {
+                    enemy.IsAlive = false;
+                    enemyHit = true;
+                }
+                else
+                {
+                    PersistentEvents.MissedEnemy = true;
+                }
+            }
+            else if (Direction == Direction.West)
+            {
+                if (game.Player.Position.SameRow(enemy.Position) &&
+                     enemy.Position.X < game.Player.Position.Y &&
+                     enemy.IsAlive)
+                {
+                    enemy.IsAlive = false;
+                    enemyHit = true;
+                }
+                else
+                {
+                    PersistentEvents.MissedEnemy = true;
+                }
+            }
+        }
+
+        if (enemyHit)
+        {
+            PersistentEvents.HitEnemy = true;
+            PersistentEvents.MissedEnemy = false;
+        }
+        else
+        {
+            PersistentEvents.HitEnemy = false;
+            PersistentEvents.MissedEnemy = true;
+        }
+
+        game.Player.ArrowCount--;
+        // Successful action
+        return 0;
+    }
+}
+
+public class Player
+{
+    public bool IsAlive { get; internal set; }
+    public Position Position;
+    public int ArrowCount { get; internal set; }
+    public bool Won { get; internal set; }
+
+    // List of senses that will be used by the renderer to warn the player
+    public bool SensesDraft { get; internal set; }
+    public bool SensesEntranceLight { get; internal set; }
+    public bool SensesFountain { get; internal set; }
+    public bool SensesMaelstrom { get; internal set; }
+    public bool SensesAmarok { get; internal set; }
+    // New senses go here
+
+
+    public Player()
+    {
+        IsAlive = true;
+        Position.X = Position.Y = 0;
+        ArrowCount = 5;
+    }
+
+    public string ShowCoordinates()
+    {
+        return $"(Column={Position.X}, Row={Position.Y})";
+    }
+
+    // Function that sets the players senses to a specific bool value
+    internal void SetSenses(bool value)
+    {
+        SensesDraft = SensesEntranceLight = SensesFountain = SensesMaelstrom = SensesAmarok = value;
+    }
+}
+
+// Class that will be used by the Renderer to display events that should be displayed after the round is over 
+public static class PersistentEvents
+{
+    public static bool PlayerBeenSoared { get; set; }
+    public static bool HitEnemy { get; set; }
+    public static bool MissedEnemy { get; internal set; }
+    // New persistent events go here
+
+    internal static void Reset()
+    {
+        PlayerBeenSoared = HitEnemy = MissedEnemy = false;
+    }
+}
+
+public struct Room
+{
+    public Position Position;
+    public RoomType Type { get; set; } = RoomType.Empty;
+
+    public Room(int x, int y)
+    {
+        Position.X = x; Position.Y = y;
+    }
+}
+
+public abstract class Enemy
+{
+    public Position Position { get; set; }
+    public bool IsAlive { get; set; }
+
+    public Enemy(Position p)
+    {
+        Position = p;
+        IsAlive = true;
+    }
+
+    public abstract void Act(Game game);
+    public abstract void Smell(Game game);
+}
+
+public class Amarok : Enemy
+{
+    public Amarok(Position p) : base(p) { }
+
+    public override void Act(Game game)
+    {
+        if (game.Player.Position == Position && IsAlive)
+        {
+            KillPlayer(game, "You have been killed by an amarok!");
+        }
+    }
+
+    // Function to clear the console and warn him that he has been killed by an amarok
+    private void KillPlayer(Game game, string reason) // NOTE i think this method should belong to the Game class, and maybe the pits should have them as well
+    {
+        Console.Clear();
+        PrettyConsole.WriteLine(reason, ConsoleColor.Black, ConsoleColor.DarkRed);
+        Environment.Exit(0);
+    }
+
+    public override void Smell(Game game)
+    {
+        if (IsAlive)
+        {
+            game.Player.SensesAmarok = true;
+        }
+    }
+}
+
+public class Maelstrom : Enemy
+{
+    public Maelstrom(Position p) : base(p) { }
+
+    // Checks if the player is in the same room as itself, then relocates itself and the player to different locations 
+    public override void Act(Game game)
+    {
+        if (game.Player.Position == Position && IsAlive)
+        {
+            // Relocates the player to one unit north, two units east, clamping to the maps boundaries
+            game.Player.Position = new Position(Math.Clamp(game.Player.Position.X + 2, 0, game.Board.ColumnCount - 1), Math.Clamp(game.Player.Position.Y + 1, 0, game.Board.RowCount - 1));
+            // Relocates itself to one unit south, two units west, clamping to the maps boundaries
+            Position = new Position(Math.Clamp(Position.X - 2, 0, game.Board.ColumnCount - 1), Math.Clamp(Position.Y - 1, 0, game.Board.RowCount - 1));
+
+            // This bool will be reset after the renderer displays this information
+            PersistentEvents.PlayerBeenSoared = true;
+
+            // Checks the player status after moved to another location
+            game.CheckForWinOrDeath();
+        }
+    }
+
+    public override void Smell(Game game)
+    {
+        if (IsAlive)
+        {
+            game.Player.SensesMaelstrom = true;
+        }
+    }
+}
+
+public class Board
+{
+    CaveType Type { get; init; }
+    public int ColumnCount { get; init; }
+    public int RowCount { get; init; }
+    public int PitCount { get; init; }
+
+    public Room[,] Rooms;
+    public Enemy[] Enemies;
+    public Position FountainPosition { get; init; }
+    public bool FountainEnabled { get; internal set; } = false;
+
+    public Board(Preferences pref, Position fountainPosition)
+    {
+        Type = pref.CaveType;
+        ColumnCount = pref.NumberOfColumns;
+        RowCount = pref.NumberOfRows;
+        PitCount = pref.NumberOfPits;
+        FountainPosition = fountainPosition;
+
+        Rooms = new Room[pref.NumberOfColumns, pref.NumberOfRows];
+        Enemies = new Enemy[pref.EnemyCount];
+
+        PopulateRooms();
+        SpecializeRooms();
+        PlaceEnemies();
+    }
+
+    private void PlaceEnemies()
+    {
+        if (Type == CaveType.Small)
+        {
+            Enemies[0] = new Maelstrom(new Position(0, 3));
+            Enemies[1] = new Amarok(new Position(2, 2));
+        }
+        if (Type == CaveType.Medium)
+        {
+            Enemies[0] = new Maelstrom(new Position(5, 0));
+            Enemies[1] = new Amarok(new Position(1, 4));
+            Enemies[2] = new Amarok(new Position(4, 5));
+        }
+        if (Type == CaveType.Large)
+        {
+            Enemies[0] = new Maelstrom(new Position(1, 1));
+            Enemies[1] = new Maelstrom(new Position(0, 7));
+            Enemies[2] = new Amarok(new Position(1, 5));
+            Enemies[3] = new Amarok(new Position(7, 2));
+            Enemies[4] = new Amarok(new Position(5, 5));
+        }
+
+    }
+
+    private void PopulateRooms()
+    {
+        for (int i = 0; i < ColumnCount; i++)
+        {
+            for (int j = 0; j < RowCount; j++)
+            {
+                Rooms[i, j] = new Room(i, j);
+            }
+        }
+    }
+
+    private void SpecializeRooms()
+    {
+        Rooms[0, 0].Type = RoomType.Entrance;
+        Rooms[FountainPosition.X, FountainPosition.Y].Type = RoomType.Fountain;
+        if (PitCount == 1)
+        {
+            Rooms[2, 2].Type = RoomType.Pit;
+        }
+        else if (PitCount == 2)
+        {
+            Rooms[3, 2].Type = RoomType.Pit;
+            Rooms[3, 3].Type = RoomType.Pit;
+        }
+        else if (PitCount == 3)
+        {
+            Rooms[2, 2].Type = RoomType.Pit;
+            Rooms[3, 2].Type = RoomType.Pit;
+            Rooms[4, 4].Type = RoomType.Pit;
+        }
+    }
+
+    public void EnableFountain()
+    {
+        FountainEnabled = true; // maybe i'll have to add an if block to allow the fountain to be disabled
+    }
+
+    public bool InsideBounds(int[] coordinates)
+    {
+        if (coordinates[0] >= 0 && coordinates[0] < ColumnCount && coordinates[1] >= 0 && coordinates[1] < RowCount)
+        {
+            return true;
+        }
+        else { return false; }
+    }
+
+    public bool InsideBounds(Position pos)
+    {
+        if (pos.X >= 0 && pos.X < ColumnCount && pos.Y >= 0 && pos.Y < RowCount)
+        {
+            return true;
+        }
+        else { return false; }
+    }
+}
+
+public class Game
+{
+    public Board Board { get; set; }
+    public Player Player { get; set; }
+
+    public Game(Board board, Player player)
+    {
+        Board = board;
+        Player = player;
+    }
+
+    Room GetRoom(Player p)
+    {
+        return Board.Rooms[p.Position.X, p.Position.Y];
+    }
+
+    Room GetRoom(int row, int column)
+    {
+        return Board.Rooms[row, column];
+    }
+
+    public void Render()
+    {
+        Console.Clear();
+
+        PrettyConsole.WriteLine($"You are in the room at {Player.ShowCoordinates()}.", ConsoleColor.White, ConsoleColor.Black);
+        PrettyConsole.WriteLine($"Arrows: {Player.ArrowCount}", ConsoleColor.White, ConsoleColor.Black);
+
+        // If block to display what the player senses
+        if (Player.SensesEntranceLight)
+        {
+            PrettyConsole.WriteLine("You see light coming from the cavern entrance.", ConsoleColor.DarkBlue);
+        }
+        if (Player.SensesDraft)
+        {
+            PrettyConsole.WriteLine("You feel a draft. There is a pit in a nearby room.", ConsoleColor.DarkYellow, ConsoleColor.Black);
+        }
+        if (Player.SensesFountain)
+        {
+            PrettyConsole.WriteLine("You hear water dripping from this room. The fountain of objects is here!", ConsoleColor.DarkBlue);
+            if (Board.FountainEnabled)
+            {
+                PrettyConsole.WriteLine("You have enabled the Fountain of Objects.", ConsoleColor.DarkGreen);
+            }
+        }
+        if (Player.SensesMaelstrom)
+        {
+            PrettyConsole.WriteLine("Your hear the growling and groaning of a maelstrom nearby.", ConsoleColor.DarkYellow, ConsoleColor.Black);
+        }
+        if (Player.SensesAmarok)
+        {
+            PrettyConsole.WriteLine("You smell the rotten stench of an amarok in a nearby room.", ConsoleColor.DarkYellow, ConsoleColor.Black);
+        }
+
+        // If block to render persistent events
+        // Persistent events are events that happened in the previous round but have to be displayed in the current round
+        if (PersistentEvents.PlayerBeenSoared)
+        {
+            PrettyConsole.WriteLine("You have been soared to another position!", ConsoleColor.DarkGray);
+        }
+        if (PersistentEvents.HitEnemy)
+        {
+            PrettyConsole.WriteLine("You hear the sound of an enemy howling for getting pierced by your arrow.", ConsoleColor.Black, ConsoleColor.DarkGreen);
+        }
+        if (PersistentEvents.MissedEnemy)
+        {
+            PrettyConsole.WriteLine("You hear the noise of your arrow hitting the stone walls.", ConsoleColor.Black, ConsoleColor.DarkYellow);
+        }
+        // New persistent events go here
+
+        // Resetting the persistent events so they don't get rendered multiple times
+        PersistentEvents.Reset();
+    }
+
+    public void PromptAction()
+    {
+        string input;
+        int actionWorked = 1;
+
+        // Runs while no valid action is detected
+        while (actionWorked != 0)
+        {
+            PrettyConsole.WriteLine("What do you want to do?", ConsoleColor.White, ConsoleColor.Black);
+            Console.Write("(move north, move south, move east, move west, enable fountain) ");
+            input = Console.ReadLine();
+
+            IAction command = input switch
+            {
+                "move north" => new MoveAction(Direction.North),
+                "move south" => new MoveAction(Direction.South),
+                "move east" => new MoveAction(Direction.East),
+                "move west" => new MoveAction(Direction.West),
+                "enable fountain" => new EnableFountainAction(),
+                "shoot north" => new ShootAction(Direction.North),
+                "shoot south" => new ShootAction(Direction.South),
+                "shoot east" => new ShootAction(Direction.East),
+                "shoot west" => new ShootAction(Direction.West),
+                "help" => new GetHelpAction(),
+                _ => new VoidAction()
+            };
+
+            actionWorked = command.Execute(this);
+        }
+    }
+
+    // Function to check if the player died or won the game
+    internal void CheckForWinOrDeath()
+    {
+        // Checking if player has enabled fountain and has got to the entrance
+        if (Board.FountainEnabled && Player.Position == new Position(0, 0))
+        {
+            Player.Won = true;
+        }
+
+        // Checking if the player fell in a pit
+        if (GetRoom(Player).Type == RoomType.Pit)
+        {
+            Player.IsAlive = false;
+        }
+    }
+
+    internal void UpdatePlayerSenses()
+    {
+        // Checking if the player is at the entrance, if they are, they will be warned that they sense light
+        if (Player.Position == new Position(0, 0))
+        {
+            Player.SensesEntranceLight = true;
+        }
+
+        // Checking conditions surrounding the adjacent rooms
+        for (int i = -1; i < 2; i++)
+        {
+            for (int j = -1; j < 2; j++)
+            {
+                // Variables to store the coordinates of the adjacent rooms to be checked
+                int curX = Player.Position.X + i;
+                int curY = Player.Position.Y + j;
+                if (i == 0 && i == j) { } // avoids checking the room the player is currently standing
+                else if (Board.InsideBounds([curX, curY])) // Avoids checking for rooms that are out of bounds
+                {
+                    // If the current room is RoomType.Pit the player will be warned
+                    if (Board.Rooms[curX, curY].Type == RoomType.Pit) // If one of the adjacent rooms are RoomType.Pit, warns the player that they feel a draft
+                    {
+                        Player.SensesDraft = true;
+                    }
+
+                    // Loops through the enemy list and warn the player of their proximity
+                    foreach (Enemy enemy in Board.Enemies)
+                    {
+                        if (enemy.Position == new Position(curX, curY))
+                        {
+                            enemy.Smell(this);
+                        }
+                    }
+                }
+            }
+        }
+
+        // Checking if the player is at the Fountain room
+        if (GetRoom(Player).Type == RoomType.Fountain)
+        {
+            Player.SensesFountain = true;
+        }
+    }
+
+    internal void EnemiesAct()
+    {
+        foreach (Enemy enemy in Board.Enemies)
+        {
+            enemy.Act(this);
+        }
+    }
+}
+
+// Class used to display colored text based on context
+static class PrettyConsole
+{
+    // Function that mimics Console.Writeline, but changes the background color
+    public static void WriteLine(string v, ConsoleColor c)
+    {
+        Console.BackgroundColor = c;
+        Console.WriteLine(v);
+        // Changes back the console to the default palette
+        Console.BackgroundColor = ConsoleColor.Black;
+    }
+
+    // Function that mimics Console.Writeline, but changes the background and the foreground colors
+    public static void WriteLine(string v, ConsoleColor b, ConsoleColor f)
+    {
+        Console.BackgroundColor = b;
+        Console.ForegroundColor = f;
+        Console.WriteLine(v);
+        // Changes back the console to the default palette
+        Console.BackgroundColor = ConsoleColor.Black;
+        Console.ForegroundColor = ConsoleColor.White;
+    }
+
+    // Function that mimics Console.Write, but changes the background color
+    public static void Write(string v, ConsoleColor c)
+    {
+        Console.BackgroundColor = c;
+        Console.Write(v);
+        // Changes back the console to the default palette
+        Console.BackgroundColor = ConsoleColor.Black;
+    }
+
+    // Function that mimics Console.Write, but changes the background and the foreground colors
+    public static void Write(string v, ConsoleColor b, ConsoleColor f)
+    {
+        Console.BackgroundColor = b;
+        Console.ForegroundColor = f;
+        Console.Write(v);
+        // Changes back the console to the default palette
+        Console.BackgroundColor = ConsoleColor.Black;
+        Console.ForegroundColor = ConsoleColor.White;
+    }
+
+    public static void DisplayAndWaitForInput(string text, ConsoleColor b, ConsoleColor f)
+    {
+        Console.Clear();
+        PrettyConsole.WriteLine(text, b, f);
+        PrettyConsole.WriteLine("Press any key to continue", ConsoleColor.White, ConsoleColor.Black);
+
+        ConsoleKeyInfo input = Console.ReadKey();
+    }
+}
+
+public enum RoomType { Entrance, Fountain, Pit, Empty }
+public enum Action { MoveNorth, MoveSouth, MoveEast, MoveWest, EnableFountain }
+public enum CaveType { Small, Medium, Large }
+public enum Direction { North, South, East, West }
+
+// DarkGrey for maelstrom movement
+// DarkYellow Black for danger warnings (proximity to an amarok or maelstrom)
+// Black DarkRed for getting killed by an amarok
+// DarkCyan for failed prompts (hitting walls, enabling the fountain while it's already enabled)
+// Black DarkYellow for missing enemy
+// Black DarkGreen for hitting enemy
+// Blue White for the help text

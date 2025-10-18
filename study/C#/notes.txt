@@ -1,0 +1,107 @@
+5 VARIABLES
+	you can you can declare a variable and initialize it on the same line, like this:
+		int x = 0;
+	you can declare multiple variables simultaneously if they are the same type:
+		int a, b, c;
+	you can assign the same thing to many variables all at once like this:
+		a = b = c = 10;
+
+6 THE C# TYPE SYSTEM
+	variable types:
+		name      bytes    min           max
+		byte      1        0             255
+		short     2        -32768        32767 
+		int       4        -2147483648   2147483647
+		long      8       
+		sbyte     1        
+		ushort    2        
+		uint      4        
+		ulong     8        
+	
+	To write a binary literal, start your number with a 0b. For example:
+		int thirteen = 0b00001101;
+	For a hexadecimal literal, you start your number with 0x:
+		int theColorMagenta = 0xFF00FF;
+	the "char" type uses single quotes
+	If you know the hexadecimal Unicode number for a symbol and would prefer to use that, you can write that out after a \u:
+		char aLetter = '\u0061'; // An 'a'
+	There are three flavors of floating-point numbers: float, double, and decimal
+	If a number literal contains a decimal point, it becomes a double literal instead of an integer literal.
+	Appending an f or F onto the end (with or without the decimal point) makes it a float literal.
+	Appending an m or M onto makes it into a decimal literal.
+	Floating-point literals in C# can use this same notation by embedding an e or E in the number:
+		double avogadrosNumber = 6.022e23;
+
+7 MATH
+	shortcuts for modifying a variable repeatedly:
+		int a = 0;
+		a += 5; // The equivalent of a = a + 5; (a is 5 after this line runs.)
+		a -= 2; // The equivalent of a = a – 2; (a is 3 after this line runs.)
+		a *= 4; // The equivalent of a = a * 4; (a is 12 after this line runs.)
+		a /= 2; // The equivalent of a = a / 2; (a is 6 after this line runs.)
+		a %= 2; // The equivalent of a = a % 2; (a is 0 after this line runs.)
+	increment and decrement
+		int a = 0;
+		a++; // The equivalent of a += 1; or a = a + 1;
+		a--; // The equivalent of a -= 1; or a = a - 1;
+
+8 CONSOLE 2.0
+	string interpolation allows you to embed expressions within a string by surrounding it with curly braces
+		string whatILove = "shushu";
+		Console.WriteLine($"I love {whatILove}.");
+	use the @ sign to treat or text verbatim
+	you can align text by your liking using {stringVariable, 20} where 20 is the line lenght
+
+9 DECISION MAKING
+
+MATH LIBRARY
+Math.Pow(base, exponent);
+Math.Sqrt(number);
+Math.Abs(number);
+Math.Sin(value_in_radians); Math.Cos(value_in_radians);
+Math.Min(number_1, number_2);
+Math.Max(number_1, number_2);
+Math.Clamp(value, lower_bound, upper_bound); // returns a value if within range, or the upper and lower bounds if outside
+
+CONSOLE LIBRARY
+Console.ReadKey(); // expects a single key as input from the user
+    Console.ReadKey(true) hides the user's input from the console
+Console.BackgroundColor = ConsoleColor.Purple; Console.ForegroundColor = ConsoleColor.White;
+Console.Clear();
+Console.Beep(frequency, duration); // it beep
+Console.Title
+
+16
+
+the code below is an example of an enumeration that starts at 1
+	enum Season { Winter = 1, Spring, Summer, Fall }
+the default value of an enumeration is whichever value is assigned the integer 0
+enumerations are integers at heart, but you can change those to be bytes, for example
+	enum Season : byte { Winter, Spring, Summer, Fall }
+
+17
+
+the items in a tuple are ordered as such: tuple.Item1 is the tuple's first item
+
+18 CLASSES
+
+after you create a class you have to "call it" like this
+	ClassName classNameThatIsGoingToBeReferencedInTheCode = new ClassName();
+if you have enough information on the parameters of a class call, you don't have write the class name
+	Classy name = new("some string", 42, 12.5);
+
+null-conditional operators
+    private string? GetTopPlayerName()
+	{
+		if (_scoreManager == null) return null;
+		Score[]? scores = _scoreManager.GetScores();
+		if (scores == null) return null;
+		Score? topScore = scores[0];
+		if (topScore == null) return null;
+		return topScore.Name;
+	}
+	// this could be changed to
+	private string? GetTopPlayerName()
+	{
+		return _scoreManager?.GetScores()?[0]?.Name;
+	}

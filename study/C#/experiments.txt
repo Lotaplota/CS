@@ -1,0 +1,361 @@
+                                                                                                             DAMAGE THIS CONSOLE
+Console.Title = "Damage This Console";
+
+int windowHealth = 100; int windowArmor = 50; string userInput = " ";
+Console.WriteLine("try to kill this console!");
+
+while (windowHealth > 0)
+{
+    Console.WriteLine("insert a damage value (input quit to exit this):");
+    userInput = Console.ReadLine();
+    if (userInput == "quit") { break; };
+    int damage = Convert.ToInt32(userInput);
+    if (windowArmor > 0)
+    {
+        windowArmor = Math.Clamp(windowArmor - damage, 0, 50);
+        Console.WriteLine($"this console still has {windowHealth} health points and {windowArmor} armor points. kill it!");
+        bool armorWarned = false;
+        if (armorWarned == false && windowArmor == 0)
+        {
+            Console.WriteLine("you broke this console's armor!");
+            armorWarned = true;
+        }
+    }
+    else
+    {
+        windowHealth = Math.Clamp(windowHealth - damage, 0, 100);
+        Console.WriteLine($"this console has no armor points left, but still has {windowHealth} health points left. you're almost there");
+    }
+}
+
+if (windowHealth <= 0)
+{
+    Console.WriteLine("you did it!\nmurderer...");
+}
+
+if (userInput == "quit")
+{
+    Console.WriteLine("chicken.");
+}; // lots of issues with this one...
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                  ODD ADDRESSING
+Console.WriteLine("choose the list's length:");
+int arrayLength = Convert.ToInt32(Console.ReadLine());
+int evenLength; int oddLength;
+
+if (arrayLength % 2 == 0)
+{
+    evenLength = arrayLength / 2;
+    oddLength = evenLength;
+}
+else
+{
+    evenLength = arrayLength / 2 + 1;
+    oddLength = evenLength - 1;
+}
+
+int[] integers = new int[arrayLength];
+for (int i = 0; i < integers.Length; i++)
+{
+    integers[i] = i;
+}
+
+int[] evenNumbers = new int[evenLength];
+for (int i = 0; i < evenNumbers.Length; i++)
+{
+    evenNumbers[i] = integers[i * 2];
+}
+
+int[] oddNumbers = new int[oddLength];
+for (int i = 0; i < oddNumbers.Length; i++)
+{
+    oddNumbers[i] = integers[i * 2 + 1];
+}
+
+Console.WriteLine("consider these numbers: ");
+for (int i = 0;i < integers.Length; i++)
+{
+    Console.WriteLine(integers[i]);
+}
+Console.WriteLine("\nthe following are the list's even numbers:");
+for (int i = 0; i < evenNumbers.Length; i++)
+{
+    Console.WriteLine(evenNumbers[i]);
+}
+Console.WriteLine("\nthe following are the list's odd numbers");
+for (int i = 0; i < oddNumbers.Length; i++)
+{
+    Console.WriteLine(oddNumbers[i]);
+}
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                              DISCORD'S ATTEMPT AT SIMULA'S SOUP
+
+Console.WriteLine("We have a variety of types, ingredients, and spices. Please choose:");
+
+int enumArrayLength;
+(SoupType soupChoice, MainIngredients ingredientChoice, Seasoning seasoningChoice) finalSoup;
+
+enumArrayLength = Enum.GetNames(typeof(SoupType)).Length; //Makes it flexible so it automatically prints out the menu, regardless if I hypothetically change the enums (thanks @literallyalice)
+Console.WriteLine("Types of Soup");
+for (int index = 0; index < enumArrayLength; index++)
+{
+    Console.WriteLine($"{index + 1}{(SoupType)index,15}");
+}
+Console.Write("Which type of soup do you wish for? ");
+finalSoup.soupChoice = (SoupType)ZeroIndexConvert();
+
+enumArrayLength = Enum.GetNames(typeof(MainIngredients)).Length;
+Console.WriteLine("Main Ingredients");
+for (int index = 0; index < enumArrayLength; index++)
+{
+    Console.WriteLine($"{index + 1}{(MainIngredients)index,15}");
+}
+Console.Write("Which main ingredient do you wish for? ");
+finalSoup.ingredientChoice = (MainIngredients)ZeroIndexConvert();
+
+enumArrayLength = Enum.GetNames(typeof(Seasoning)).Length;
+Console.WriteLine("Spices");
+for (int index = 0; index < enumArrayLength; index++)
+{
+    Console.WriteLine($"{index + 1}{(Seasoning)index,15}");
+}
+Console.Write("Which seasoning do you wish for? ");
+finalSoup.seasoningChoice = (Seasoning)ZeroIndexConvert();
+
+Console.WriteLine($"{finalSoup.seasoningChoice} {finalSoup.ingredientChoice} {finalSoup.soupChoice}");
+
+int ZeroIndexConvert()
+{
+    int output = Convert.ToInt32(Console.ReadLine()) - 1;
+    return output;
+}
+
+enum SoupType { Soup, Stew, Gumbo }
+enum MainIngredients { Mushroom, Chicken, Carrot, Potato }
+enum Seasoning { Spicy, Salty, Sweet }
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                          GRADER
+bool hasSetAmount, hasSetWeight, hasSetMarkAmount; // these are the user's preferences
+SetPreferencesTo(false);
+
+int amountOfQuestions = 0;
+int amountOfMarks = 0;
+int[] marks = [];
+int[] weights = [];
+float grade = 0;
+
+while (true) // this loop prompts the user to set their preferences
+{
+    if (!hasSetAmount) // skips if the user has already set the weights
+    {
+        amountOfQuestions = GetInt("enter the number of questions you want to grade: ");
+        hasSetAmount = true;
+    }
+    if (!hasSetWeight) // skips if the user has already set the weights
+    {
+        weights = GetArray(amountOfQuestions, $"enter {amountOfQuestions} weights: ");
+        hasSetWeight = true;
+    }
+    if (!hasSetMarkAmount) // skips if the user has already set the amount of marks a student can get with each question
+    {
+        amountOfMarks = GetInt("how many marks can each question get? ");
+        hasSetMarkAmount = true;
+    }
+    while (hasSetAmount && hasSetWeight && hasSetMarkAmount) // runs the main loop
+    {
+        Run();
+    }
+}
+
+void Run() // this is the main loop
+{
+    DisplayHeader();
+    marks = GetArray(amountOfQuestions, "\nNext Marks: ");
+    grade = Grade(weights, marks);
+}
+
+void SetPreferencesTo(bool value) // sets all the boolean preferences of the program to the chosen state
+{
+    if (value == true)
+    { 
+        hasSetAmount = hasSetWeight = hasSetMarkAmount = true;
+    }
+    else
+    {
+        hasSetAmount = hasSetWeight = hasSetMarkAmount = false;
+    }
+}
+
+float Grade(int[] weights, int[] marks) // grades the student by comparing two arrays, one with the questions' weights, and the other with the student's earned marks
+{
+    float collection = 0;
+
+    for (int i = 0; i < amountOfQuestions; i++)
+    {
+        collection += weights[i] * marks[i];
+    }
+    
+    return collection / Sum(weights);
+}
+
+int[] GetArray(int amount, string prompt) // prompts the user with a text and reads digit input, not allowing them to enter letters or symbols
+{
+    Console.WriteLine(prompt);
+    
+    int[] integers = new int[amount];
+
+    for (int i = 0; i < amount; i++)
+    {
+        ConsoleKeyInfo input = Console.ReadKey();
+        if (input.Key == ConsoleKey.Q) // terminates the program
+        {
+            Console.WriteLine("\nGÜBYE");
+            Environment.Exit(0);
+        }
+        if (input.Key == ConsoleKey.W) // resets weights
+        {
+            hasSetWeight = false;
+            Console.WriteLine("\nweights have been reset");
+            break;
+        }
+        if (input.Key == ConsoleKey.M) // resets the amount of marks for each question
+        {
+            hasSetMarkAmount = false;
+            Console.WriteLine("\nmarks have been reset");
+            break;
+        }
+        if (input.Key == ConsoleKey.R) // clears the preferences and resets the program
+        {
+            SetPreferencesTo(false);
+            Console.WriteLine("\nall the preferences have been reset");
+            break;
+        }
+
+        if (Convert.ToInt32(input.KeyChar) > 48 && Convert.ToInt32(input.KeyChar) < 58) // checks if the input is between 48 and 58 in the ASCII table, the range in which the number 0-9 are stored
+                                                                                        // i should consider using char.IsDigit(input.KeyChar)
+        {
+            integers[i] = Convert.ToInt32(input.KeyChar) - 48;
+        }
+        else
+        {
+            Console.SetCursorPosition(Console.CursorLeft - 1, Console.CursorTop); // moves the cursor backwards
+            Console.Write(" ");                                                   // deletes the content and replaces it with a blank space
+            Console.SetCursorPosition(Console.CursorLeft - 1, Console.CursorTop); // then moves the cursor forwards
+
+            i -= 1; // I really liked this bodge!
+        }
+    }
+    Console.WriteLine();
+
+    return integers;
+}
+
+int GetInt(string text) // pretty self explanatory isn't it?
+{
+    Console.Write(text);
+
+    string input = Console.ReadLine();
+    if (input == "Q" || input == "q")
+    {
+        Environment.Exit(0);
+        return 0;
+    }
+    else
+    {
+        return Convert.ToInt32(input);
+    }
+}
+
+int Sum(int[] array) // returns the sum of all of the values in an int[]
+{
+    int value = 0;
+
+    for (int i = 0; i < array.Length; i++)
+    {
+        value += array[i];
+    }
+
+    return value;
+}
+
+void DisplayHeader() // clears the console window, displays the user's input options, the current weights of the question, the current marks, and the resulting student's grade
+{
+    Console.Clear();
+    
+    Console.WriteLine("Q: quit    W: reset weights    M: reset marks    R: reset program\n");
+    Console.Write("Weights: [ ");
+    for (int i = 0; i < weights.Length; i++)
+    {
+        Console.Write($"{weights[i]} ");
+    }
+    Console.WriteLine("]");
+
+    Console.Write("Marks:   [ ");
+    for (int i = 0; i < marks.Length; i++)
+    {
+        Console.Write($"{marks[i]} ");
+    }
+    Console.WriteLine("]");
+
+    Console.WriteLine("Previous Grade: " + Math.Round(grade / amountOfMarks, 2));
+}
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                    ARRAY READER
+
+int[] Read(int amount)
+{
+    int[] integers = new int[amount];
+
+    for (int i = 0; i < amount; i++)
+    {
+        ConsoleKeyInfo input = Console.ReadKey();
+        if (input.Key == ConsoleKey.Q)
+        {
+            Console.WriteLine("\nQUIT");
+            Environment.Exit(0);
+        }
+        if (input.Key == ConsoleKey.W)
+        {
+            Console.WriteLine("\nWEIGHT");
+            Environment.Exit(0);
+        }
+        if ((input.Key == ConsoleKey.R))
+        {
+            Console.WriteLine("\nRESET");
+            Environment.Exit(0);
+        }
+
+        if (Convert.ToInt32(input.KeyChar) < 48 || Convert.ToInt32(input.KeyChar) > 58)
+        {
+            Console.SetCursorPosition(Console.CursorLeft - 1, Console.CursorTop);
+            Console.Write(" ");
+            Console.SetCursorPosition(Console.CursorLeft - 1, Console.CursorTop);
+            
+            i -= 1; // I really liked this bodge!
+        }
+        else
+        {
+            integers[i] = Convert.ToInt32(input.KeyChar) - 48;
+        }
+    }
+    Console.WriteLine();
+
+    return integers;
+}
+
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                   ARRAY PRINTER
+
+void PrintArray(int[] array)
+{
+    Console.Write("[ ");
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write(array[i] + " ");
+    }
+    Console.WriteLine("]");
+}

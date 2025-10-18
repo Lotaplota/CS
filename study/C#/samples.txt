@@ -1,0 +1,197 @@
+switch----------------------------------------------------------
+
+int choice;
+switch (choice)
+{
+    case 1:
+        Console.WriteLine("this happens if choice == 1");
+        break;
+    case 2:
+        Console.WriteLine("this happens if choice == 2");
+        break;
+    default:
+        Console.WriteLine("this happens if choice == anything else");
+        break;
+}
+
+switch_expression-----------------------------------------------
+
+int choice = Convert.ToInt32(Console.ReadLine());
+string response;
+response = choice switch
+{
+    1 => "response if choice == 1",
+    2 => "response if choice == 2",
+    _ => "response if choice == anything else" // this is that default thing
+};
+Console.WriteLine(response);
+
+for_loop-------------------------------------------------------- for (initialization_statement, condition_to_evaluate, loop_action)
+
+for (int x = 1; x <= 5; x++)
+Console.WriteLine(x);
+
+multidimentional_array------------------------------------------
+
+int[,] identityMatrix = new int[3, 3] { { 1, 0, 0 }, { 0, 1, 0 }, { 0, 0, 1 } };
+// this one represents the identity matrix
+
+method----------------------------------------------------------
+
+void CountToTen()
+{
+    for (int current = 1; current <= 10; current++)
+        Console.WriteLine(current);
+}
+
+method_that_returns_a_value-------------------------------------
+
+void CountTo(int number)
+{
+    for (int i = 0; i <= number; i++)
+    {
+        Console.WriteLine(i);
+    }
+}
+
+method_with_arrow_operator--------------------------------------
+
+int DoubleAndAddOne(int value) => value * 2 + 1;
+
+enumeration-----------------------------------------------------
+
+enum Season { Winter, Spring, Summer, Fall }
+
+method_with_switch----------------------------------------------
+
+string GetDisplayText(BoxState currentState) => currentState switch
+{
+    BoxState.Open => "open",
+    BoxState.Closed => "closed but unlocked",
+    BoxState.Locked => "locked",
+    _ => ""
+};
+
+-------------------------------------------------------------------------------------------------------------------tuple_example
+
+(string name, int age, double height) biometricInformation = ("Lucas", 24, 1.69);
+
+tuple_using_var-------------------------------------------------
+
+var biometricInformation = (name: "Lucas", age: 24, height: 1.69);
+
+------------------------------------------------------------------------------------------------------------------class_creation
+
+Score a = new Score();
+
+Console.WriteLine(a.name + a.points + a.level);
+
+class Score
+{
+    public string name;
+    public int points;
+    public int level;
+    
+    public Score()
+    {
+        name = "Unknown";
+        points = 0;
+        level = 1;
+    }
+
+    public bool EarnedStar() => (points / level) > 1000;
+}
+
+----------------------------------------------------------------------------------------------------------class_with_name_hiding
+// fields with different names to differentiate from the local variables
+
+class Score
+{
+    public string _name;
+    public int _points;
+    public int _level;
+    
+    public Score(string name, int points, int level)
+    {
+        _name = name;
+        _points = points;
+        _level = level;
+    }
+}
+-------------------------------------------------------------------------------------------------------classes_with_constructors
+// using this to save on code
+
+class Score
+{
+    public string _name;
+    public int _points;
+    public int _level;
+
+    public Score() : this("Unknown", 0, 1) // i guess it searches for a constructor with matching types and updates the field's data with the ones in the parameters
+    {                                      // i still don't know why would you use it tho...
+    }
+
+    public Score(string name, int points, int level)
+    {
+        _name = name;
+        _points = points;
+        _level = level;
+    }
+}
+
+----------------------------------------------------------------------------------------------------------------string_alignment
+
+string name1 = Console.ReadLine();
+string name2 = Console.ReadLine();
+Console.WriteLine($"#1: {name1,20}"); // i'm still very confused...
+Console.WriteLine($"#2: {name2,20}");
+Console.WriteLine($"{name1,-20} - 1");
+Console.WriteLine($"{name2,-20} - 2");
+
+-----------------------------------------------------------------------------------------------------------setting_up_a_property
+
+private float width;
+public float Width
+{
+    get => width;
+    set => width = value;
+}
+
+-------------------------------------------------------------------------------------------------------------------auto_property
+
+public class Player
+{
+    public string Name { get; set; }
+}
+
+-----------------------------------------------------------------------------------------------auto_property_with_starting_value
+
+public string Name { get; set; } = "Player";
+
+---------------------------------------------------------------------------------------------------------------------initializer
+
+public class Circle
+{
+    public float X { get; init; } = 0;
+    public float Y { get; init; } = 0; 
+    public float Radius { get; init; } = 0;
+}
+
+--------------------------------------------anonymous_types
+
+var anonymous = new { Name = "Steve", Age = 34 };
+Console.WriteLine($"{anonymous.Name} is {anonymous.Age} years old.");
+
+-------------------------------------------
+
+private string? GetTopPlayerName()
+{
+ if (_scoreManager == null) return null;
+ Score[]? scores = _scoreManager.GetScores();
+ if (scores == null) return null;
+ Score? topScore = scores[0];
+ if (topScore == null) return null;
+ return topScore.Name;
+}
+
+---------------------------------------------------------------------------------------------------------method_override_example
