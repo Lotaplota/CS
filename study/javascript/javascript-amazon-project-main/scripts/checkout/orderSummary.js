@@ -75,7 +75,7 @@ export function renderOrderSummary() {
       const deliveryDate = today.add(deliveryOption.deliveryDays, 'days');
       const dateString = deliveryDate.format('dddd, MMMM D');
   
-      const priceString = deliveryOption.priceCents
+      const priceString = deliveryOption.priceCents // I realized that checking === 0 would communicate intent more evidently. When rereading this code, I wasn't sure what was this bit doing because it wasn't clear enough. Though I will leave this in here so this bit of learning from my mistakes gets recorded.
         ? `${formatCurrency(deliveryOption.priceCents)} -`
         : 'FREE'
       ;
