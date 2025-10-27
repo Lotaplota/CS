@@ -6,13 +6,17 @@ import formatCurrency from "../utils/money.js";
 export function renderPaymentSummary() {
   let productPriceCents = 0;
   let shippingPriceCents = 0;
+  let itemCount = 0;
 
+  // Counting each cart item and adding it's cost to the final price
   cart.forEach(cartItem => {
     const product = getProduct(cartItem.productId);
     productPriceCents += product.priceCents * cartItem.quantity;
 
     const deliveryOption = getDeliveryOption(cartItem.deliveryOptionId);
     shippingPriceCents += deliveryOption.priceCents;
+
+    itemCount += cartItem.quantity; // Should I count only items of different types?
   });
 
   const totalBeforeTaxCents = productPriceCents + shippingPriceCents;
@@ -25,7 +29,7 @@ export function renderPaymentSummary() {
     </div>
 
     <div class="payment-summary-row">
-      <div>Items (3):</div>
+      <div>Items (${itemCount}):</div>
       <div class="payment-summary-money">$${formatCurrency(productPriceCents)}</div>
     </div>
 

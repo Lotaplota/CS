@@ -117,6 +117,7 @@ export function renderOrderSummary() {
         container.remove();
 
         renderCheckout();
+        renderPaymentSummary();
       })
     })
   
