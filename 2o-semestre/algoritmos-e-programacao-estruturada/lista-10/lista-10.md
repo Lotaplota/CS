@@ -1,5 +1,5 @@
 # Lista 10
-## 1. 
+## 1.
 ```
 w[0]: 17
 w[1]: 0
@@ -12,7 +12,7 @@ w[7]: 78
 w[8]: -18
 ```
 
-## 2. 
+## 2. Positivos
 ```
 #include <stdio.h>
 
@@ -34,92 +34,190 @@ char *main(void)
 }
 ```
 
-## 3. 
-```
-Não tem 3? 🤔🤔
-```
-
-## 4. 
-```
-#include <stdio.h>
-void main(void) {
-int *p = (int *) 0x1000; // Um int mede 4 bytes, então a aritmética funciona em incrementos de 4
-p++; printf("%p ", p );  // Saída: 1004
-p-=3; printf("%p ", p ); // Saída: 0FF8
-p+=2; printf("%p ", p ); // Saída: 1000
-p--; printf("%p ", p );  // Saída: 0FFC
-}
-```
-
-## 5. 
+## 3. Comparando
 ```
 #include <stdio.h>
 
-void trocatroca(int*, int*, int*);
+void comum(int[], int[]);
+void unico(int[], int[], int);
 
 char* main(void)
 {
-    int a, b ,c;
+    int v[4], w[4];
+    v[0] = 6; w[0] = 7;
+    v[1] = 8; w[1] = 4;
+    v[2] = 4; w[2] = 8;
+    v[3] = 1; w[3] = 3;
 
-    printf("escolha o valor de a: ");
-    scanf("%i", &a);
-    printf("escolha o valor de b: ");
-    scanf("%i", &b);
-    printf("escolha o valor de c: ");
+    comum(v, w);
+    unico(v, w, 1);
+    unico(w, v, 2); 
+}
+
+void comum(int a[], int b[])
+{
+    printf("valores em comum: ");
+    
+    for (int i = 0; i < 4; i++)
+    {
+        for (int j = 0; j < 4; j++)
+        {
+            if (a[i] == b[j])
+            {
+                printf("%i, ", a[i]);
+            }
+        }
+    }
+    printf("\n");
+}
+
+void unico(int a[], int b[], int c)
+{
+    printf("valores unicos do %io vetor: ", c);
+
+    for (int i = 0; i < 4; i++)
+    {
+        int ehUnico = 1;
+
+        for (int j = 0; j < 4; j++)
+        {
+            if (a[i] == b[j])
+            {
+                ehUnico = 0;
+            }
+        }
+            
+        if (ehUnico)
+        {
+            printf("%i, ", a[i]);
+        }
+    }
+}
+
+void ...
+
+// não deu pra terminar professor ;-;
+```
+
+## 4. Produto escalar
+```
+#include <stdio.h>
+
+char* main(void)
+{
+    int c;
+    printf("insira o tamanho do vetor: ");
     scanf("%i", &c);
 
-    printf("%i, %i, e %i\n", a, b, c);
+    int scalar = 0, v[c], w[c];
 
-    trocatroca(&a, &b, &c);
+    for (int i = 0; i < c; i++)
+    {
+        printf("insira o %io valor do 1o vetor: ", i + 1);
+        scanf("%i", &v[i]);
 
-    printf("%i, %i, e %i\n", a, b, c);
+        printf("insira o %io valor do 2o vetor: ", i + 1);
+        scanf("%i", &w[i]);
+    }
 
-    return "💸";
-}
+    for (int i = 0; i < c; i++)
+    {
+        scalar += v[i]*w[i];
+    }
 
-void trocatroca(int* a, int* b, int* c)
-{
-    int aux = *b;
-    *b = *a;
-    *a = *c;
-    *c = aux;
+    printf("o produto escalar eh %i", scalar);
+
+    return "🐼";
 }
 ```
 
-## 6. 
+## 5. Pares e ímpares
 ```
 #include <stdio.h>
 
-void contarDivisores(int*, int*);
-
 char* main(void)
 {
-    int num, totalDivisores = 0;
-
-    printf("Insira um número inteiro: ");
-    scanf("%i", &num);
-
-    contarDivisores(&num, &totalDivisores);
-
-    printf("%i tem %i divisores.", num, totalDivisores);
-
-    return "😮";
-}
-
-void contarDivisores(int *n, int *t)
-{
-    int len = *n;
-    int div = 0;
-
-    for (int i = 1; i <= len; i++)
+    int v[20];
+    for (int i = 0; i < 20; i++)
     {
-        if (len%i == 0)
+        printf("insira o valor de v[%i]: ", i);
+        scanf("%i", &v[i]);
+    }
+    
+    int even[20], odd[20];
+
+    for (int i = 0; i < 20; i++)
+    {
+        even[i] = -1; odd[i] = -1;
+        if (v[i] % 2 == 0)
         {
-            div++;
-            printf("%i eh divisor. total de divisores: %i\n", i, div);
+            even[i] = v[i];
+        }
+        else
+        {
+            odd[i] = v[i];
         }
     }
 
-    *t = div;
+    printf("pares: ");
+
+    for (int i = 0; i < 20; i++)
+    {
+        if (even[i] >= 0)
+            printf("%i ", even[i]);
+    }
+
+    printf("\nimpares: ");
+    
+    for (int i = 0; i < 20; i++)
+    {
+        if (odd[i] >= 0)
+            printf("%i ", odd[i]);
+    }
+
+    return "🥜";
+}
+```
+
+## 6. Mínimo e máximo
+```
+#include <stdio.h>
+
+void minimax(float[], float*, float*);
+
+char* main(void)
+{
+    float v[4];
+
+    v[0] = 4.5;
+    v[1] = 9.1;
+    v[2] = 12;
+    v[3] = 2.1;
+
+    float min = 0, max = 0;
+
+    minimax(v, &min, &max);
+
+    printf("minimo: %f; maximo: %f", min, max);
+
+    return "🕊️";
+}
+
+void minimax(float a[], float *min, float *max)
+{
+    *min = a[0]; *max = a[0];
+
+    for (int i = 0; i < 4; i++)
+    {
+        if (a[i] < *min)
+        {
+            *min = a[i];
+        }
+
+        if (a[i] > *max)
+        {
+            *max = a[i];
+        }
+    }
 }
 ```
