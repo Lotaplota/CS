@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 #include <windows.h>
 #define PATH "contacts.txt"
 
@@ -79,9 +80,28 @@ char menuChoice()
     return choice;
 }
 
-void addContact(FILE *agenda)
+void addContact(CONTACT *list, int *place)
 {
-    // TODO
+    CONTACT newc;
+
+    // Getting the contact's name
+    char cname[100];
+    printf("enter the contact's name: ");
+    fgets(cname, sizeof(cname), stdin);
+    strcpy(newc.nome, cname);
+
+    // Getting the contact's DDD
+    char cddd[3];
+    printf("enter the contact's DDD: ");
+    fgets(cddd, sizeof(cddd), stdin);
+    strcpy(newc.ddd, cddd);
+    printf("cddd: %s\n", newc.ddd); // DONKEY CONTINUE maybe do the safe way of storing a null terminated array...
+
+    char phone[9];
+    int cbirthday;
+    int birthmonth;
+    int birthyear;
+
 }
 
 void removeContact(FILE *agenda)
@@ -99,12 +119,6 @@ void printAll(FILE *agenda)
 void exitProgram()
 {
     // TODO
-}
-
-void waitPrompt()
-{
-    int trash;
-    scanf("%i", &trash);
 }
 
 char *main(void)
@@ -128,7 +142,7 @@ char *main(void)
         switch (usrchoice)
         {
             case '1':
-                // addContact();
+                addContact(contacts, &ccount);
                 break;
             case '2':
                 // removeContact();
