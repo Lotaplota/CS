@@ -70,8 +70,12 @@ char menuChoice()
 
     printf("\nchoose an option: ");
 
-    scanf(" %c", &choice);
+    char usrinput[4]; // I won't risk setting this array to be any lower...
+
+    fgets(usrinput, sizeof(usrinput), stdin);
+    fflush(stdin);
     
+    choice = usrinput[0];
     return choice;
 }
 
@@ -114,7 +118,6 @@ char *main(void)
 
     // Loading contacts to contact array
     int ccount = loadContacts(contacts, agendaptr);
-    printf("%s", contacts[1].nasc.dia); // DONKEY CONTINUE
 
     // Loop will break only if user chooses a valid option
     // while (1)
