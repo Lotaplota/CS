@@ -120,46 +120,37 @@ char *main(void)
     int ccount = loadContacts(contacts, agendaptr);
 
     // Loop will break only if user chooses a valid option
-    // while (1)
-    // {
-    //     char usrchoice = menuChoice();
-    //     int validchoice = 1;
+    while (1)
+    {
+        char usrchoice = menuChoice();
+        int validchoice = 1;
         
-    //     switch (usrchoice)
-    //     {
-    //         case '1':
-    //             addContact();
-    //             break;
-    //         case '2':
-    //             removeContact();
-    //             break;
-    //         case '3':
-    //             printContact();
-    //             break;
-    //         case '4':
-    //             printAll();
-    //             break;
-    //         case '0':
-    //             exitProgram();
-    //             break;
+        switch (usrchoice)
+        {
+            case '1':
+                // addContact();
+                break;
+            case '2':
+                // removeContact();
+                break;
+            case '3':
+                // printContact();
+                break;
+            case '4':
+                // printAll();
+                break;
+            case '0':
+                exitProgram();
+                break;
             
-    //         default:
-    //             validchoice = 0;
-    //             break;
-    //     }
+            default:
+                validchoice = 0;
+                break;
+        }
 
-    //     if (validchoice)
-    //     {
-    //         break;
-    //     }
-    //     else
-    //     {
-    //         printf("invalid choice!\n");
-    //         waitPrompt();
-    //     }
-    // }
-    
-
-
-
+        if (validchoice)
+        {
+            break;
+        }
+    }
 }
