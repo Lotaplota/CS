@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <windows.h>
 #define PATH "contacts.txt"
 
@@ -23,23 +24,34 @@ int loadContacts(CONTACT contacts[], FILE *agenda)
     // Amount of contacts in file
     int count = 0;
 
-    char buffer[100];
+    FILE *fileptr = fopen(PATH, "r");
+    if (fileptr == NULL)
+    {
+        return count;
+    }
+
+    char buffer[1000];
 
     // Reads lines until it hits the end of the file
 	// Will pass the line's content to the contact's properties
-    while (fgets(&buffer, sizeof(buffer), agenda) != NULL)
+    while (fgets(buffer, sizeof(buffer), fileptr) != NULL)
     {
         CONTACT cur = contacts[count];
-
-        sscanf(buffer,"%99[^,],%[^,],%i,%i,%i\n",
-            cur.nome,
-            cur.ddd,
-            cur.telefone,
-            &cur.nasc.dia,
-            &cur.nasc.mes,
-            &cur.nasc.ano); // CONTINUE
+        printf("%s\n", buffer);
+        sscanf(buffer,"%99[^,],%[^,],%[^,],%d/%d/%d\n",
+            contacts[count].nome,
+            contacts[count].ddd,
+            contacts[count].telefone,
+            &contacts[count].nasc.dia,
+            &contacts[count].nasc.mes,
+            &contacts[count].nasc.ano);
+        
+        count++;
     }
-    
+
+    fclose(fileptr);
+
+    return count;
 }
 
 // Presents a menu then returns the char that the user chooses
@@ -94,54 +106,55 @@ void waitPrompt()
 char *main(void)
 {
     // Opening the file
-    FILE *agenda;
-    agenda = fopen("contacts.txt", "r");
+    FILE *agendaptr;
+    agendaptr = fopen("contacts.txt", "r");
 
     // Creating a contact array to be loaded
     CONTACT contacts[100];
 
     // Loading contacts to contact array
-    int ccount = loadContacts(&contacts, agenda);
+    int ccount = loadContacts(contacts, agendaptr);
+    printf("%s", contacts[1].nasc.dia); // DONKEY CONTINUE
 
     // Loop will break only if user chooses a valid option
-    while (1)
-    {
-        char usrchoice = menuChoice();
-        int validchoice = 1;
+    // while (1)
+    // {
+    //     char usrchoice = menuChoice();
+    //     int validchoice = 1;
         
-        switch (usrchoice)
-        {
-            case '1':
-                addContact();
-                break;
-            case '2':
-                removeContact();
-                break;
-            case '3':
-                printContact();
-                break;
-            case '4':
-                printAll();
-                break;
-            case '0':
-                exitProgram();
-                break;
+    //     switch (usrchoice)
+    //     {
+    //         case '1':
+    //             addContact();
+    //             break;
+    //         case '2':
+    //             removeContact();
+    //             break;
+    //         case '3':
+    //             printContact();
+    //             break;
+    //         case '4':
+    //             printAll();
+    //             break;
+    //         case '0':
+    //             exitProgram();
+    //             break;
             
-            default:
-                validchoice = 0;
-                break;
-        }
+    //         default:
+    //             validchoice = 0;
+    //             break;
+    //     }
 
-        if (validchoice)
-        {
-            break;
-        }
-        else
-        {
-            printf("invalid choice!\n");
-            waitPrompt();
-        }
-    }
+    //     if (validchoice)
+    //     {
+    //         break;
+    //     }
+    //     else
+    //     {
+    //         printf("invalid choice!\n");
+    //         waitPrompt();
+    //     }
+    // }
     
 
 
