@@ -27,7 +27,7 @@ function Cart(localStorageKey) {
 
             this.cartItems.forEach(cartItem => {
                 if (cartItem.productId === productId) {
-                matchingItem = cartItem
+                    matchingItem = cartItem
                 }
             })
 
