@@ -123,5 +123,22 @@ SET t1.industry = t2.industry
 WHERE t1.industry IS NULL
 AND t2.industry IS NOT NULL;
 
-SELECT DISTINCT industry
+SELECT *
+FROM layoffs_staging2
+WHERE company LIKE '%Bally%';
+
+SELECT *
+FROM layoffs_staging2
+WHERE total_laid_off IS NULL
+AND percentage_laid_off IS NULL;
+
+DELETE
+FROM layoffs_staging2
+WHERE total_laid_off IS NULL
+AND percentage_laid_off IS NULL;
+
+ALTER TABLE layoffs_staging2
+DROP COLUMN `row_num`;
+
+SELECT COUNT(*)
 FROM layoffs_staging2;
