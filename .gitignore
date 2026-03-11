@@ -1,5 +1,6 @@
 *.exe
 *.log
+*.vscode/
 
 # idk if this works
 /node_modules/
