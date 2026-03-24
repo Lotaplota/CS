@@ -1,2 +1,0 @@
-4th written text!
-And the pointer wasn't null :^]
