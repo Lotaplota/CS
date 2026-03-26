@@ -4,21 +4,6 @@
 
 #include "equipe.h"
 
-typedef struct {
-    int posicao;
-    char estado[TAM_STRING];
-    char time[TAM_STRING];
-    int pontos;
-    int qt_jogos;
-    int qt_vitorias;
-    int qt_empates;
-    int qt_derrotas;
-    int qt_gols_pro;
-    int qt_gols_con;
-    int saldo_gols;
-    float aproveitamento;
-} Equipe;
-
 Equipe * GerarDeArquivo(char * filename)
 {
     FILE * arq = fopen(filename, "r");
@@ -45,6 +30,8 @@ Equipe * GerarDeArquivo(char * filename)
             &equipes[n].saldo_gols
         );
 
+    equipes[n].aproveitamento = 100 * equipes[n].pontos / (3 * equipes[n].qt_jogos);
+
         n++;
     }
 
@@ -65,4 +52,38 @@ int getGolsMarcados(Equipe * tb, char * time)
 
     printf("%s was not found in the list.\n", time);
     return -1;
+}
+
+int maiorSaldo(Equipe * tb)
+{
+    int max = 0;
+    int pos = -1;
+
+    for (int i = 0; i < TAM_TABELA; i++)
+    {
+        if (tb[i].saldo_gols > max)
+        {
+            max = tb[i].saldo_gols;
+            pos = i;
+        }
+    }
+
+    return pos;
+}
+
+int menosGolsSofridos(Equipe * tb)
+{
+    int min = INT_MAX;
+    int pos = -1;
+
+    for (int i = 0; i < TAM_TABELA; i++)
+    {
+        if (tb[i].qt_gols_con < min)
+        {
+            min = tb[i].qt_gols_con;
+            pos = i;
+        }
+    }
+
+    return pos;
 }

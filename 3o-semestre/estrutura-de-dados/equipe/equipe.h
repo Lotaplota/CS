@@ -2,6 +2,7 @@
 #define EQUIPE_H
 
 #define TAM_STRING 32
+#define TAM_TABELA 20
 
 typedef struct {
     int posicao;
@@ -18,8 +19,9 @@ typedef struct {
     float aproveitamento;
 } Equipe;
 
-Equipe * GerarDeArquivo(char * filename);
-int getGolsMarcados(Equipe * tb, char * time);
-
+Equipe * GerarDeArquivo(char *);
+int getGolsMarcados(Equipe *, char *);
+int maiorSaldo(Equipe *);
+int menosGolsSofridos(Equipe *);
 
 #endif

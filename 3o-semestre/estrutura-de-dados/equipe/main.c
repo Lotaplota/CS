@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 #include "equipe.h"
 
 int main(void)
@@ -9,4 +11,7 @@ int main(void)
     // } // DEBUG 1
     char time[] = "Bibi";
     int golsDoTime = getGolsMarcados(tabela, time);
+
+    printf("O time com maior saldo de gols estah na %ia posissaum\n", maiorSaldo(tabela) + 1);
+    printf("O time que sofreu menos gols estah na %ia posissaum\n", menosGolsSofridos(tabela) + 1);
 }
