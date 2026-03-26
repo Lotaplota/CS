@@ -1,10 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
+
+#include "equipe.h"
 
 typedef struct {
     int posicao;
-    char estado[32];
-    char nome[32];
+    char estado[TAM_STRING];
+    char time[TAM_STRING];
     int pontos;
     int qt_jogos;
     int qt_vitorias;
@@ -31,7 +34,7 @@ Equipe * GerarDeArquivo(char * filename)
         sscanf(buffer, "%i,%[^,],%[^,],%i,%i,%i,%i,%i,%i,%i,%i",
             &equipes[n].posicao,
             equipes[n].estado,
-            equipes[n].nome,
+            equipes[n].time,
             &equipes[n].pontos,
             &equipes[n].qt_jogos,
             &equipes[n].qt_vitorias,
@@ -41,7 +44,6 @@ Equipe * GerarDeArquivo(char * filename)
             &equipes[n].qt_gols_con,
             &equipes[n].saldo_gols
         );
-        printf("%i\n", equipes[9].qt_derrotas); // DONKEY
 
         n++;
     }
@@ -51,8 +53,16 @@ Equipe * GerarDeArquivo(char * filename)
     return equipes;
 }
 
-int main(void)
+int getGolsMarcados(Equipe * tb, char * time)
 {
-    Equipe * tabela = GerarDeArquivo("tabela2024.csv");
-    printf("%i", tabela[6].qt_gols_pro); // DONKEY
+    for (int i = 0; i < 20; i++)
+    {
+        if (!strcmp(tb[i].time, time))
+        {
+            return tb[i].qt_gols_pro;
+        }
+    }
+
+    printf("%s was not found in the list.\n", time);
+    return -1;
 }
