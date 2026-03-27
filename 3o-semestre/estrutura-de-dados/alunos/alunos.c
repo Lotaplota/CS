@@ -12,7 +12,7 @@ typedef struct
     float n2;
 } Aluno;
 
-int alunosAprovados(char * filename, char arr[MAX_ALUNOS][MAX_NAME_LENGTH])
+int alunosAprovados(char * filename, char ** arr)
 {
     Aluno * alunos = malloc(MAX_ALUNOS * sizeof(Aluno));
     FILE * fr = fopen(filename, "r");
@@ -34,21 +34,24 @@ int alunosAprovados(char * filename, char arr[MAX_ALUNOS][MAX_NAME_LENGTH])
     {
         if ((alunos[i].n1 + alunos[i].n2) / 2 >= 7)
         {
-            strcpy(arr[qt_aprov], alunos[i].nome);
+            arr[qt_aprov] = strdup(alunos[i].nome); // Must be used on char ** logic
             qt_aprov++;
         }
     }
 
+    fclose(fr); free(alunos);
     return qt_aprov;
 }
 
 int main(void)
 {
-    char aprovados[MAX_ALUNOS][MAX_NAME_LENGTH];
+    char ** aprovados = malloc(MAX_ALUNOS * sizeof(char *));
 
     int qtAprovados = alunosAprovados("alunos.csv", aprovados);
     for (int i = 0; i < 4; i++)
     {
         printf("%s\n", aprovados[i]);
     }
+
+    free(aprovados);
 }
