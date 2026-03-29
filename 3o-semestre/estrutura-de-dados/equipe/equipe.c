@@ -30,7 +30,7 @@ Equipe * GerarDeArquivo(char * filename)
             &equipes[n].saldo_gols
         );
 
-    equipes[n].aproveitamento = 100 * equipes[n].pontos / (3 * equipes[n].qt_jogos);
+        equipes[n].aproveitamento = 100 * equipes[n].pontos / (3 * equipes[n].qt_jogos);
 
         n++;
     }

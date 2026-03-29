@@ -1,8 +1,13 @@
 #include <stdio.h>
 
-#include "produtos.h"
+#include "estoque.h"
 
 int main(void)
 {
-    atualizar("funcionários.csv", "Mouse", 35, 32.50);
+    Product stock[MAX_PRODUCTS];
+    int product_qt = getFromFile("estoque.csv", stock);
+
+    if (product_qt < 1) { perror("error getting from file"); return -1; }
+
+    update(stock, product_qt,"Mouse", 35, 32.50);
 }
