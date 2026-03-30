@@ -10,8 +10,8 @@
 
 typedef struct
 {
-    char titulo[TAM_TITULO];
-    char responsavel[TAM_NOME];
+    char titulo[TITLE_LENGTH];
+    char responsavel[NAME_LENGTH];
     int status;
     float progresso; // De 0.0 a 1.0
     int avaliacao;
