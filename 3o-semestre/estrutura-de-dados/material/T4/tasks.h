@@ -20,13 +20,13 @@ typedef struct
 typedef struct
 {
     Task * data;
-    int task_qt;
     int capacity;
-} TaskList ;
+    int qt_tasks;
+} TaskList;
 
-TaskList * CreateList(int startingCapacity);
+TaskList * CreateList(int);
 void DestroyList(TaskList * list);
-int AddTask(TaskList * list, Task * t);
+int AddTask(TaskList *, Task *);
 int RemoveTask(TaskList * list, int index);
 Task * GetTask(TaskList * list, int index);
 int UpdateTaskStatus(TaskList * list, int index, int NovoStatus);
