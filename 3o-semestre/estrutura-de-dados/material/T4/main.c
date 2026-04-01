@@ -5,7 +5,7 @@
 
 int main(void)
 {
-    TaskList * planner = CreateList(8);
+    TaskList * planner = CreateList(10);
 
     Task T01 = {"Entrega do relatohrio de BD", "Rafael Souza", DONE, 1.00, 4};
     Task T02 = {"Revisaum do cohdigo do sistema", "Carlos Henrique", DONE, 1.00, 5};
@@ -17,6 +17,7 @@ int main(void)
     Task T08 = {"Integrassaum com API externa", "Pedro Rocha", DOING, 0.50, 4};
     Task T09 = {"Apresentassaum para o cliente", "Bianca Torres", DONE, 1.00, 5};
     Task T10 = {"Corressaum de bugs crihticos", "Joaum Victor", DOING, 0.30, 5};
+    Task extraTask = {"extra", "me me", TODO, 0.44, 4};
 
     AddTask(planner, &T01);
     AddTask(planner, &T02);
@@ -28,4 +29,8 @@ int main(void)
     AddTask(planner, &T08);
     AddTask(planner, &T09);
     AddTask(planner, &T10);
+
+    DisplayTitles(planner); // DEBUG
+    RemoveTask(planner, 3);
+    DisplayTitles(planner); // DEBUG
 }
