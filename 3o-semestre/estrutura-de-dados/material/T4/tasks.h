@@ -25,17 +25,17 @@ typedef struct
 } TaskList;
 
 TaskList * CreateList(int);
-void DestroyList(TaskList *);
+TaskList * DestroyList(TaskList *);
 int AddTask(TaskList *, Task *);
 int RemoveTask(TaskList * list, int index);
 Task * GetTask(TaskList * list, int index);
-int UpdateTaskStatus(TaskList * list, int index, int NovoStatus);
-int UpdateProgress(TaskList * list, int index, float NovoProgresso);
+int UpdateTaskStatus(TaskList * list, int index, int newStatus);
+int UpdateProgress(TaskList *, int, float);
 int UpdateRating(TaskList * list, int index, int NovaAvaliacao);
-int CountByStatus(const TaskList * list, int Status);
-float RatingAVG(const TaskList * list);
+int CountByStatus(TaskList * list);
+float RatingAVG(TaskList * list);
 char * StatusText(int Status);
-void PrintList(const TaskList * list);
+void PrintList(TaskList * list);
 
 void DisplayTasks(TaskList *); // DEBUG
 void DisplayTitles(TaskList *); // DEBUG

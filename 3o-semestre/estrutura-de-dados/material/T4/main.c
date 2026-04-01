@@ -30,7 +30,17 @@ int main(void)
     AddTask(planner, &T09);
     AddTask(planner, &T10);
 
-    DisplayTitles(planner); // DEBUG
     RemoveTask(planner, 3);
     DisplayTitles(planner); // DEBUG
+
+    printf("task status at %i\n", planner->data[5].status); // DEBUG
+    UpdateTaskStatus(planner, 5, 5);
+    printf("task status now at %i\n", planner->data[5].status); // DEBUG
+
+    UpdateProgress(planner, 3, 0.97);
+
+    CountByStatus(planner);
+
+    planner = DestroyList(planner);
+    DisplayTasks(planner); // DEBUG
 }
