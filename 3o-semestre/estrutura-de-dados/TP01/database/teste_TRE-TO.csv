@@ -1,0 +1,3472 @@
+"sigla_tribunal","procedimento","ramo_justica","sigla_grau","uf_oj","municipio_oj","id_ultimo_oj","nome","mesano_cnm1","mesano_sent","casos_novos_2026","julgados_2026","prim_sent2026","suspensos_2026","dessobrestados_2026","cumprimento_meta1","distm2_a","julgm2_a","suspm2_a","cumprimento_meta2a","distm2_ant","julgm2_ant","suspm2_ant","desom2_ant","cumprimento_meta2ant","distm4_a","julgm4_a","suspm4_a","cumprimento_meta4a","distm4_b","julgm4_b","suspm4_b","cumprimento_meta4b"
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Fev 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Out 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Abr 2025",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Dez 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Fev 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Jan 2012",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Mai 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Set 2010",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Set 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO",NA,"Jan 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Ago 2009",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Ago 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Fev 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Jan 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Jan 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Jun 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Mai 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Mar 2010",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Out 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Set 2013",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Set 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Mar 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Ago 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Ago 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Nov 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Nov 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Mar 2015",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Jan 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Nov 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Abr 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","NA NA",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Abr 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Ago 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Fev 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Set 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Dez 2014",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Jan 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Mai 2015",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Set 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Ago 2014",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Abr 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Fev 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Jun 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Jun 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Mai 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Nov 2011",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Jun 2013",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Mai 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Abr 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Jan 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Jun 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Mai 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Nov 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Out 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Ago 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Fev 2012",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Jan 2012",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Jun 2013",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Set 2011",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Ago 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Abr 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Ago 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Dez 2013",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Fev 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Fev 2026",0,1,0,0,0,Inf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Jun 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","NA NA",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Nov 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Out 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Out 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Abr 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Fev 2015",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Fev 2026",0,1,1,0,0,Inf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jan 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jun 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Mai 2011",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Mai 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Out 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO",NA,"NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Fev 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Fev 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Mai 2010",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Out 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Fev 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","NA NA",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Nov 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Abr 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Mai 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Abr 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Ago 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Dez 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Mai 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Mar 2011",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Mar 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Mar 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Mar 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Set 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Abr 2014",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Ago 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Jan 2026",0,1,0,0,0,Inf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Jul 2012",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Mai 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Mar 2012",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Mar 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Nov 2011",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Out 2011",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Out 2013",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Out 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Dez 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Fev 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Jun 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Mai 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Mar 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Nov 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Out 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Jul 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Abr 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Ago 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Dez 2014",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Fev 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Fev 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Mai 2014",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Mar 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Out 2014",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27355,"GABINETE DA PRESIDÊNCIA","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27355,"GABINETE DA PRESIDÊNCIA",NA,"Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Abr 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Fev 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","NA NA",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Jan 2026",0,1,1,0,0,Inf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Jun 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Mai 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Out 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Dez 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Jun 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Mai 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Fev 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jul 2013",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jun 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Mar 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Mar 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Jun 2013",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Jan 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Out 2025",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Abr 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Fev 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Jan 2026",1,1,1,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Mai 2012",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Mar 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","NA NA",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Nov 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Out 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Set 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO",NA,"Ago 2013",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Ago 2012",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Fev 2026",8,8,8,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Jan 2026",1,3,3,0,0,300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Jun 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Fev 2026",1,1,1,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Mar 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Ago 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Fev 2026",0,1,1,0,0,Inf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Jan 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Jun 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","NA NA",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Nov 2025",6,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO",NA,"Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO",NA,"Set 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Jun 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Nov 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Ago 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Fev 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Fev 2026",1,1,1,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Jan 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Jun 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Mar 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Out 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Set 2012",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Set 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Fev 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Jan 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Jan 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Jun 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Mai 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Mai 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Mai 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Mar 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Nov 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Out 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Fev 2026",1,3,3,0,0,300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Fev 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Mai 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Mar 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","NA NA",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Set 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Abr 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Jan 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Jun 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","NA NA",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Fev 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Fev 2026",0,2,2,0,0,Inf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Jan 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Jun 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","NA NA",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Out 2025",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Dez 2014",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Jan 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Jun 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Mai 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Mar 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","NA NA",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Nov 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Dez 2014",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Mar 2014",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Out 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Abr 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Fev 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Jan 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Jan 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Jul 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Mai 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Mar 2013",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Mar 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","NA NA",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Mar 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Dez 2025",3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Jan 2026",0,1,1,0,0,Inf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","NA NA",23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Nov 2025",4,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Out 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO","Dez 2025","Set 2025",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Abr 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Abr 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Fev 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Jan 2026",0,3,3,0,0,Inf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Mai 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","NA NA",4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Nov 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Set 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Set 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Abr 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Fev 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Jan 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Out 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Dez 2012",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Fev 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Jun 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","NA NA",4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Nov 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Ago 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Jan 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Jan 2026",0,1,1,0,0,Inf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Mar 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","NA NA",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Abr 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Ago 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Dez 2025",6,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Fev 2026",3,4,3,0,0,133.333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jul 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jun 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Mar 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","NA NA",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Nov 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Out 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Abr 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Abr 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Ago 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Ago 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Dez 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Dez 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Dez 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Dez 2025",5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Fev 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Fev 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Fev 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Fev 2026",9,9,9,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Jan 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Jan 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Jan 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Jan 2026",2,2,2,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Jul 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Jun 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Jun 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Jun 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Mai 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Mai 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Mai 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Mar 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Mar 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","NA NA",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Nov 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Nov 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Nov 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Out 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Out 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Out 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Set 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Set 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Set 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO",NA,"Mai 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Jan 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Jun 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","NA NA",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Abr 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Ago 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Fev 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Jan 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Jan 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Jan 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Jul 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Jun 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Jun 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Mai 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Mai 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Mar 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Mar 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","NA NA",4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Nov 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Out 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO",NA,"Set 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Abr 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Jan 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Jan 2026",1,1,1,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Jun 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Mai 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Abr 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Dez 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Jun 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Mai 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","NA NA",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Nov 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Out 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Fev 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Jan 2026",2,5,5,0,0,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Jun 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Mai 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","NA NA",6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO",NA,"Mai 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Jan 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Jan 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Jan 2026",1,2,2,0,0,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","NA NA",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Nov 2025",6,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Dez 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Fev 2026",14,14,14,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Mar 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Nov 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Out 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Out 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO",NA,"Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Jan 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Jun 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Mai 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Mar 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","NA NA",8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Nov 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Set 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Jan 2026",0,3,3,0,0,Inf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Jun 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Mar 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","NA NA",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Nov 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27355,"GABINETE DA PRESIDÊNCIA","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27355,"GABINETE DA PRESIDÊNCIA","Dez 2025","Fev 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27355,"GABINETE DA PRESIDÊNCIA","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27355,"GABINETE DA PRESIDÊNCIA","Dez 2025","Nov 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27355,"GABINETE DA PRESIDÊNCIA",NA,"Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Abr 2011",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Abr 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Abr 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Abr 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Ago 2010",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Ago 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Ago 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Dez 2010",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Dez 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Dez 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Fev 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jan 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jan 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jan 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jan 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jan 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jul 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jul 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jun 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jun 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jun 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Mai 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Mai 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Mai 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Mai 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Mar 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Mar 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","NA NA",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Nov 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Nov 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Out 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Out 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Set 2010",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Set 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Set 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Ago 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Fev 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Fev 2026",0,1,0,0,0,Inf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Jul 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Mai 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Mai 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Mar 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Mar 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,"Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Abr 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Ago 2009",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Ago 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Ago 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Dez 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Fev 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Fev 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Fev 2026",1,3,0,0,0,300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jan 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jan 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jan 2026",0,1,1,0,0,Inf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jul 2014",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jul 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jul 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jun 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jun 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jun 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Mai 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Mai 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Mar 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Mar 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","NA NA",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Nov 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Nov 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Nov 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Out 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Set 2010",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Set 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Set 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Jan 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Jul 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Jun 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Jun 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Mar 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Out 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,"Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Abr 2010",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Abr 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Abr 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Ago 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Ago 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Dez 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Fev 2010",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Fev 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Fev 2026",0,3,3,0,0,Inf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Jan 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Jan 2026",0,5,5,0,0,Inf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Jul 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Jul 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Jun 2014",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Jun 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Jun 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Mai 2013",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Mai 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Mai 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Mai 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Mar 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Mar 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","NA NA",7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Nov 2010",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Nov 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Nov 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Out 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Out 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Out 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Set 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Set 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Set 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Abr 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Ago 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Dez 2015",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Jan 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Mai 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Nov 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Out 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,"Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Abr 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Abr 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Ago 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Ago 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Dez 2010",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Dez 2012",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Dez 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Dez 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Fev 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Fev 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Fev 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Fev 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Fev 2026",0,1,1,0,0,Inf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Jan 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Jan 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Jan 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Jul 2014",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Jul 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Jul 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Jun 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Mai 2012",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Mai 2013",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Mai 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Mai 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Mai 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Mar 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Mar 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","NA NA",9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Nov 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Nov 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Nov 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Out 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Set 2010",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Set 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Set 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Set 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Abr 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Fev 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Jun 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Mai 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Mar 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Nov 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Set 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Set 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,"Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Abr 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Abr 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Ago 2010",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Ago 2014",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Ago 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Ago 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Ago 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Dez 2012",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Dez 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Fev 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Fev 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Fev 2026",0,1,1,0,0,Inf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jan 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jan 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jan 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jul 2014",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jul 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jul 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jun 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jun 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jun 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jun 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jun 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Mai 2015",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Mai 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Mai 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Mai 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Mar 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Mar 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","NA NA",9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Nov 2011",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Nov 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Nov 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Out 2014",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Out 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Out 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Set 2014",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Set 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Set 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Abr 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Ago 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Fev 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Jul 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Mar 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,"Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Abr 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Abr 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Abr 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Abr 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Abr 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Ago 2014",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Ago 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Ago 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Ago 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Ago 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Ago 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Dez 2012",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Dez 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Dez 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Dez 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Dez 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Fev 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Fev 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Fev 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Fev 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Fev 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Fev 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Jan 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Jan 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Jan 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Jul 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Jul 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Jul 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Jul 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Jun 2015",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Jun 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Jun 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Jun 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Jun 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Jun 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Mai 2012",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Mai 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Mai 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Mai 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Mar 2010",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Mar 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Mar 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Mar 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Mar 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Mar 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Mar 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","NA NA",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Nov 2011",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Nov 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Nov 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Nov 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Nov 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Out 2009",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Out 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Set 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Set 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Set 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V","Dez 2025","Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Abr 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Abr 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Ago 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Ago 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Dez 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Dez 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Dez 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Fev 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Fev 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Jan 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Jan 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Jan 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Jul 2019",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Jul 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Jul 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Jun 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Jun 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Mai 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Mai 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Mar 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Mar 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Nov 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Nov 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Nov 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Out 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Out 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Out 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Out 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Set 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Set 2021",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Set 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Set 2024",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,"Set 2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",78503,"GABINETE DE JUIZES AUXILIARES","Dez 2025","Ago 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",78503,"GABINETE DE JUIZES AUXILIARES","Dez 2025","Dez 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",78503,"GABINETE DE JUIZES AUXILIARES","Dez 2025","Jul 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",78503,"GABINETE DE JUIZES AUXILIARES","Dez 2025","Jun 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",78503,"GABINETE DE JUIZES AUXILIARES","Dez 2025","Mai 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",78503,"GABINETE DE JUIZES AUXILIARES","Dez 2025","Out 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",78503,"GABINETE DE JUIZES AUXILIARES","Dez 2025","Out 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",78503,"GABINETE DE JUIZES AUXILIARES","Dez 2025","Set 2014",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",78503,"GABINETE DE JUIZES AUXILIARES","Dez 2025","Set 2022",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",78503,"GABINETE DE JUIZES AUXILIARES",NA,"Mar 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",78503,"GABINETE DE JUIZES AUXILIARES",NA,"NA NA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",78503,"GABINETE DE JUIZES AUXILIARES",NA,"Nov 2023",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",78503,"GABINETE DE JUIZES AUXILIARES",NA,"Out 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO",NA,NA,0,0,0,0,0,0,2,1,0,71.4285714285714,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO",NA,NA,0,0,0,0,0,0,4,2,2,142.857142857143,2,0,2,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO",NA,NA,0,0,0,0,0,0,2,1,0,71.4285714285714,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO",NA,NA,0,0,0,0,0,0,1,1,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO",NA,NA,0,0,0,0,0,0,3,3,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO",NA,NA,0,0,0,0,0,0,5,4,1,142.857142857143,1,0,1,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO",NA,NA,0,0,0,0,0,0,2,1,1,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO",NA,NA,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO",NA,NA,0,0,0,0,0,0,2,1,0,71.4285714285714,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO",NA,NA,0,0,0,0,0,0,2,1,0,71.4285714285714,1,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO",NA,NA,0,0,0,0,0,0,2,1,0,71.4285714285714,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO",NA,NA,0,0,0,0,0,0,1,1,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO",NA,NA,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO",NA,NA,0,0,0,0,0,0,4,3,1,142.857142857143,1,0,1,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO",NA,NA,0,0,0,0,0,0,2,1,0,71.4285714285714,1,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO",NA,NA,0,0,0,0,0,0,17,12,2,114.285714285714,3,0,2,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO",NA,NA,0,0,0,0,0,0,3,2,0,95.2380952380952,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO",NA,NA,0,0,0,0,0,0,1,1,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO",NA,NA,0,0,0,0,0,0,13,2,7,47.6190476190476,11,0,7,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO",NA,NA,0,0,0,0,0,0,17,8,8,126.984126984127,5,0,4,1,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO",NA,NA,0,0,0,0,0,0,13,11,1,130.952380952381,2,0,1,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO",NA,NA,0,0,0,0,0,0,1,1,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO",NA,NA,0,0,0,0,0,0,2,2,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO",NA,NA,0,0,0,0,0,0,3,3,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO",NA,NA,0,0,0,0,0,0,6,6,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO",NA,NA,0,0,0,0,0,0,3,1,2,142.857142857143,1,0,1,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27355,"GABINETE DA PRESIDÊNCIA",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,NA,0,0,0,0,0,0,2,2,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,NA,0,0,0,0,0,0,1,1,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,NA,0,0,0,0,0,0,1,1,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO",NA,NA,0,0,0,0,0,0,218,218,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO",NA,NA,0,0,0,0,0,0,81,81,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO",NA,NA,0,0,0,0,0,0,128,128,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO",NA,NA,0,0,0,0,0,0,255,255,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO",NA,NA,0,0,0,0,0,0,211,209,0,141.503046716317,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO",NA,NA,0,0,0,0,0,0,143,143,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO",NA,NA,0,0,0,0,0,0,246,246,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO",NA,NA,0,0,0,0,0,0,10,10,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO",NA,NA,0,0,0,0,0,0,144,142,0,140.873015873016,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO",NA,NA,0,0,0,0,0,0,134,134,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO",NA,NA,0,0,0,0,0,0,242,241,0,142.266824085006,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO",NA,NA,0,0,0,0,0,0,69,69,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO",NA,NA,0,0,0,0,0,0,156,152,0,139.194139194139,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO",NA,NA,0,0,0,0,0,0,117,116,0,141.636141636142,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO",NA,NA,0,0,0,0,0,0,71,71,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO",NA,NA,0,0,0,0,0,0,153,153,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO",NA,NA,0,0,0,0,0,0,126,126,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO",NA,NA,0,0,0,0,0,0,188,188,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO",NA,NA,0,0,0,0,0,0,152,150,0,140.977443609023,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO",NA,NA,0,0,0,0,0,0,267,267,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO",NA,NA,0,0,0,0,0,0,117,116,1,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO",NA,NA,0,0,0,0,0,0,251,251,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO",NA,NA,0,0,0,0,0,0,388,387,1,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO",NA,NA,0,0,0,0,0,0,311,310,0,142.397795130914,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO",NA,NA,0,0,0,0,0,0,111,111,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO",NA,NA,0,0,0,0,0,0,159,159,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO",NA,NA,0,0,0,0,0,0,120,120,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO",NA,NA,0,0,0,0,0,0,149,149,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO",NA,NA,0,0,0,0,0,0,229,228,0,142.233312538989,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO",NA,NA,0,0,0,0,0,0,160,160,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO",NA,NA,0,0,0,0,0,0,288,288,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA",NA,NA,0,0,0,0,0,0,176,175,0,142.045454545455,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO",NA,NA,0,0,0,0,0,0,113,113,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27355,"GABINETE DA PRESIDÊNCIA",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,NA,0,0,0,0,0,0,39,37,1,139.097744360902,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,NA,0,0,0,0,0,0,13,13,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,NA,0,0,0,0,0,0,44,44,0,142.857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,NA,0,0,0,0,0,0,46,43,2,139.61038961039,2,0,2,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,NA,0,0,0,0,0,0,56,48,1,124.675324675325,1,0,1,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,NA,0,0,0,0,0,0,48,47,1,142.857142857143,1,0,1,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",78503,"GABINETE DE JUIZES AUXILIARES",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,142.857142857143
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27355,"GABINETE DA PRESIDÊNCIA",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ALVORADA",16933,"14ª ZE - ALVORADA/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16923,"1ª ZE - ARAGUAÍNA/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUAINA",16943,"34ª ZE - ARAGUAÍNA/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAGUATINS",16932,"10ª ZE - ARAGUATINS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARAPOEMA",16941,"31ª ZE - ARAPOEMA/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ARRAIAS",16936,"22ª ZE - ARRAIAS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","AUGUSTINOPOLIS",16244,"21ª ZE - AUGUSTINÓPOLIS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLINAS DO TOCANTINS",16926,"4ª ZE - COLINAS DO TOCANTINS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","COLMEIA",16245,"16ª ZE - COLMEIA/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","CRISTALANDIA",16126,"13ª ZE - CRISTALÂNDIA/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","DIANOPOLIS",16128,"25ª ZE - DIANÓPOLIS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FILADELFIA",16930,"8ª ZE - FILADÉLFIA/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","FORMOSO DO ARAGUAIA",16124,"15ª ZE - FORMOSO DO ARAGUAIA/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GOIATINS",16942,"32ª ZE - GOIATINS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GUARAI",16928,"6ª ZE - GUARAÍ/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","GURUPI",16924,"2ª ZE - GURUPI/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITACAJA",16507,"33ª ZE - ITACAJÁ/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","ITAGUATINS",16113,"11ª ZE - ITAGUATINS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRACEMA DO TOCANTINS",16927,"5ª ZE - MIRACEMA DO TOCANTINS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","MIRANORTE",16108,"28ª ZE - MIRANORTE/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NATIVIDADE",16934,"19ª ZE - NATIVIDADE/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","NOVO ACORDO",16944,"35ª ZE - NOVO ACORDO/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PALMAS",16940,"29ª ZE - PALMAS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARAISO DO TOCANTINS",16929,"7ª ZE - PARAÍSO DO TOCANTINS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PARANA",16246,"18ª ZE - PARANÃ/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEDRO AFONSO",16937,"23ª ZE - PEDRO AFONSO/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PEIXE",16935,"20ª ZE - PEIXE/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PONTE ALTA DO TOCANTINS",16121,"26ª ZE - PONTE ALTA DO TOCANTINS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","PORTO NACIONAL",16925,"3ª ZE - PORTO NACIONAL/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TAGUATINGA",16503,"17ª ZE - TAGUATINGA/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","TOCANTINOPOLIS",16931,"9ª ZE - TOCANTINÓPOLIS/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","WANDERLANDIA",16939,"27ª ZE - WANDERLÂNDIA",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G1","TO","XAMBIOA",16502,"12ª ZE - XAMBIOÁ/TO",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27355,"GABINETE DA PRESIDÊNCIA",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27356,"GABINETE DA CORREGEDORIA",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27357,"GABINETE DE JUIZ MEMBRO I",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27358,"GABINETE DE JUIZ MEMBRO II",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27359,"GABINETE DE JUIZ MEMBRO III",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27360,"GABINETE DE JUIZ MEMBRO IV",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",27361,"GABINETE DE JUIZ MEMBRO V",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0
+"TRE-TO","Conhecimento não criminal","Justiça Eleitoral","G2","TO","PALMAS",78503,"GABINETE DE JUIZES AUXILIARES",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
