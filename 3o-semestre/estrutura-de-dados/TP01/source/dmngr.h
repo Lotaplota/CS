@@ -4,6 +4,10 @@
 #define MAX_ARQUIVOS 32
 #define TAM_NOME_ARQUIVO 20
 
+// Interpolador de strings
+extern char tmp[256];
+#define scratch(s, ...) (snprintf(tmp, sizeof(tmp), s, __VA_ARGS__), tmp)
+
 typedef struct
 {
     char sigla_tribunal[9];
@@ -11,7 +15,7 @@ typedef struct
     char ramo_justica[32];
     char sigla_grau[5];
     char uf_oj[5];
-    char municipio_oj[32];
+    char municipio_oj[64];
     int id_ultimo_oj;
     char nome[32];
     char mesano_cnm1[16];
@@ -75,5 +79,6 @@ typedef struct
 
 int ConcatArquivos(char *, char *);
 void GerarResumo(char *, int);
+char * gerarOcorrencias(char *);
 
 #endif

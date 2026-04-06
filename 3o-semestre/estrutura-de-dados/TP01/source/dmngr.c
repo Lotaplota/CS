@@ -3,6 +3,7 @@
 #include <string.h>
 
 #include "dmngr.h"
+char tmp[256];
 
 // Função que verifica se uma string [nome] termina com outra [extensao]
 int terminaCom(char * extensao, char * nome)
@@ -102,13 +103,13 @@ void GerarResumo(char * ptrDados, int qt_arquivos)
 
     Somas S = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
     LinhaResumo lRes;
-    LinhaDados lDad;
+    LinhaDados lD;
 
     while(fgets(buffer, sizeof(buffer), dados))
     {
-        sscanf(buffer, "%[^,],%[^,],%[^,],%[^,],%[^,],%[^,],%i,%[^,],%[^,],%[^,],%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i", lDad.sigla_tribunal, lDad.procedimento, lDad.ramo_justica, lDad.sigla_grau, lDad.uf_oj, lDad.municipio_oj, &lDad.id_ultimo_oj, lDad.nome, lDad.mesano_cnm1, lDad.mesano_sent, &lDad.casos_novos_2026, &lDad.julgados_2026, &lDad.prim_sent2026, &lDad.suspensos_2026, &lDad.dessobrestados_2026, &lDad.cumprimento_meta1, &lDad.distm2_a, &lDad.julgm2_a, &lDad.suspm2_a, &lDad.cumprimento_meta2a, &lDad.distm2_ant, &lDad.julgm2_ant, &lDad.suspm2_ant, &lDad.desom2_ant, &lDad.cumprimento_meta2ant, &lDad.distm4_a, &lDad.julgm4_a, &lDad.suspm4_a, &lDad.cumprimento_meta4a, &lDad.distm4_b, &lDad.julgm4_b, &lDad.suspm4_b, &lDad.cumprimento_meta4b);
+        sscanf(buffer, "%[^,],%[^,],%[^,],%[^,],%[^,],%[^,],%i,%[^,],%[^,],%[^,],%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i,%i", lD.sigla_tribunal, lD.procedimento, lD.ramo_justica, lD.sigla_grau, lD.uf_oj, lD.municipio_oj, &lD.id_ultimo_oj, lD.nome, lD.mesano_cnm1, lD.mesano_sent, &lD.casos_novos_2026, &lD.julgados_2026, &lD.prim_sent2026, &lD.suspensos_2026, &lD.dessobrestados_2026, &lD.cumprimento_meta1, &lD.distm2_a, &lD.julgm2_a, &lD.suspm2_a, &lD.cumprimento_meta2a, &lD.distm2_ant, &lD.julgm2_ant, &lD.suspm2_ant, &lD.desom2_ant, &lD.cumprimento_meta2ant, &lD.distm4_a, &lD.julgm4_a, &lD.suspm4_a, &lD.cumprimento_meta4a, &lD.distm4_b, &lD.julgm4_b, &lD.suspm4_b, &lD.cumprimento_meta4b);
 
-        if (strcmp(ultima_sigla, lDad.sigla_tribunal) != 0)
+        if (strcmp(ultima_sigla, lD.sigla_tribunal) != 0)
         {
             strcpy(lRes.sigla_tribunal, ultima_sigla);
             lRes.julgados_2026 = S.s_julgados_2026;
@@ -138,26 +139,26 @@ void GerarResumo(char * ptrDados, int qt_arquivos)
             S.s_distm4_b = 0;
             S.s_suspm4_b = 0;
             
-            strcpy(ultima_sigla, lDad.sigla_tribunal);
+            strcpy(ultima_sigla, lD.sigla_tribunal);
         }
         
-        S.s_julgados_2026 = S.s_julgados_2026 + lDad.julgados_2026;
-        S.s_casos_novos_2026 = S.s_casos_novos_2026 + lDad.casos_novos_2026;
-        S.s_dessobrestados_2026 = S.s_dessobrestados_2026 + lDad.dessobrestados_2026;
-        S.s_suspensos_2026 = S.s_suspensos_2026 + lDad.suspensos_2026;
-        S.s_julgm2_a = S.s_julgm2_a + lDad.julgm2_a;
-        S.s_distm2_a = S.s_distm2_a + lDad.distm2_a;
-        S.s_suspm2_a = S.s_suspm2_a + lDad.suspm2_a;
-        S.s_julgm2_ant = S.s_julgm2_ant + lDad.julgm2_ant;
-        S.s_distm2_ant = S.s_distm2_ant + lDad.distm2_ant;
-        S.s_suspm2_ant = S.s_suspm2_ant + lDad.suspm2_ant;
-        S.s_desom2_ant = S.s_desom2_ant + lDad.desom2_ant;
-        S.s_julgm4_a = S.s_julgm4_a + lDad.julgm4_a;
-        S.s_distm4_a = S.s_distm4_a + lDad.distm4_a;
-        S.s_suspm4_a = S.s_suspm4_a + lDad.suspm4_a;
-        S.s_julgm4_b = S.s_julgm4_b + lDad.julgm4_b;
-        S.s_distm4_b = S.s_distm4_b + lDad.distm4_b;
-        S.s_suspm4_b = S.s_suspm4_b + lDad.suspm4_b;
+        S.s_julgados_2026 = S.s_julgados_2026 + lD.julgados_2026;
+        S.s_casos_novos_2026 = S.s_casos_novos_2026 + lD.casos_novos_2026;
+        S.s_dessobrestados_2026 = S.s_dessobrestados_2026 + lD.dessobrestados_2026;
+        S.s_suspensos_2026 = S.s_suspensos_2026 + lD.suspensos_2026;
+        S.s_julgm2_a = S.s_julgm2_a + lD.julgm2_a;
+        S.s_distm2_a = S.s_distm2_a + lD.distm2_a;
+        S.s_suspm2_a = S.s_suspm2_a + lD.suspm2_a;
+        S.s_julgm2_ant = S.s_julgm2_ant + lD.julgm2_ant;
+        S.s_distm2_ant = S.s_distm2_ant + lD.distm2_ant;
+        S.s_suspm2_ant = S.s_suspm2_ant + lD.suspm2_ant;
+        S.s_desom2_ant = S.s_desom2_ant + lD.desom2_ant;
+        S.s_julgm4_a = S.s_julgm4_a + lD.julgm4_a;
+        S.s_distm4_a = S.s_distm4_a + lD.distm4_a;
+        S.s_suspm4_a = S.s_suspm4_a + lD.suspm4_a;
+        S.s_julgm4_b = S.s_julgm4_b + lD.julgm4_b;
+        S.s_distm4_b = S.s_distm4_b + lD.distm4_b;
+        S.s_suspm4_b = S.s_suspm4_b + lD.suspm4_b;
     }
 
     strcpy(lRes.sigla_tribunal, ultima_sigla);
@@ -171,4 +172,45 @@ void GerarResumo(char * ptrDados, int qt_arquivos)
     fprintf(resumo, "%s,%i,%f,%f,%f,%f,%f\n", lRes.sigla_tribunal, lRes.julgados_2026, lRes.Meta1, lRes.Meta2A, lRes.Meta2Ant, lRes.Meta4A, lRes.Meta4B);
 
     fclose(dados); fclose(resumo);
+}
+
+char * gerarOcorrencias(char * municipio)
+{
+    FILE * fr = fopen("dados.csv", "r");
+    if (!fr) { perror("Arquivo de leitura não encontrado"); return NULL; }
+
+    FILE * fw = fopen(scratch("%s.csv", municipio), "w");
+
+    // Criando buffer e ignorando primeira linha
+    char buffer[1024];
+    fgets(buffer, sizeof(buffer), fr);
+
+    int qt_ocorrencias = 0;
+
+    while (fgets(buffer, sizeof(buffer), fr))
+    {
+        // Obtendo o nome do município na linha atual
+        LinhaDados lD;
+        sscanf(buffer, "%*[^,],%*[^,],%*[^,],%*[^,],%*[^,],%[^,],", lD.municipio_oj);
+        
+        if (strcasecmp(scratch("\"%s\"", municipio), lD.municipio_oj) == 0)
+        {
+            fprintf(fw, "%s", buffer);
+            qt_ocorrencias++;
+        }
+    }
+
+    fclose(fr);
+    
+    if(qt_ocorrencias == 0)
+    {
+        fprintf(fw, "%s", "Nenhuma ocorrência encontrada");
+        fclose(fw);
+
+        return scratch("Nenhuma ocorrência encontrada para o municipio de %s.", municipio);
+    }
+    else
+    {
+        return scratch("%i ocorrências encontradas para o município de %s.", qt_ocorrencias, municipio);
+    }
 }
