@@ -1,13 +1,19 @@
 #ifndef DMNGR_H
 #define DMNGR_H
 
-#define MAX_ARQUIVOS 32
-#define TAM_NOME_ARQUIVO 20
+#define MAX_ARQUIVOS 32      // Quantidade máxima de arquivos iniciais
+#define TAM_NOME_ARQUIVO 20  // Tamanho máximo do nome dos arquivos iniciais
+
+// Cabeçalho dos arquivos .csv que contém os dados
+#define CABECALHO "\"sigla_tribunal\",\"procedimento\",\"ramo_justica\",\"sigla_grau\",\"uf_oj\",\"municipio_oj\",\"id_ultimo_oj\",\"nome\",\"mesano_cnm1\",\"mesano_sent\",\"casos_novos_2026\",\"julgados_2026\",\"prim_sent2026\",\"suspensos_2026\",\"dessobrestados_2026\",\"cumprimento_meta1\",\"distm2_a\",\"julgm2_a\",\"suspm2_a\",\"cumprimento_meta2a\",\"distm2_ant\",\"julgm2_ant\",\"suspm2_ant\",\"desom2_ant\",\"cumprimento_meta2ant\",\"distm4_a\",\"julgm4_a\",\"suspm4_a\",\"cumprimento_meta4a\",\"distm4_b\",\"julgm4_b\",\"suspm4_b\",\"cumprimento_meta4b\"\n"
+// bem longo né professor...
 
 // Interpolador de strings
 extern char tmp[256];
 #define scratch(s, ...) (snprintf(tmp, sizeof(tmp), s, __VA_ARGS__), tmp)
+// ai q sdds de C#...
 
+// Será utilizada para armazenar os dados de cada linha do arquivo de dados
 typedef struct
 {
     char sigla_tribunal[9];
@@ -45,6 +51,8 @@ typedef struct
     int cumprimento_meta4b;
 } LinhaDados;
 
+// Armazenará os somatórios dos valores escritos no arquivo de dados
+// Será utilizada na geração das linhas do arquivo resumo
 typedef struct
 {
     int s_julgados_2026;
@@ -66,6 +74,7 @@ typedef struct
     int s_suspm4_b;
 } Somas;
 
+// Armazenará os dados a serem escritos nas linhas do arquivo resumo
 typedef struct
 {
     char sigla_tribunal[9];
@@ -77,8 +86,10 @@ typedef struct
     float Meta4B;
 } LinhaResumo;
 
-int ConcatArquivos(char *, char *);
-void GerarResumo(char *, int);
+// Funções do main.c
+int ConcatArquivos(char *);
+void GerarResumo(int);
 char * gerarOcorrencias(char *);
+void Bye();
 
 #endif

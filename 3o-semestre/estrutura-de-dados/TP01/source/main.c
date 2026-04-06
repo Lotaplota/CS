@@ -6,24 +6,30 @@
 
 int main(void)
 {
-    int qt_arquivos = ConcatArquivos("../database", "dados.csv");
+    int qt_arquivos = ConcatArquivos("../data");
 
-    GerarResumo("dados.csv", qt_arquivos);
+    GerarResumo(qt_arquivos);
+    system("cls");
 
-    // Loop para conseguir entrada do usuário
+    // Loop para obter entradas do usuário
     char entradaUsuario[64] = "inicio";
     while (1)
     {
-        printf("Gostaria de observar as ocorrencias de qual municipio?\nDigite [sair] para encerrar o programa\n");
+        printf("Gostaria de listar as ocorrências de qual município?\nDigite \x1b[33m[sair]\x1b[0m para encerrar o programa.\n\t");
 
         scanf("%s", entradaUsuario);
         strcpy(entradaUsuario, strupr(entradaUsuario));
 
         if (strcmp(entradaUsuario, "SAIR") != 0)
         {
+            system("cls");
+            printf("%s\n", scratch("Buscando ocorreências do município de %s...", entradaUsuario));
+
             char * resposta = gerarOcorrencias(entradaUsuario);
             printf("%s\n", resposta);
         }
-        else { break; }
+        else { Bye(); return 0; }
     }
+
+    return 1;
 }
