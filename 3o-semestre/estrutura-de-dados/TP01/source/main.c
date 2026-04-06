@@ -5,6 +5,7 @@
 
 int main(void)
 {
-    int qt_arquivos = concatArquivos("../database");
-    printf("quantidade de arquivos concatenados: %i\n", qt_arquivos); // DONKEY
+    int qt_arquivos = ConcatArquivos("../database", "dados.csv");
+
+    GerarResumo("dados.csv", qt_arquivos);
 }
