@@ -1,6 +1,7 @@
 *.exe
 *.log
 *.vscode/
+*TP01/source/*.csv
 
 # idk if this works
 /node_modules/

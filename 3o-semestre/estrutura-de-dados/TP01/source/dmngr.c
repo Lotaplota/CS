@@ -90,7 +90,7 @@ int ConcatArquivos(char * pasta)
 
 // Efetua os cálculos para cada uma das variáveis e monta a linha a ser adicionada ao arquivo resumo.csv
 // É chamada sempre que uma nova sigla é detectada durante a leitura do arquivo dados.csv
-void montarLinhaResumo(LinhaResumo * lr, char * sigla, Somas sms)
+void MontarLinhaResumo(LinhaResumo * lr, char * sigla, Somas sms)
 {
     // Atribuindo a sigla à linha
     strcpy(lr->sigla_tribunal, sigla);
@@ -159,7 +159,7 @@ void GerarResumo(int qt_arquivos)
         // Se a sigla da linha atual for diferente da sigla da linha anterior, o programa executa o processo de montar a linha resumo e adicioná-la ao arquivo do resumo
         if (strcmp(ultima_sigla, lD.sigla_tribunal) != 0)
         {
-            montarLinhaResumo(&lRes, ultima_sigla, S);
+            MontarLinhaResumo(&lRes, ultima_sigla, S);
 
             // Transcrevendo a linha resumo para o arquivo do resumo
             fprintf(resumo, "%s,%i,%f,%f,%f,%f,%f\n", lRes.sigla_tribunal, lRes.julgados_2026, lRes.Meta1, lRes.Meta2A, lRes.Meta2Ant, lRes.Meta4A, lRes.Meta4B);
@@ -175,7 +175,7 @@ void GerarResumo(int qt_arquivos)
 
     // O procedimento do loop deve acontecer mais uma vez para adicionar a linha resumo do último arquivo lido, mas o procedimento é exatamente o mesmo
     // TODO: abstract to a function like writetofile()
-    montarLinhaResumo(&lRes, ultima_sigla, S);
+    MontarLinhaResumo(&lRes, ultima_sigla, S);
 
     fprintf(resumo, "%s,%i,%f,%f,%f,%f,%f\n", lRes.sigla_tribunal, lRes.julgados_2026, lRes.Meta1, lRes.Meta2A, lRes.Meta2Ant, lRes.Meta4A, lRes.Meta4B);
 
@@ -184,7 +184,7 @@ void GerarResumo(int qt_arquivos)
 
 // Gera arquivo de ocorrências titulado MUNICIPIO.csv de acordo com o município escolhido
 // Baseia-se no arquivo dados.csv gerado pela função ConcatArquivos()
-char * gerarOcorrencias(char * municipio)
+char * GerarOcorrencias(char * municipio)
 {
     FILE * fr = fopen("dados.csv", "r");
     if (!fr) { perror("Arquivo de leitura não encontrado"); return NULL; }

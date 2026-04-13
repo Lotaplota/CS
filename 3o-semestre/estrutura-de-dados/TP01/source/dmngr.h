@@ -89,7 +89,7 @@ typedef struct
 // Funções do main.c
 int ConcatArquivos(char *);
 void GerarResumo(int);
-char * gerarOcorrencias(char *);
+char * GerarOcorrencias(char *);
 void Bye();
 
 #endif
