@@ -1,7 +1,8 @@
 *.exe
 *.log
-.vscode
+.vscode/
 
 # idk if this works
 /node_modules/
 ./3o-semestre/estrutura-de-dados/TP01/source/*.csv
+2o-semestre/algoritmos-e-programacao-estruturada/*.csv
