@@ -37,6 +37,11 @@ Posicao * NovaPosicao(int x, int y, Posicao * proxima)
     return pos;
 }
 
+void ExibirPosissaum(Posicao * p)
+{
+    printf("(%i, %i), %X\n", p->X, p->Y, p->Proximo);
+}
+
 // AUX
 
 int main(void)
@@ -52,6 +57,8 @@ int main(void)
     // printf("p5. (%i, %i)\n", caminho->Historico->Proximo->Proximo->Proximo->Proximo->X, caminho->Historico->Proximo->Proximo->Proximo->Proximo->Y); // DONKEY 3
     // printf("p6. (%i, %i)\n", caminho->Historico->Proximo->Proximo->Proximo->Proximo->Proximo->X, caminho->Historico->Proximo->Proximo->Proximo->Proximo->Proximo->Y); // DONKEY 3
     caminho->Fim = DeterminarFim(caminho);
+//     printf("posicao final: "); // DONKEY 4
+    // ExibirPosissaum(caminho->Fim); // DONKEY 4
 }
 
 Caminho * InicializarCaminho (const char * sequencia, int xInicial, int yInicial)
@@ -96,30 +103,15 @@ void DestruirCaminho(Caminho * c)
 
 Posicao * DeterminarFim(Caminho * c)
 {
-    // Comando * atual = (Comando *) malloc(sizeof(Comando));
-    // Posicao * final = NovaPosicao(c->Inicio->X, c->Inicio->Y, NULL);
+    Posicao * atual = c->Historico; // same thing as the starting position, but ok...
+    
+    while (atual->Proximo)
+    {
+        // ExibirPosissaum(atual); // DONKEY 4
+        atual = atual->Proximo;
+    }
 
-    // for (int i = 0; i < c->N; i++)
-    // {
-    //     printf("diressaum do comando: %c\n", atual->Direcao); // DONKEY
-    //     switch (atual->Direcao)
-    //     {
-    //     case 'N':
-    //         final->Y++;
-    //         break;
-    //     case 'S':
-    //         final->Y--;
-    //         break;
-    //     case 'L':
-    //         final->X++;
-    //         break;
-    //     case 'O':
-    //         final->X++;
-    //         break;
-    //     default:
-    //         break;
-    //     }
-    // }
+    return atual;
 }
 
 Posicao * HistoricoPosicoes(Caminho * c)
