@@ -23,16 +23,20 @@ int main() {
     // 5 comandos Norte  -> y aumenta de 2 para 7 
     // Posição final esperada: (9, 7) 
 
+    printf("hey!\n"); // DONKEY
     C = InicializarCaminho("LLLLLLLNNNNN", 2, 2); 
  
     if (C == NULL) { 
         printf("Erro ao inicializar o caminho.\n"); 
         return 1; 
     } 
+    printf("hey!\n"); // DONKEY
  
     // Teste da função DeterminarFim(C), cujo resultado esperado é Fim = (9, 7) 
  
+    printf("hey fim!\n"); // DONKEY
     Fim = DeterminarFim(C); 
+    printf("hey!\n"); // DONKEY
     if (Fim != NULL) printf("Posicao final: (%d, %d)\n", Fim->X, Fim->Y); 
 
     // Teste da função HistoricoPosicoes(C), cujo resultado esperado é (2, 2) -> (3, 2) -> (4, 2) -> (5, 2) -> (6, 2) -> (7, 2) -> (8, 2) -> (9, 2) -> (9, 3) -> (9, 4) -> (9, 5) -> (9, 6) -> (9, 7) */ 

@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <math.h>
 #include "caminho.h"
 
 // AUX
@@ -42,11 +43,39 @@ void ExibirPosissaum(Posicao * p)
     printf("(%i, %i), %X\n", p->X, p->Y, p->Proximo);
 }
 
+void DestruirPosissoins(Posicao * p)
+{
+    Posicao * pAtual = p;
+
+    while (pAtual)
+    {
+        Posicao * proxima = pAtual->Proximo;
+        // printf("freeing position (%i, %i)\n", pAtual->X, pAtual->Y); // DONKEY 6
+        free(pAtual);
+        // printf("now: (%i, %i)\n", pAtual->X, pAtual->Y); // DONKEY 6
+        pAtual = proxima;
+    }
+}
+
+void DestruirInstrussoins(Comando * c)
+{
+    Comando * cAtual = c;
+
+    while (cAtual)
+    {
+        Comando * proximo = cAtual->Proximo;
+        // printf("freeing command %c\n", cAtual->Direcao); // DONKEY 6
+        free(cAtual);
+        // printf("now: %c\n", cAtual->Direcao); // DONKEY 6
+        cAtual = proximo;
+    }
+}
+
 // AUX
 
 int main(void)
 {
-    Caminho * caminho = InicializarCaminho("nNslLO", 0, 0);
+    Caminho * caminho = InicializarCaminho("sssoooo", 0, 0);
     printf("qt de instrussoins: %i\n", caminho->N); // DONKEY
 
     caminho->Historico = HistoricoPosicoes(caminho);
@@ -57,8 +86,18 @@ int main(void)
     // printf("p5. (%i, %i)\n", caminho->Historico->Proximo->Proximo->Proximo->Proximo->X, caminho->Historico->Proximo->Proximo->Proximo->Proximo->Y); // DONKEY 3
     // printf("p6. (%i, %i)\n", caminho->Historico->Proximo->Proximo->Proximo->Proximo->Proximo->X, caminho->Historico->Proximo->Proximo->Proximo->Proximo->Proximo->Y); // DONKEY 3
     caminho->Fim = DeterminarFim(caminho);
-//     printf("posicao final: "); // DONKEY 4
+    // printf("posicao final: "); // DONKEY 4
     // ExibirPosissaum(caminho->Fim); // DONKEY 4
+    caminho->N = CalcularDistanciaTotal(caminho);
+    
+    int dManhattan = CalcularDistanciaManhattan(caminho);
+    // printf("dManhattan = %i\n", dManhattan); // DONKEY 5
+    double dGeo = CalcularDistanciaGeometrica(caminho);
+    // printf("dGeo = %lf\n", dGeo); // DONKEY 5
+
+    DestruirCaminho(caminho);
+
+    printf("caminho depois da destruissaum: N = %i\n", caminho->N); // DONKEY 8
 }
 
 Caminho * InicializarCaminho (const char * sequencia, int xInicial, int yInicial)
@@ -98,7 +137,10 @@ Caminho * InicializarCaminho (const char * sequencia, int xInicial, int yInicial
 
 void DestruirCaminho(Caminho * c)
 {
-    // TODO
+    DestruirPosissoins(c->Inicio);
+    DestruirInstrussoins(c->Instrucoes);
+
+    free(c);
 }
 
 Posicao * DeterminarFim(Caminho * c)
@@ -157,20 +199,32 @@ Posicao * HistoricoPosicoes(Caminho * c)
 
 int CalcularDistanciaTotal(Caminho * c)
 {
-    // TODO
+    return ContarInstrucoes(c); // ¯\_(ツ)_/¯
 }
 
 double CalcularDistanciaGeometrica(Caminho * c)
 {
-    // TODO
+    int xI = c->Inicio->X; int yI = c->Inicio->Y;
+    int xF = c->Fim->X; int yF = c->Fim->Y;
+
+    double d = sqrt( pow(xF - xI, 2) + pow(yF - yI, 2));
+    // printf("geodistance = %lf\n", d); // DONKEY 5
+
+    return d;
 }
 
 int CalcularDistanciaManhattan(Caminho * c)
 {
-    // TODO
+    int xI = c->Inicio->X; int yI = c->Inicio->Y;
+    int xF = c->Fim->X; int yF = c->Fim->Y;
+    
+    int d = xF - xI + yF - yI;
+    printf("dManhattan = %i\n", d); // DONKEY 5
+
+    return (d<0)?-d:d;
 }
 
 int ContarInstrucoes(Caminho * c)
 {
-    // TODO
+    return c->N; // ¯\_(ツ)_/¯
 }

@@ -20,13 +20,13 @@ typedef struct Caminho {
     int N; // Quantidade de instruções executadas no trajeto 
 } Caminho;
  
-Caminho * InicializarCaminho(const char *Sequencia, int xInicial, int yInicial); 
-void DestruirCaminho(Caminho * C); 
-Posicao * DeterminarFim(Caminho * C); 
-Posicao * HistoricoPosicoes(Caminho * C); 
-int CalcularDistanciaTotal(Caminho * C); 
-double CalcularDistanciaGeometrica(Caminho * C); 
-int CalcularDistanciaManhattan(Caminho * C); 
-int ContarInstrucoes(Caminho * C); 
+Caminho * InicializarCaminho(const char *Sequencia, int xInicial, int yInicial); // DONE
+void DestruirCaminho(Caminho * C); // DONE
+Posicao * DeterminarFim(Caminho * C); // DONE
+Posicao * HistoricoPosicoes(Caminho * C); // DONE
+int CalcularDistanciaTotal(Caminho * C); // DONE
+double CalcularDistanciaGeometrica(Caminho * C); // DONE
+int CalcularDistanciaManhattan(Caminho * C); // DONE
+int ContarInstrucoes(Caminho * C);  // DONE
  
 #endif
