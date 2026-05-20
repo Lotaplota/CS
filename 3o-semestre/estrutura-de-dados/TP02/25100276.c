@@ -25,11 +25,33 @@ int EhValida(char * seq)
     return valida;
 }
 
+Posicao * NovaPosicao(int x, int y, Posicao * proxima)
+{
+    Posicao * pos = (Posicao *) malloc(sizeof(Posicao));
+    if (!pos) {perror("Naum hah memohria para alocar nova posissaum."); return NULL;}
+
+    pos->X = x;
+    pos->Y = y;
+    pos->Proximo = proxima;
+
+    return pos;
+}
+
 // AUX
 
 int main(void)
 {
-    Caminho * caminho = InicializarCaminho("nslO", 2, 0);
+    Caminho * caminho = InicializarCaminho("nNslLO", 0, 0);
+    printf("qt de instrussoins: %i\n", caminho->N); // DONKEY
+
+    caminho->Historico = HistoricoPosicoes(caminho);
+    // printf("p1. (%i, %i)\n", caminho->Historico->X, caminho->Historico->Y); // DONKEY 3
+    // printf("p2. (%i, %i)\n", caminho->Historico->Proximo->X, caminho->Historico->Proximo->Y); // DONKEY 3
+    // printf("p3. (%i, %i)\n", caminho->Historico->Proximo->Proximo->X, caminho->Historico->Proximo->Proximo->Y); // DONKEY 3
+    // printf("p4. (%i, %i)\n", caminho->Historico->Proximo->Proximo->Proximo->X, caminho->Historico->Proximo->Proximo->Proximo->Y); // DONKEY 3
+    // printf("p5. (%i, %i)\n", caminho->Historico->Proximo->Proximo->Proximo->Proximo->X, caminho->Historico->Proximo->Proximo->Proximo->Proximo->Y); // DONKEY 3
+    // printf("p6. (%i, %i)\n", caminho->Historico->Proximo->Proximo->Proximo->Proximo->Proximo->X, caminho->Historico->Proximo->Proximo->Proximo->Proximo->Proximo->Y); // DONKEY 3
+    caminho->Fim = DeterminarFim(caminho);
 }
 
 Caminho * InicializarCaminho (const char * sequencia, int xInicial, int yInicial)
@@ -43,8 +65,8 @@ Caminho * InicializarCaminho (const char * sequencia, int xInicial, int yInicial
     if (!C) { perror("Naum hah memohria para armazenar o caminho"); return NULL; }
 
     // Settando a posissaum inicial do robou
-    Posicao pInicial = { xInicial, yInicial };
-    C->Inicio = &pInicial;
+    Posicao * pInicial = NovaPosicao(xInicial, yInicial, NULL); 
+    C->Inicio = pInicial;
     
     // Settando as instrussoins do robou
     // Passa por cada um dos caracteres da sequencia de trahs para frente, criando um comando para cada caractere
@@ -59,7 +81,12 @@ Caminho * InicializarCaminho (const char * sequencia, int xInicial, int yInicial
     }
 
     C->Instrucoes = prevcmd;
-    printf("%c!\n", C->Instrucoes->Direcao); // DONKEY
+
+    // Settando quantidade de instrussoins
+    // acho que eu to roubando...
+    C->N = strlen(sequencia);
+
+    return C;
 }
 
 void DestruirCaminho(Caminho * c)
@@ -69,30 +96,89 @@ void DestruirCaminho(Caminho * c)
 
 Posicao * DeterminarFim(Caminho * c)
 {
-    // TODO
+    // Comando * atual = (Comando *) malloc(sizeof(Comando));
+    // Posicao * final = NovaPosicao(c->Inicio->X, c->Inicio->Y, NULL);
+
+    // for (int i = 0; i < c->N; i++)
+    // {
+    //     printf("diressaum do comando: %c\n", atual->Direcao); // DONKEY
+    //     switch (atual->Direcao)
+    //     {
+    //     case 'N':
+    //         final->Y++;
+    //         break;
+    //     case 'S':
+    //         final->Y--;
+    //         break;
+    //     case 'L':
+    //         final->X++;
+    //         break;
+    //     case 'O':
+    //         final->X++;
+    //         break;
+    //     default:
+    //         break;
+    //     }
+    // }
 }
 
-Posicao HistoricoPosicoes(Caminho * c)
+Posicao * HistoricoPosicoes(Caminho * c)
+{
+    Comando * cAtual = (Comando *) malloc(sizeof(Comando));
+    cAtual = c->Instrucoes;
+
+    Posicao * pAtual = c->Inicio;
+    // printf("[%i, %i]\n\n", pAtual->X, pAtual->Y); // DONKEY 2
+
+    for (int i = 0; i < c->N; i++)
+    {
+        // printf("diressaum do comando: %c\n", cAtual->Direcao); // DONKEY 2
+        // printf("(%i, %i) ", pAtual->X, pAtual->Y); // DONKEY 2
+        switch (cAtual->Direcao)
+        {
+            case 'N':
+                pAtual->Proximo = NovaPosicao(pAtual->X, pAtual->Y + 1, NULL);
+                break;
+            case 'S':
+                pAtual->Proximo = NovaPosicao(pAtual->X, pAtual->Y - 1, NULL);
+                break;
+            case 'L':
+                pAtual->Proximo = NovaPosicao(pAtual->X + 1, pAtual->Y, NULL);
+                break;
+            case 'O':
+                pAtual->Proximo = NovaPosicao(pAtual->X - 1, pAtual->Y, NULL);
+                break;
+            default:
+                break;
+        }
+        // printf("vai para (%i, %i)\n", pAtual->Proximo->X, pAtual->Proximo->Y); // DONKEY 2
+
+        pAtual = pAtual->Proximo;
+        cAtual = cAtual->Proximo;
+    }
+
+    free(cAtual);
+
+    // printf("posissaum final: (%i, %i)\n", pAtual->X, pAtual->Y); // DONKEY 2
+    return c->Inicio;
+}
+
+int CalcularDistanciaTotal(Caminho * c)
 {
     // TODO
 }
 
-int CalcularDistanciaTotal(Caminho * C)
+double CalcularDistanciaGeometrica(Caminho * c)
 {
     // TODO
 }
 
-double CalcularDistanciaGeometrica(Caminho * C)
+int CalcularDistanciaManhattan(Caminho * c)
 {
     // TODO
 }
 
-int CalcularDistanciaManhattan(Caminho * C)
-{
-    // TODO
-}
-
-int ContarInstrucoes(Caminho * C)
+int ContarInstrucoes(Caminho * c)
 {
     // TODO
 }
