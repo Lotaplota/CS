@@ -25,7 +25,7 @@ int main(void)
             system("cls");
             printf("%s\n", scratch("Buscando ocorreências do município de %s...", entradaUsuario));
 
-            char * resposta = gerarOcorrencias(entradaUsuario);
+            char * resposta = GerarOcorrencias(entradaUsuario);
             printf("%s\n", resposta);
         }
         else { Bye(); return 0; }
