@@ -6,7 +6,7 @@
 int main(void)
 {
     Expressao E;
-    strcpy(E.posFixa, "3 14 25 + 5 *");
+    strcpy(E.posFixa, "3 16 26 + 2 * /");
 
     getValor(E.posFixa);
 }
