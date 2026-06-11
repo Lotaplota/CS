@@ -6,7 +6,9 @@
 int main(void)
 {
     Expressao E;
-    strcpy(E.posFixa, "3 16 26 + 2 * /");
+    strcpy(E.posFixa, "2 3 + log 5 /");
 
-    getValor(E.posFixa);
+    E.Valor = getValor(E.posFixa);
+    strcpy(E.inFixa, getInFixa(E.posFixa));
+    printf("resultado: %f\n", E.Valor); // DONKEY
 }

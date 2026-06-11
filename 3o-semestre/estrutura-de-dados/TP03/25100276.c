@@ -4,6 +4,8 @@
 #include <math.h>
 #include "calculadora.h"
 
+#define PI 3.14159265358979323846
+
 typedef struct Item
 {
     char Chave[512]; // A chave será sempre uma string, nuhmeros seraum empilhados, enquanto operadores desempilharaum os dois uhltimos nuhmeros
@@ -40,6 +42,19 @@ Pilha * CriarPilha()
     return p;
 }
 
+void ExibirPilha(Pilha * p)
+{
+    printf("Pilha de tamanho %i\n", p->Tamanho);
+
+    int index = 1;
+
+    for (Item * atual = p->Topo; atual != NULL; atual = atual->Anterior)
+    {
+        printf("%i.\t%s\n", index, atual->Chave);
+        index++;
+    }
+}
+
 void Desempilhar(Pilha * p)
 {
     if (p->Tamanho <= 0)
@@ -59,11 +74,16 @@ void Desempilhar(Pilha * p)
 // Opera dois nuhmeros dependendo do operador passado
 float Operar(float a, float b, char * operator)
 {
+    printf("\t\toperando %f %s %f", a, operator, b); // DONKEY
     if (!strcmp(operator, "+")) return a + b;
     else if (!strcmp(operator, "-")) return a - b;
     else if (!strcmp(operator, "*")) return a * b;
     else if (!strcmp(operator, "/")) return a / b;
     else if (!strcmp(operator, "^")) return pow(a, b);
+    else if (!strcmp(operator, "sqrt")) return sqrt(b);
+    else if (!strcmp(operator, "log")) return log10(b);
+    else if (!strcmp(operator, "sen")) return sin(b * PI / 180);
+    else if (!strcmp(operator, "cos")) return cos(b * PI / 180);
     else
     {
         printf("Erro: %s eh um operador desconhecido\n", operator);
@@ -75,19 +95,27 @@ float Operar(float a, float b, char * operator)
 // o uhltimo eh o b, o penuhltimo eh o a
 void Calcular(Pilha * p, char * operador)
 {
-    float a = strtol(p->Topo->Anterior->Chave, NULL, 10);
-    float b = strtol(p->Topo->Chave, NULL, 10);
+    printf("\tcalculando a operassaum %s\n", operador); // DONKEY
+    float a = strtof(p->Topo->Anterior->Chave, NULL);
+    float b = strtof(p->Topo->Chave, NULL);
     float res = Operar(a, b, operador);
+    printf("\t\tresultado: %f\n", res); // DONKEY
 
     // Transformando o float de resultado em um string para ser armazenado
     int len = snprintf(NULL, 0, "%f", res);
     char * strres = malloc(len + 1);
     snprintf(strres, len + 1, "%f", res);
 
-    // Desempilhando o item do operando b e reescrevendo o resultado na chave do item no topo da fila
+    // Desempilhando o uhltimo item da fila apenas se for uma operassaum bahsica
+    if (strcmp("sqrt", operador) && strcmp("log", operador) && strcmp("sen", operador) && strcmp("cos", operador))
+    {
+        Desempilhar(p);
+    }
+    
+    // Reescrevendo o resultado na chave do item no topo da fila
     // Evita ter que empilhar um novo item ;^]
-    Desempilhar(p);
     strcpy(p->Topo->Chave, strres);
+    ExibirPilha(p); // DONKEY
 
     free(strres);
 }
@@ -95,13 +123,16 @@ void Calcular(Pilha * p, char * operador)
 // Empilha um novo item se o a chave puder ser convertida em float, se naum, verifica se eh um operador, se sim, opera os dois uhltimos nuhmeros da pilha
 void Empilhar(Pilha * p, Item * I)
 {
+    printf("empilhando %s\n", I->Chave); // donkey
     if (!p || !I)
     { perror("Naum hah pilha ou item."); return; }
 
-    if (!strtol(I->Chave, NULL, 10))
+    // Verifica se a chave atual eh um nuhmero, se naum for, calcula os dois uhltimos nuhmeros
+    char * endptr;
+    strtod(I->Chave, &endptr);
+    if (endptr == I->Chave) // nada foi parseado → é um operador
     {
         Calcular(p, I->Chave);
-
         return;
     }
 
@@ -110,28 +141,25 @@ void Empilhar(Pilha * p, Item * I)
     p->Tamanho++;
 }
 
-void ExibirPilha(Pilha * p)
-{
-    printf("Pilha de tamanho %i\n", p->Tamanho);
-
-    int index = 1;
-
-    for (Item * atual = p->Topo; atual != NULL; atual = atual->Anterior)
-    {
-        printf("%i.\t%s\n", index, atual->Chave);
-        index++;
-    }
-}
-
-float getValor(char * Str)
+float getValor(char * str)
 {
     Pilha * P = CriarPilha();
 
-    for (char * token = strtok(Str, " "); token != NULL; token = strtok(NULL, " "))
+    for (char * token = strtok(str, " "); token != NULL; token = strtok(NULL, " "))
     {
         Item * item = CriarItem(token);
         Empilhar(P, item);
     }
 
-    ExibirPilha(P);
+    float valor = strtof(P->Topo->Chave, NULL);
+
+    free(P->Topo);
+    free(P);
+
+    return valor;
+}
+
+char * getInFixa(char * str)
+{
+    // Professor... sei nem onde começar.
 }
