@@ -10,15 +10,17 @@ Extensões em .java e .class.
 #### Tipos
 byte
 int
-    inteiro de 32 bits
+: inteiro de 32 bits
+
 short
-    inteiro de 16 bits
+inteiro de 16 bits
 long
-    inteiro de 64 bits
+: inteiro de 64 bits
 boolean
 float
-    finaliza com f se não é lido como double
+: finaliza com f se não é lido como double
 double
+: 
 char
 - String
     é uma classe pré-definida
