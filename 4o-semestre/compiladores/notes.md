@@ -1,3 +1,4 @@
+## Aula 00
 Fortran (1957) foi o primeiro compilador de sucesso comercial (IBM 704)
 C for portability
 Tipos de processadores de linguagens (CLIMP)
@@ -8,12 +9,12 @@ Tipos de processadores de linguagens (CLIMP)
 - Pré-processadores
 
 4 etapas para o código-objeto
-**pré-processamento → compilação → assemblagem → linkagem → execução**
----
+: pré-processamento → compilação → assemblagem → linkagem → execução
+
 Interpretador
 : Diferente do compilador, o programa é executado a medida que é traduzido, linha por linha.
 > I remember when I used to play a little bit with python, some broken bits of my code were never flagged because they were never accessed.
----
+
 Linkador
 : Combina vários arquivos objeto gerados pelo montador em um único executável.
 
@@ -29,10 +30,15 @@ Pré-processador
 
 **!!** O código `gcc -E arquivo.c - o arquivo.i` roda a etapa de pré-processamento, sem compilar o `arquivo.i` gerado.
 
+O **transpilador** recebe o código-fonte em uma certa linguagem de programação e converte-o em código-fonte de outra linguagem.
+O **loader** é responsável por carregar o executável de um código-objeto na memória, e não o compilador.
+
+---
 ## Aula 01
 Alfabeto
 : É um conjunto finito de símbolos que são elementos básicos para formar cadeias.
-- São características dos alfabetos: 
+
+São características dos alfabetos: 
 - Finitude
 - Não-vazio
 - Atomicidade
