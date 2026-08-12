@@ -4,6 +4,7 @@
         "cmath": "c",
         "string.h": "c",
         "stdio.h": "c",
-        "estoque.h": "c"
+        "estoque.h": "c",
+        "stdlib.h": "c"
     }
 }
