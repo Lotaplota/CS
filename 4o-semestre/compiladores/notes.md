@@ -28,3 +28,15 @@ Pré-processador
 : É a limpeza inicial do código-fonte, definindo constantes e macros, desativando partes não-executáveis and fodder like whitespaces and comments.
 
 **!!** O código `gcc -E arquivo.c - o arquivo.i` roda a etapa de pré-processamento, sem compilar o `arquivo.i` gerado.
+
+## Aula 01
+Alfabeto
+: É um conjunto finito de símbolos que são elementos básicos para formar cadeias.
+- São características dos alfabetos: 
+- Finitude
+- Não-vazio
+- Atomicidade
+- Unicidade
+- Ausência de significado intrínseco
+
+*w* representa uma palavra, e |*w*| representa a quantidade de números utilizados nesta palavra.
