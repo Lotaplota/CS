@@ -1,8 +1,7 @@
 ## Notas
 - Modularidade: característica de um software que é constituido por unidades denominadas módulos
 - Legibilidade: capacidade de leitura e alguma coisa...
-
-- Encapsulamento
+- Encapsulamento: a habilidade de ocultar parte do código
 
 ### Java
 Linguagem criada em 1991, fortemente baseada em C e C++. O bytecode é uma camada intermediária, onde você cria uma JVM (Java Virtual Machine) faz interface com sistema operacional.
@@ -32,3 +31,10 @@ Os mesmos do C.
 Classes são organizadas em pacotes
 
 `static` significa que o método é da classe em si
+
+Atributos de classes
+- final
+- public
+- static
+- protected
+- static
