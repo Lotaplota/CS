@@ -1,14 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-int lenOf(char * a)
-{
-    int i = 0;
-    
-    while (a[i] != '\0') i++;
-
-    return i;
-}
+#include "./helpers.c"
 
 char * reverse(char * string)
 {
@@ -19,7 +11,9 @@ char * reverse(char * string)
         revstring[i] = string[lenOf(string) - i - 1];
     }
 
-    revstring[lenOf(string)] = '\0'; // CONTINUE FIX THIS
+    revstring[lenOf(string)] = '\0';
+
+    return revstring; // Jesus Christ I forgot to return the result...
 }
 
 int main(void)
