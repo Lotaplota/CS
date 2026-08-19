@@ -38,7 +38,7 @@ O **loader** é responsável por carregar o executável de um código-objeto na 
 ---
 ## Aula 01
 Alfabeto
-: É um conjunto finito de símbolos que são elementos básicos para formar cadeias.
+: É um conjunto finito de símbolos que são elementos básicos para formar cadeias. É normalmente representado pelo símbolo *Σ*.
 
 São características dos alfabetos: 
 - Finitude
@@ -48,3 +48,20 @@ São características dos alfabetos:
 - Ausência de significado intrínseco
 
 *w* representa uma palavra, e |*w*| representa a quantidade de números utilizados nesta palavra.
+
+## Aula 02
+Prefixos da palavra *w* = abcd
+<br>&emsp;λ *(prefixo trivial)*, a, ab, abc, *w*
+O símbolo λ representa o prefixo trivial
+
+Um **paradigma de programação** é um estilo ou modelo de pensar e estruturar programas, ou seja, um conjunto de conceitos, regras e formas de resolver problemas com uma linguagem de programação.
+
+São paradigmas de programação
+- Imperativo (programa como sequência de instruções). *Ex: C, Pascal*
+- Declarativa (programador descreve *o que* quer, *não* como) [TALVEZ seja equivalente a uma lookup table. O professor usou o exemplo `fatorial(n, f)`]
+- Funcional (baseadas em funções matemáticas, sem estado mutável). *Ex: Haskell, Lisp, F#*.
+- Orientadas a objetos (organizadas em classes e objetos, que são representações de abstrações). *Ex. Java, C*.
+- Lógicas ()
+- Concorrente / paralela (suporta a execução simultânea, a fim de diminuir tempo de execução)
+
+A **linguagem** é um conjunto de cadeias (símbolos) sobre um determinado alfabeto. Pode ser subdividido em linguagens *naturais* ou de *programação*.
