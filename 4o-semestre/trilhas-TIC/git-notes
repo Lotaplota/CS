@@ -1,0 +1,43 @@
+GitHub is a remote repository, agreed on to be used as a reference to all of the clones
+    version control doesn't require a remote repository, since every clone keeps track of every change made
+
+git advantages
+    rastreabilidade
+    author acknowledgement
+    motivation of changes
+
+diff allows us to compare what changes between different versions
+RCS: tool to keep track of changes in a local repository
+CVS, Subversion, Perforce: enabled centralized version control, with the advantage of better governance and disadvantage of depending in a central system
+git, Mercurial, Bazaar: enabled distributed version control
+
+BitKeeper, a proprietary distributed system, forced Linus to develop git
+idk why, but these are repeated a lot
+    - branches are light
+    - every commit has a hash
+    - the history forms a graph
+    - most of the operations are local
+
+are snapshots the little nodes?
+
+git main principles
+    - speed, integrity, descentralization, and non-linear development
+
+content is stored in blobs, repositories in trees
+"git preserva história estruturada e com autoria, mensagens e relações entre estados"
+!! git identifies objects using SHA-1 hashes, with 40 characters
+
+object | contains | related codes |
+-----
+blob | contents of a file | ´git hash-object´ ´git cat-file-p´
+tree | directory structure: names, permissions and hashes | ´git cat-file -p <tree hash>´
+commit | history. points to a tree and it's parent commit | ´git log´ ´git cat-file -p <hash>´
+tag | named reference to an important commit | ´git tag´
+
+the .git (the repository itself) contains two dimensions: the visible workspace and the hidden versioning infrastructure
+it is composed of these sections:
+    - ´objects/´: database containing the files, the blobs, the trees, etc
+    - ´refs/´: references to trees and commits
+    - ´HEAD´: information of the current 
+    - ´config´
+    - ´index´
