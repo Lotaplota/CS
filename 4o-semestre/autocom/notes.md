@@ -65,3 +65,19 @@ São paradigmas de programação
 - Concorrente / paralela (suporta a execução simultânea, a fim de diminuir tempo de execução)
 
 A **linguagem** é um conjunto de cadeias (símbolos) sobre um determinado alfabeto. Pode ser subdividido em linguagens *naturais* ou de *programação*.
+
+## Aula 03
+Σ^2 means the dot product (concatenation) *Σ x Σ*, but it can also mean "alphabet with all words of length 2".
+Analogicamente, *Σ^(<=3) ≡ Σ^(<3)*  é o alfabeto com todas as palavras de tamanho 2 ou menos.
+
+𝒫(Σ) é o *conjunto das partes* (power set) da linguagem L.
+
+O Fecho de Kleene de um conjunto de palavras (ou de um alfabeto) é o conjunto de todas as sequencias finitas que podem ser formadas a partir das concatenações das linguagens L^n tal que n >= 0, ou seja, todas as palavras de todos os tamanho, ou seja, todas as palavras possíveis de serem formadas a partir de um alfabeto.
+
+{01,1}^* = λ, 01, 1, 0101, 011, 101, 1
+> L^0 = λ<br>
+> L^1 = 01, 1<br>
+> L^2 = 0101, 011, 101, 11<br>
+> L^3 = 010101, 01011, 01101, 0111, 10101, 1011, 1101, 111<br>
+
+!! `readall();` is a useful function for the project
