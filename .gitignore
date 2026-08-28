@@ -1,11 +1,7 @@
 *.exe
 *.log
-<<<<<<< HEAD
 .vscode/
-=======
-*.vscode/
 *TP01/source/*.csv
->>>>>>> f21f4d39595731307ae4a446d53f9fbbe8fb22f5
 
 # Intellij IDEA
 .idea/

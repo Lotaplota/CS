@@ -39,5 +39,30 @@ it is composed of these sections:
     - ´objects/´: database containing the files, the blobs, the trees, etc
     - ´refs/´: references to trees and commits
     - ´HEAD´: information of the current 
-    - ´config´
-    - ´index´
+    - ´config´: local repository configurations
+    - ´index´: for the staging area
+
+O histórico git é um grafo acíclico direcionado (DAG)
+
+A file can be staged and modified at the same time, c'est-à-dire, staging a file creates a file as a snapshot
+This allows for atomic and selected commits.
+
+there are 4 basic states the files and folders can be in:
+    - untracked: git is not tracking this guy, mostly bc of the repository's .gitignore file
+    - modified
+    - staged
+    - committed
+
+`git config --global core.autocrlf input` is a must for Linux/MacOS users.
+
+In man (terminal manual), [] means optional parameters and <> means "troque pelo valor real".
+// idk why this was where it was on the git material...
+
+git's config scopes are:
+    - system: applies to all users
+    - global: applies to the current user // un peu contre-intuitif, je trouve...
+    - local: applies only to the local repository
+
+"Configurar corretamente não é formalidade, é o início da responsabilidade profissional no versionamento."
+// idk i just liked this phrase
+
