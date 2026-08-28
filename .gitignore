@@ -7,7 +7,11 @@
 *TP01/source/*.csv
 >>>>>>> f21f4d39595731307ae4a446d53f9fbbe8fb22f5
 
-# idk if this works
+# Intellij IDEA
+.idea/
+out/
+*.iml
+
 /node_modules/
 ./3o-semestre/estrutura-de-dados/TP01/source/*.csv
 2o-semestre/algoritmos-e-programacao-estruturada/*.csv

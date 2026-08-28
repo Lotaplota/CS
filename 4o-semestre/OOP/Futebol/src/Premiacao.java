@@ -17,9 +17,10 @@ public class Premiacao {
         if (ano < 1871 || ano > Year.now().getValue())
         {
             this.ano = esteAno;
-            System.out.println("Ano invahlido. Ano atual (" + esteAno + ") passado como parâmetro.");
+            System.out.printf("Ano invahlido. Ano atual (%d) passado como parâmetro.\n", esteAno);
         } else { this.ano = ano; }
     }
 
     public String GetTitulo() { return this.titulo; }
+    public int GetAno() { return this.ano; }
 }

@@ -1,12 +1,18 @@
 public class TimeDeFutebol
 {
     private final String nome;
-    Jogador[] jogadores;
-    Premiacao[] titulos;
+    private Jogador[] jogadores;
+    private Premiacao[] titulos;
+    private int qtJogadores;
+    private int qtTitulos;
 
-    public TimeDeFutebol(String nome)
+    public TimeDeFutebol(String nome, int lmtJogadores)
     {
         this.nome = nome;
+        this.jogadores = new Jogador[lmtJogadores];
+        this.qtJogadores = 0;
+        this.titulos = new Premiacao[99];
+        qtTitulos = 0;
     }
 
     public String getNome() { return this.nome; }
@@ -18,7 +24,9 @@ public class TimeDeFutebol
             if (jogadores[i] == null)
             {
                 jogadores[i] = jogador;
-                System.out.println("jogador inserido");
+                jogador.SetTime(this.nome);
+                qtJogadores++;
+                System.out.printf("Jogador %s inserido.\n", jogador.GetNome());
                 return;
             }
         }
@@ -30,12 +38,44 @@ public class TimeDeFutebol
     {
         for (int i = 0; i < jogadores.length; i++)
         {
-            if (jogadores[i].GetNome() == nomeJogador)
+            if (jogadores[i].GetNome().equals(nomeJogador))
             {
-                jogadores[i] = jogador;
-                System.out.println("jogador inserido");
+                jogadores[i].SetTime("");
+                jogadores[i] = null;
+                qtJogadores--;
+                System.out.printf("Jogador %s removido.\n", nomeJogador);
                 return;
             }
+        }
+        System.out.printf("Nenhum jogador com o nome %s foi encontrado.\n", nomeJogador);
+    }
+
+    public void ExibirJogadores()
+    {
+        if (jogadores.length < 1)
+        {
+            System.out.println("Este time ainda não possui jogadores.");
+        }
+
+        for (int i = 0; i < this.qtJogadores; i++)
+        {
+            System.out.printf("%d. %s\n", i, jogadores[i].GetNome());
+        }
+        System.out.println();
+    }
+
+    public void AdicionarTitulo(Premiacao titulo)
+    {
+        if (qtTitulos == titulos.length)
+        {
+            System.out.printf("n eh o %s q eu conhesso\n", this.nome);
+        }
+        else
+        {
+            titulos[qtTitulos] = titulo;
+            qtTitulos++;
+
+            System.out.printf("%s ganhou o título %s %d!\n", this.nome, titulo.GetTitulo(), titulo.GetAno());
         }
     }
 }
