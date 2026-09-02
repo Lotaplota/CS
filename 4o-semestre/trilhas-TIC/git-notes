@@ -66,3 +66,7 @@ git's config scopes are:
 "Configurar corretamente não é formalidade, é o início da responsabilidade profissional no versionamento."
 // idk i just liked this phrase
 
+## Atividade prática
+Devem haver ao menos 5 conventional commits.
+README deve conter título descrição, objetivos, tecnologias utilizadas, requisitos, modo de execução, estrutura de pastas, exemplos de uso, histórico resumido, autores, liçenças e referências.
+Utilizar git log --oneline para elaborar um CHANGELOG.md

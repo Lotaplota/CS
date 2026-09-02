@@ -81,3 +81,8 @@ O Fecho de Kleene de um conjunto de palavras (ou de um alfabeto) é o conjunto d
 > L^3 = 010101, 01011, 01101, 0111, 10101, 1011, 1101, 111<br>
 
 !! `readall();` is a useful function for the project
+
+## Aula 05
+
+Autômatos são máquinas abstratas com memória limitada, capazes de reconhecer padrões.
+Formalmente, o autômato finito é uma quíntupla: M = ( Q, Σ, ẟ, $DONKEY$) 0011101000
