@@ -38,3 +38,15 @@ Atributos de classes
 - static
 - protected
 - static
+
+## Aula 06
+
+Métodos da classe object:
+- clone()
+- finalize()
+- toString()
+- hashCode()
+- getClass()
+- equals()
+
+!! Classes abstratas não possuem instanciações;
