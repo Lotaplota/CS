@@ -86,3 +86,11 @@ O Fecho de Kleene de um conjunto de palavras (ou de um alfabeto) é o conjunto d
 
 Autômatos são máquinas abstratas com memória limitada, capazes de reconhecer padrões.
 Formalmente, o autômato finito é uma quíntupla: M = ( Q, Σ, ẟ, $DONKEY$) 0011101000
+
+## Aula 06
+
+São dois tipos de autômatos:
+- Autômato Finito Determinístico (AFD)
+- Autômato Finito Não-determinístico (AFN)
+
+ctype.h
