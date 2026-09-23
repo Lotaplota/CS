@@ -94,3 +94,8 @@ São dois tipos de autômatos:
 - Autômato Finito Não-determinístico (AFN)
 
 ctype.h
+
+## Aula 07
+
+`dot -Tpng automato.dot -o automato.png` gera uma .png do grafo
+`dot -Tjpg automato.dot -o automato.jpg` gera uma .jpg do grafo
