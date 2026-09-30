@@ -1,0 +1,11 @@
+digraph abc { // Grafo direcionado
+    rankdir = LR;
+    node[shape = circle, fontsize = 18];
+
+    p [shape = point];
+    q0 [label = "q0"];
+    q1 [label = "q1", shape = doublecircle];
+
+    p -> q0;
+    q0 -> q1 [label = "[0-9]"];
+}
