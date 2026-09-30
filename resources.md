@@ -2,6 +2,7 @@
 
 [SVG Path Visualizer](https://svg-path-visualizer.netlify.app)
 [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables)
+[Regex tester and debugger](https://regex101.com/)
 
 ## C
 

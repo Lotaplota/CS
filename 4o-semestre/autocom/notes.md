@@ -67,6 +67,7 @@ São paradigmas de programação
 
 A **linguagem** é um conjunto de cadeias (símbolos) sobre um determinado alfabeto. Pode ser subdividido em linguagens *naturais* ou de *programação*.
 
+---
 ## Aula 03
 Σ^2 means the dot product (concatenation) *Σ x Σ*, but it can also mean "alphabet with all words of length 2".
 Analogicamente, *Σ^(<=3) ≡ Σ^(<3)*  é o alfabeto com todas as palavras de tamanho 2 ou menos.
@@ -101,3 +102,34 @@ São dois tipos de autômatos:
 
 `dot -Tpng automato.dot -o automato.png` gera uma .png do grafo
 `dot -Tjpg automato.dot -o automato.jpg` gera uma .jpg do grafo
+
+---
+## Aula 08
+### Regex
+Em regex, `?` é utilizado receber 0 ou mais repetições do caractere à sua esquerda.
+`[]` define um conjunto de caracteres, `[abc]` = *{a, b, c}*
+`[^]` representa a exclusão de um conjunto `[^abc]` = *α - {a, b, c}*
+`^abc` indicaque o texto tem que começar com *abc*
+`xyz$` indica que o texto tem que terminar com *xyz*
+`^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$` as a *simple* e-mail regex
+`0*1(1*0[0-1])*` can you remember what automaton this was for?
+
+### Gramáticas
+> Conjunto de regras formais que descrevem a estrutura válida de expressões em uma linguagem
+
+ou
+
+> Uma quádrupla *G = (V, Σ, P, S)* onde 
+> - **V** é um conjunto finito de variáveis
+> - **Σ** é o alfabeto, ou *o conjunto dos elementos terminais*
+> - **P** é o conjunto finito de regras de produção
+> - **S** é o símbolo inicial (eoq?)
+
+`<...>` é uma categoria sintática gramatical (uma variável). Ex: `<verbo>`
+`::=` significa *"definido por"*.
+`|` indica alternativa (ou)
+`α ::= β` *"isso é definido por aquilo"*
+
+Exemplos:
+- `<sentença> ::= <sujeito> <predicado>`
+- `<artigo> ::= o | a`
