@@ -49,6 +49,7 @@ São características dos alfabetos:
 
 *w* representa uma palavra, e |*w*| representa a quantidade de números utilizados nesta palavra.
 
+---
 ## Aula 02
 Prefixos da palavra *w* = abcd
 <br>&emsp;λ *(prefixo trivial)*, a, ab, abc, *w*
@@ -82,19 +83,20 @@ O Fecho de Kleene de um conjunto de palavras (ou de um alfabeto) é o conjunto d
 
 !! `readall();` is a useful function for the project
 
+---
 ## Aula 05
 
 Autômatos são máquinas abstratas com memória limitada, capazes de reconhecer padrões.
 Formalmente, o autômato finito é uma quíntupla: M = ( Q, Σ, ẟ, $DONKEY$) 0011101000
 
+---
 ## Aula 06
 
 São dois tipos de autômatos:
 - Autômato Finito Determinístico (AFD)
 - Autômato Finito Não-determinístico (AFN)
 
-ctype.h
-
+---
 ## Aula 07
 
 `dot -Tpng automato.dot -o automato.png` gera uma .png do grafo
