@@ -50,3 +50,8 @@ Métodos da classe object:
 - equals()
 
 !! Classes abstratas não possuem instanciações;
+
+## Aula 07
+> I didn't actually went to class this day, so this is just me trying to learn at home from the material.
+
+Caixas de diálogo modais são aquelas que não saem da sua tela enquanto você não interagir com elas.
