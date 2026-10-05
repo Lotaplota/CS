@@ -4,14 +4,14 @@ Create a small window where the user can add tasks to a list and mark options ab
 ## Requirements
 1. The window (JFrame)
 
-- [ ] Title: "My Task List"
+- [X] Title: "Task Manager"
 - [x] Size around 400x350, closes the program when the X is clicked, centered on screen.
 
 2. Menu (JMenuBar, JMenu, JMenuItem)
 
-- [ ] A File menu with two items:<br>
-Clear List: removes all tasks from the list<br> 
-Exit: closes the program
+- A File menu with two items:
+- [X] Clear List: removes all tasks from the list<br> 
+- [X] Exit: closes the program
 
 3. Top area (JPanel)
 
