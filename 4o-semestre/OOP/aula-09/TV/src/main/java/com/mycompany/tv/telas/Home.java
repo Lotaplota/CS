@@ -4,27 +4,25 @@
  */
 package com.mycompany.tv.telas;
 
+import java.util.ArrayList;
+
+import javax.swing.JOptionPane;
+
 import com.mycompany.tv.midia.Filme;
 import com.mycompany.tv.midia.Multimidia;
 import com.mycompany.tv.midia.Serie;
-import java.util.ArrayList;
-import javax.swing.JOptionPane;
 
 /**
  *
  * @author jefferson.rodrigues
  */
-public class Home extends javax.swing.JFrame {
-
+public class Home extends javax.swing.JFrame
+{
     private static ArrayList<Multimidia> lista;
-
     private static int pos = 0;
 
     private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(Home.class.getName());
 
-    /**
-     * Creates new form Home
-     */
     public Home() {
         initComponents();
         exibir();
@@ -37,8 +35,8 @@ public class Home extends javax.swing.JFrame {
      */
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
-    private void initComponents() {
-
+    private void initComponents()
+    {
         lbMultimidia = new javax.swing.JLabel();
         btVoltar = new javax.swing.JButton();
         btAvancar = new javax.swing.JButton();
