@@ -15,9 +15,9 @@ Create a small window where the user can add tasks to a list and mark options ab
 
 3. Top area (JPanel)
 
-A JLabel with the text "New task:"
-A JTextField where the user types the task
-A JButton labeled "Add"
+- [X] A JLabel with the text "New task:"
+- [X] A JTextField where the user types the task
+- [X] A JButton labeled "Add"
 
 4. Center area
 
