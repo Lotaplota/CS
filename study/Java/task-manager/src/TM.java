@@ -1,4 +1,4 @@
-import java.awt.FlowLayout;
+import java.awt.*;
 import java.awt.event.KeyEvent;
 
 import javax.swing.DefaultListModel;
@@ -16,7 +16,7 @@ import javax.swing.JTextField;
 
 public class TM
 {
-    public static void main(String args[])
+    void main(String args[])
     {
         JFrame win = new JFrame("Task Manager");
         win.setSize(400, 350);
@@ -95,9 +95,9 @@ public class TM
         menu1.add(jmiExit);
     
         // ---- PANEL LAYERING ----
-        win.add(topPanel);
-        win.add(centerPanel);
-        win.add(bottomPanel);
+        win.add(topPanel, BorderLayout.NORTH);
+        win.add(centerPanel, BorderLayout.NORTH);
+        win.add(bottomPanel, BorderLayout.NORTH);
     
         // Making the window visible
         win.setVisible(true);
