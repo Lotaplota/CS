@@ -1,3 +1,3 @@
 public interface Diagonalizavel {
-    public double getDiagonais();
+    double getDiagonais();
 }

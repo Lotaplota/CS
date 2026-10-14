@@ -12,8 +12,9 @@ void main() {
 
     formas.forEach(forma -> {
         System.out.println(forma);
-        System.out.println("Ahrea (cm²): " + forma.getArea("cm²") +
-                "\nPerihmetro (cm): " + forma.getPerimetro("cm") + "\n"
+        System.out.println("- Valores derivados (cm):" +
+                "\n\tAhrea: " + forma.getArea("cm²") +
+                "\n\tPerihmetro: " + forma.getPerimetro("cm") + "\n"
         );
     });
 
