@@ -14,6 +14,11 @@ public class Triangulo extends FormaGeometrica
         this.lado2 = lado2;
     }
 
+    public Triangulo (double lado) {
+        base = lado1 = lado2 = lado;
+        altura = calcularAltura(lado, lado, lado);
+    }
+
     public static Triangulo deBaseAlturaELado(double base, double altura, double lado) {
         double lado2 = calcular3oLado(base, altura, lado);
         return new Triangulo(base, altura, lado, lado2);
@@ -39,9 +44,23 @@ public class Triangulo extends FormaGeometrica
         return ( 2 * a ) / base;
     }
 
+    public String getTipo() {
+        if (base == lado1 && lado1 == lado2) { return "equilahtero"; }
+        else if (base == lado1 || lado1 == lado2) { return "isohsceles"; }
+        else { return "escaleno"; }
+    }
+
     @Override
     public double getArea() { return base * altura / 2; }
 
     @Override
     public double getPerimetro() { return base + lado1 + lado2; }
+
+    @Override
+    public String toString() {
+        return "---- " + getClass().getSimpleName() + " " + getTipo() + " ----" +
+            "\nBase: " + base + ", altura: " + altura + " lado 1: " + lado1 + " lado 2: " + lado2 +
+            "\nAhrea: " + this.getArea() +
+            "\nPerihmetro: " + this.getPerimetro();
+    }
 }
