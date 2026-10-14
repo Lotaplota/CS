@@ -27,11 +27,9 @@ public class Triangulo extends FormaGeometrica
     private static double calcular3oLado(double b, double h, double l) {
         double kbs = sqrt( (l * l) - (h * h) );
         double ubs = b - kbs;
-        if (kbs > b) {
-            ubs *= -1;
-        }
+        if (kbs > b) { ubs *= -1; }
 
-        return sqrt(h * h + ubs + ubs);
+        return sqrt(h * h + ubs * ubs);
     }
 
     private static double calcularAltura(double lado1, double lado2, double base) {
