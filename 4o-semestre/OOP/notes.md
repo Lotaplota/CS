@@ -55,3 +55,19 @@ Métodos da classe object:
 > I didn't actually went to class this day, so this is just me trying to learn at home from the material.
 
 Caixas de diálogo modais são aquelas que não saem da sua tela enquanto você não interagir com elas.
+
+## Aula 10 - Design Patterns
+### Padrões criacionais
+- **Singleton** garante que uma classe tenha apenas uma instância e fornece um ponto de acesso global a ela.
+    `if (instance == null) {return new Singleton}`
+- **Factory Method** define uma interface para criar um objeto, mas permite que as subclasses alterem o tipo de objeto que será criado.
+
+### Padrões estruturais
+- **Adapter** permite que interfaces incompatíveis trabalhem juntas, convertendo a interface de uma classe em outra que o cliente espera.
+- **Facade** fornece uma interface simplificada para um subsistema complexo.
+
+### Padrões comportamentais
+- **Observer** define uma dependência um-para-muitos entre objetos, e quando um é alterado, todos os seus dependentes são acionados.
+- **State** simula uma máquina com diversos estados possíveis, e em cada um desses estados, a máquina se comporta de uma maneira diferente.
+- **Strategy** define classes que possuem uma ação em comum *(ex: `execute()`)*, mas cada uma possui sua maneria própria de manifestar essa ação.
+- **Template Method** define o esqueleto de um algoritmo em uma operação, adiando alguns passos para a subclasse(?)
