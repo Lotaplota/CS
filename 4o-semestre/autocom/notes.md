@@ -133,3 +133,18 @@ ou
 Exemplos:
 - `<sentença> ::= <sujeito> <predicado>`
 - `<artigo> ::= o | a`
+
+## Aula 09
+### Hierarquia de Chomsky
+Linguagens podem ser divididas em quatro classes
+Tipo | Linguagem | Gramática | Máquina de aceitação
+---|---|---|---
+0 | Recursivamente enumerável |  Irrestrita | Máq. de Turing com fita infinita
+1 | Linguagens sensíveis ao contexto | Sensível ao contexto | Máq. de Turing com fita finita
+2 | Linguagens livres de contexto | Livre de contexto | 
+3 | Linguagens regulares | Gramática regular e RegEx | 
+
+Uma gramática é **irrestrita** quando todos os primeiros lados das regras contém pelo menos um terminal
+<!-- ^ fix this ^ -->
+<!-- should do the exercises on this class -->
+<!-- read the syntax thing that the professor posted -->
