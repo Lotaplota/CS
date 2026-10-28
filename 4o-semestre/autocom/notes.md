@@ -134,7 +134,7 @@ Exemplos:
 - `<sentença> ::= <sujeito> <predicado>`
 - `<artigo> ::= o | a`
 
-## Aula 09
+## Aula 10
 ### Hierarquia de Chomsky
 Linguagens podem ser divididas em quatro classes
 Tipo | Linguagem | Gramática | Máquina de aceitação
@@ -148,3 +148,7 @@ Uma gramática é **irrestrita** quando todos os primeiros lados das regras cont
 <!-- ^ fix this ^ -->
 <!-- should do the exercises on this class -->
 <!-- read the syntax thing that the professor posted -->
+
+## Aula 11
+A *regra do maior encaixe* faz com que o compilador busque caracteres semelhantes a fim de encontrar a sequência de maior tamanho, de forma que ela faça sentido.
+> O [analisador léxico](./aula-11/lexico.c) feito na aula é MUITO importante.<br>**Leia-o!** 
