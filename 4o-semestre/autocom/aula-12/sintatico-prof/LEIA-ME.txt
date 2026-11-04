@@ -5,7 +5,7 @@ lexico.h / lexico.c: tipos e funcoes do lexico fornecido.
 sintatico.h / sintatico.c: parser descendente recursivo e AST.
 
 COMPILACAO (na pasta dos arquivos)
-gcc -std=c11 -Wall -Wextra -Wpedantic main.c lexico.c sintatico.c -o analisador
+gcc -std=c11 -Wall -Wextra -Wpedantic main.c lexico.c sintatico.c -o analisador.exe
 
 EXECUCAO
 Windows: analisador.exe

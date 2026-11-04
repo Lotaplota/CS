@@ -11,3 +11,6 @@ out/
 /node_modules/
 ./3o-semestre/estrutura-de-dados/TP01/source/*.csv
 2o-semestre/algoritmos-e-programacao-estruturada/*.csv
+
+# Analisador Sintático
+/4o-semestre/autocom/aula-12/sintatico-prof/arvore.dot

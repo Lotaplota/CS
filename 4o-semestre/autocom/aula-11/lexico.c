@@ -38,7 +38,7 @@ void iniciar(Scanner * sc, char * texto);
 void avancar(Scanner * sc);
 void pular_espacos(Scanner * sc);
 
-Token criar_token_texto(Scanner *sc, TipoToken tipo, char *ini, size_t n, int lin, int col);
+Token popular_token(Scanner *sc, TipoToken tipo, char *ini, size_t n, int lin, int col);
 Token token_simples(Scanner *sc, TipoToken tipo);
 Token token_erro_msg(Scanner *sc, char *msg);
 Token coletar_inteiro(Scanner *sc);
@@ -113,7 +113,7 @@ void pular_espacos(Scanner *sc) {
 }
 
 Token token_erro_msg(Scanner *sc, char *msg){
-    return criar_token_texto(
+    return popular_token(
         sc,
         TOKEN_ERRO,
         msg,
@@ -127,12 +127,12 @@ Token token_simples(Scanner *sc, TipoToken tipo) {
     int lin = sc->linha, col = sc->coluna;
     char ch = sc->c;
     avancar(sc);
-    return criar_token_texto(sc, tipo, &ch, 1, lin, col);
+    return popular_token(sc, tipo, &ch, 1, lin, col);
 }
 
 Token proximo_token(Scanner *sc){
     pular_espacos(sc);
-    if(sc->c=='\0') return criar_token_texto(sc, TOKEN_FIM, "", 0, sc->linha, sc->coluna);
+    if(sc->c=='\0') return popular_token(sc, TOKEN_FIM, "", 0, sc->linha, sc->coluna);
     if(isdigit((unsigned char)sc->c)) return coletar_inteiro(sc);
     switch(sc->c){
         case '+': return token_simples(sc, TOKEN_MAIS);
@@ -150,7 +150,7 @@ Token proximo_token(Scanner *sc){
     }
 }
 
-Token criar_token_texto(Scanner *sc, TipoToken tipo, char *ini, size_t n, int lin, int col){
+Token popular_token(Scanner *sc, TipoToken tipo, char *ini, size_t n, int lin, int col){
 (void)sc;
 Token t; t.tipo=tipo; t.lexema=str_ndup(ini,n); t.linha=lin; t.coluna=col; return t;
 }
@@ -160,5 +160,5 @@ int lin=sc->linha, col=sc->coluna;
 size_t ini = sc->i;
 if(!isdigit((unsigned char)sc->c)) return token_erro_msg(sc, "Inteiro malformado");
 while(isdigit((unsigned char)sc->c)) avancar(sc);
-return criar_token_texto(sc, TOKEN_INTEIRO, sc->src+ini, sc->i-ini, lin, col);
+return popular_token(sc, TOKEN_INTEIRO, sc->src+ini, sc->i-ini, lin, col);
 }

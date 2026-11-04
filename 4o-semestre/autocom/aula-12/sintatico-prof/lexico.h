@@ -22,11 +22,11 @@ typedef struct {
 } Token;
 
 typedef struct {
-    char * src; 
-    int linha;
-    int coluna;
-    int i;
-    char c;
+    char * src; // String geradora (a ser lexicada e sintaticada)
+    int linha;  // Linha atual do scanner
+    int coluna; // Coluna atual do scanner
+    int i;      // Quantidade de caracteres lidos
+    char c;     // Caractere atual
 } Scanner;
 
 
@@ -37,7 +37,7 @@ void iniciar(Scanner * sc, char * texto);
 void avancar (Scanner * sc);
 void pular_espacos(Scanner * sc);
 
-Token criar_token_texto (Scanner * sc, TipoToken tipo, char *ini, int n, int lin, int col);
+Token popular_token (TipoToken tipo, char *ini, int n, int lin, int col);
 Token token_simples(Scanner * sc, TipoToken tipo);
 Token token_erro_msg (Scanner * sc, char * msg);
 Token coletar_inteiro (Scanner * sc);

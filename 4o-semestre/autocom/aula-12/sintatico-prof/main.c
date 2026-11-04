@@ -6,6 +6,8 @@
 
 int main(void) {
     char entrada[1024];
+    
+    // Verifica se a string digitada pelo usuário é válida
     puts("Digite uma expressao (ate 1023 caracteres):");
     if (!fgets(entrada, sizeof(entrada), stdin)) {
         fprintf(stderr, "Nao foi possivel ler a expressao.\n");
@@ -23,7 +25,7 @@ int main(void) {
     Scanner scanner;
     iniciar(&scanner, entrada);
     puts("Linha\tColuna\tLexema\tToken");
-    for (;;) {
+    for (;;) { // Loop infinito
         Token t = proximo_token(&scanner);
         TipoToken tipo = t.tipo;
         printf("%d\t%d\t%s\t%s\n", t.linha, t.coluna, t.lexema, nome_token(tipo));
