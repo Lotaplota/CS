@@ -152,3 +152,13 @@ Uma gramática é **irrestrita** quando todos os primeiros lados das regras cont
 ## Aula 11
 A *regra do maior encaixe* faz com que o compilador busque caracteres semelhantes a fim de encontrar a sequência de maior tamanho, de forma que ela faça sentido.
 > O [analisador léxico](./aula-11/lexico.c) feito na aula é MUITO importante.<br>**Leia-o!** 
+
+## Aula 12
+### Análise sintática
+*Resolution of slide 9*
+> `S → print(L)`
+> `→ print(L, E)`
+> `→ print(E, E)`
+> `→ print(E + E, E)`
+> `→ print(4 + 6, E)`
+> `→ print(4 + 6, x)`
