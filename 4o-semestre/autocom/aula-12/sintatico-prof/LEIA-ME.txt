@@ -1,0 +1,48 @@
+PROJETO: EXPRESSOES ARITMETICAS
+
+main.c: leitura de uma linha, exibicao de tokens e chamada do parser.
+lexico.h / lexico.c: tipos e funcoes do lexico fornecido.
+sintatico.h / sintatico.c: parser descendente recursivo e AST.
+
+COMPILACAO (na pasta dos arquivos)
+gcc -std=c11 -Wall -Wextra -Wpedantic main.c lexico.c sintatico.c -o analisador
+
+EXECUCAO
+Windows: analisador.exe
+Linux/macOS: ./analisador
+Digite uma expressao e pressione Enter.
+
+EXEMPLO
+(2 + (3 - 9)) * (5 - 9) / 2 * (1 - 7 + 6)
+
+SAIDAS
+Tokens, AST no terminal e arvore.dot na pasta de execucao.
+Para converter a arvore com Graphviz instalado:
+dot -Tpng arvore.dot -o arvore.png
+O programa nao chama comandos externos automaticamente.
+
+GRAMATICA
+E -> T { ('+' | '-') T }
+T -> U { ('*' | '/') U }
+U -> ('+' | '-') U | P
+P -> F [ '^' U ]
+F -> INTEIRO | '(' E ')'
+
+Soma, subtracao, multiplicacao e divisao associam a esquerda.
+Potencia associa a direita: 2^3^2 = 2^(3^2).
+Potencia precede sinal unario: -2^2 = -(2^2).
+2^-3 e aceito. A AST representa sinais unarios com left == NULL.
+O programa apenas analisa: nao calcula resultados nem detecta divisao por zero.
+Aceita inteiros, nao aceita variaveis, decimais ou multiplicacao implicita.
+Entrada limitada a 1023 caracteres por linha e aninhamento a 256 niveis.
+
+ALTERACOES NO LEXICO
+Removido conio.h, que nao era usado.
+Separados tipos/prototipos no cabecalho e implementacoes no arquivo .c.
+Corrigido snprintf: sizeof(msg) substitui strlen(msg) em buffer nao inicializado.
+A posicao do erro e capturada antes de avancar sobre o caractere invalido.
+Mantidos TipoToken, Token, Scanner e os nomes das funcoes originais.
+Os lexemas dos tokens e da AST sao liberados por seus respectivos consumidores.
+
+O parser recebe Scanner*, em vez do TokenVec usado nos slides.
+main.c reinicia o Scanner apos mostrar os tokens para permitir a segunda passagem.
