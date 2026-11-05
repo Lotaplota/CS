@@ -14,3 +14,4 @@ out/
 
 # Analisador Sintático
 /4o-semestre/autocom/aula-12/sintatico-prof/arvore.dot
+*.lst
