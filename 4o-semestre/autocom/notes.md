@@ -154,7 +154,7 @@ A *regra do maior encaixe* faz com que o compilador busque caracteres semelhante
 > O [analisador léxico](./aula-11/lexico.c) feito na aula é MUITO importante.<br>**Leia-o!** 
 
 ## Aula 12
-### Análise sintática
+### Análise Sintática
 *Resolution of slide 9*
 > `S → print(L)`
 > `→ print(L, E)`
@@ -162,3 +162,7 @@ A *regra do maior encaixe* faz com que o compilador busque caracteres semelhante
 > `→ print(E + E, E)`
 > `→ print(4 + 6, E)`
 > `→ print(4 + 6, x)`
+
+## Aula 13
+### Checagem Semântica
+Tipagem estática ocorre no momento da compilação, enquanto tipagem dinâmica ocorre no momento da execução.
